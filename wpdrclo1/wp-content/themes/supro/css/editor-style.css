@@ -1,0 +1,619 @@
+/*
+Theme Name: Supro
+Description: Used to style the TinyMCE editor.
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Body
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Alignment
+ * 5.0 - Galleries
+ */
+
+/**
+ * 1.0 - Body
+ */
+
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-extrabold-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-extrabold-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-extrabolditalic-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-extrabolditalic-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-bold-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-bolditalic-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-bolditalic-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-italic-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-light-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-lightitalic-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-lightitalic-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-medium-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-mediumitalic-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-mediumitalic-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-regular-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-italic-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-italic-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-semibold-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-semibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('../fonts/cerebrisans-semibolditalic-webfont.woff2') format('woff2'), url('../fonts/cerebrisans-semibolditalic-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+body {
+    color: #777777;
+    font-size: 16px;
+    font-family: 'Cerebri Sans', Arial, sans-serif;
+    line-height: 1.6;
+    background: #fff;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    font-weight: 400;
+}
+
+/**
+ * 2.0 - Typography
+ */
+
+a {
+    color: #222;
+    text-decoration: none;
+    outline: 0;
+    transition: 0.5s;
+}
+
+a:visited {
+    color: #222;
+    outline: 0;
+}
+
+a:hover, a:focus, a:active {
+    color: #222;
+    text-decoration: none;
+    outline: 0;
+}
+
+a img {
+    border: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    color: #222;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+h6 {
+    font-size: 12px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h1 {
+    font-size: 36px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h2 {
+    font-size: 30px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h3 {
+    font-size: 24px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h4 {
+    font-size: 18px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h5 {
+    font-size: 14px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h6 {
+    font-size: 12px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce li, .wp-block-freeform.block-library-rich-text__tinymce p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul ul,
+ol ul {
+    list-style-type: square;
+}
+
+p {
+    margin-bottom: 1.5em;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.mce-content-body {
+    line-height: 1.6;
+}
+
+.has-small-font-size {
+    font-size: 13px;
+}
+
+.has-normal-font-size, .has-regular-font-size {
+    font-size: 16px;
+}
+
+.has-large-font-size {
+    font-size: 36px;
+}
+
+/**
+ * 3.0 - Elements
+ */
+
+hr {
+    background-color: #bbb;
+    border: 0;
+    height: 1px;
+    margin-bottom: 1.5em;
+}
+
+input[type=text],
+textarea {
+    border: 2px solid #eaeaea;
+    background: #fff;
+}
+
+blockquote {
+    font-size: 30px;
+    color: #222;
+    font-style: italic;
+    font-weight: 600;
+    margin: 0;
+    padding: 35px 0 20px;
+    line-height: 1.5;
+    position: relative;
+    border: 0;
+}
+blockquote:after {
+    content: '\7b';
+    position: absolute;
+    top: 23px;
+    left: -7px;
+    color: #eaeaea;
+    font-size: 84px;
+    font-family: ElegantIcons;
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+    line-height: 50px;
+    z-index: 1;
+}
+
+blockquote cite a {
+    color: #f68872;
+}
+
+blockquote p {
+    margin: 0;
+    position: relative;
+    z-index: 9;
+    font-size: 30px;
+}
+
+.wp-block-quote,
+.wp-block-quote.is-large,
+.wp-block-quote.is-style-large {
+    margin: 0;
+    padding: 35px 0 20px;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large) {
+    border-left: 0;
+    padding: 35px 0 20px;
+    font-size: 16px;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large) p {
+    font-size: 16px;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large):after {
+    top: 15px;
+    font-size: 58px;
+}
+
+blockquote cite,
+blockquote .wp-block-quote__citation,
+.wp-block-pullquote__citation,
+.wp-block-quote.is-large cite,
+.wp-block-quote.is-large .wp-block-quote__citation,
+.wp-block-quote.is-style-large cite,
+.wp-block-quote.is-style-large .wp-block-quote__citation {
+    display: block;
+    font-size: 12px;
+    font-style: normal;
+    padding-top: 25px;
+    color: #f68872;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.75px;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large) .wp-block-quote__citation,
+.wp-block-quote:not(.is-large):not(.is-style-large) cite {
+    font-size: 11px;
+    padding-top: 20px;
+}
+
+.wp-block-pullquote blockquote {
+    padding: 0;
+}
+
+.wp-block-pullquote blockquote p {
+    margin-bottom: 0;
+}
+
+.wp-block-pullquote blockquote:after {
+    top: -7px;
+}
+
+.wp-block-code {
+    font-size: 14px;
+    color: #23282d;
+    padding: .8em 1em;
+    border: 1px solid #e2e4e7;
+    border-radius: 4px;
+    background-color: #eee;
+}
+
+.wp-block-code .editor-plain-text {
+    background-color: #eee !important;
+}
+
+.wp-block-quote.is-large cite,
+.wp-block-quote.is-style-large cite,
+.wp-block-quote.is-large .wp-block-quote__citation,
+.wp-block-quote.is-style-large .wp-block-quote__citation {
+    text-align: right;
+}
+
+
+pre {
+    background: #f5f5f5;
+    color: #666;
+    font-family: monospace;
+    font-size: 1em;
+    margin: 20px 0;
+    overflow: auto;
+    padding: 20px;
+    word-wrap: break-word;
+    border: 1px solid #eaeaea;
+    white-space: pre;
+    line-height: 1.42857143;
+}
+
+.wp-block-preformatted pre {
+    line-height: 1.42857143;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-width: 0;
+}
+
+caption,
+td,
+th {
+    padding: 0;
+    font-weight: normal;
+    text-align: left;
+}
+
+th,
+td {
+    border: 1px solid #eaeaea;
+}
+
+th {
+    font-weight: 400;
+}
+
+th,
+td {
+    padding: 0.4375em;
+}
+
+dl {
+    margin: 0 0 1.75em;
+}
+
+dd {
+    margin: 0 0 1.75em;
+}
+
+.is-style-outline .wp-block-button__link {
+    border-width: 1px;
+    background: 0 0;
+}
+
+ul.wp-block-categories, .wp-block-categories ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.wp-block-categories ul, .wp-block-categories ul ul {
+    list-style: none;
+    margin: 10px 0 0 0;
+    padding: 0 0 0 20px;
+}
+
+.wp-block-categories li a {
+    font-size: 15px;
+    color: #999;
+}
+
+ul.wp-block-archives {
+    list-style: none;
+    margin: 0 0 1em;
+    padding: 0;
+}
+
+.wp-block-categories li a:hover {
+    color: #222;
+}
+
+ul.wp-block-categories .wp-block-categories__post-count, .wp-block-categories ul .wp-block-categories__post-count {
+    float: right;
+}
+
+ul.wp-block-latest-posts, .wp-block-latest-posts ul {
+    list-style: none;
+    margin: 0 0 1em;
+    padding: 0;
+}
+
+.wp-block-latest-posts li a {
+    color: #999;
+}
+
+.wp-block-latest-posts li a:hover {
+    color: #222;
+}
+
+.wp-block-categories select {
+    padding: 10px;
+    border: 2px solid #eaeaea;
+    color: #000;
+    line-height: 1;
+    height: auto;
+    border-radius: 0;
+}
+
+.wp-block-categories select {
+    padding: 10px;
+    border: 2px solid #eaeaea;
+    color: #222;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.wp-block-table .wp-block-table__cell-content {
+    padding: 0;
+}
+
+.wp-block-image {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 1.5em;
+}
+
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 1.5em;
+}
+
+.wp-caption {
+    padding: 5px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.wp-caption-dd {
+    font-size: small;
+    margin: 0;
+    padding: 5px 0 0;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce code {
+    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+    font-size: 15px;
+    border-radius: 4px;
+    padding: 2px 4px;
+    color: #23282d;
+    border: 1px solid #eee;
+    background-color: #eee;
+    line-height: 1;
+}
+
+.wp-block-gallery {
+    padding: 0;
+    margin: 0;
+}
+
+/**
+ * 4.0 - Alignment
+ */
+
+img {
+    height: auto; /* Make sure images are scaled correctly. */
+    width: inherit; /* Make images fill their parent's space. Solves IE8. */
+    max-width: 100%; /* Adhere to container width. */
+}
+
+embed,
+iframe,
+object {
+    margin-bottom: 1.5em;
+    max-width: 100%;
+}
+
+/**
+ * 5.0 - Galleries
+ */
+
+.gallery {
+    margin-bottom: 1.5em;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+.gallery-item {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+    margin: 0;
+    padding: 7px;
+}
+
+.gallery-columns-2 .gallery-item {
+    max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+    max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+    max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+    max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+    max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+    max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+    max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+    max-width: 11.11%;
+}
+
+.gallery-columns-10 .gallery-item {
+    max-width: 10%;
+}
+
+.gallery-caption {
+    display: block;
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption,
+.gallery-columns-10 .gallery-caption {
+    display: none;
+}

@@ -1,0 +1,355 @@
+.btn-primary() {
+	font-size: 12px;
+	font-weight: 700;
+	color: @light;
+	text-align: center;
+	display: inline-block;
+	height: 50px;
+	line-height: 48px;
+	padding: 0 40px;
+	background-color: #222;
+	text-transform: uppercase;
+	border: 0;
+	box-shadow: none;
+	letter-spacing: 0.75px;
+	transition: 0.5s;
+
+	&:hover,
+	&:focus,
+	&:active,
+	&:active:hover,
+	&:active:focus {
+		color: @light;
+		border: 0;
+		box-shadow: none;
+		outline: none;
+		background-color: #222;
+	}
+}
+
+.btn-primary {
+	.btn-primary()
+}
+
+.btn-secondary() {
+	font-size: 12px;
+	font-weight: 700;
+	color: @dark;
+	text-align: center;
+	display: inline-block;
+	height: 50px;
+	line-height: 48px;
+	padding: 0 40px;
+	background-color: transparent;
+	text-transform: uppercase;
+	border: 1px solid #000;
+	box-shadow: none;
+	letter-spacing: 0.75px;
+	transition: 0.5s;
+
+	&:hover,
+	&:focus,
+	&:active,
+	&:active:hover,
+	&:active:focus {
+		color: @dark;
+		border: 1px solid #000;
+		box-shadow: none;
+		outline: none;
+		background-color: transparent;
+	}
+}
+
+.btn-secondary {
+	.btn-secondary()
+}
+
+.btn-3() {
+	font-weight: 500;
+	color: #393939;
+	text-align: center;
+	display: inline-block;
+	min-width: 170px;
+	height: 50px;
+	line-height: 52px;
+	border-radius: 3px;
+	padding: 0 20px;
+	background-color: #f2f2f2;
+	text-transform: capitalize;
+	border: 0;
+	box-shadow: none;
+	transition: 0.5s;
+
+	&:hover,
+	&:focus,
+	&:active {
+		color: #393939;
+		border: 0;
+		box-shadow: none;
+		outline: none;
+		background-color: #f2f2f2;
+	}
+}
+
+.mf-btn-3 {
+	.btn-3()
+}
+
+.icon( @icon ) {
+	content: @icon;
+	display: inline-block;
+	font: normal normal normal 14px/1 linearicons;
+}
+
+.loopingWcProducts (@index) when (@index > 0){
+	ul.products.columns-@{index} {
+		li.product {
+			width: 1 / @index * 100%;
+		}
+	}
+
+	.loopingWcProducts(@index - 1);
+}
+
+@keyframes bubble {
+	0%, 100% {
+		transform: scale(0);
+	}
+	50% {
+		transform: scale(1);
+	}
+}
+
+@-webkit-keyframes bubble {
+	0%, 100% {
+		transform: scale(0);
+	}
+	50% {
+		transform: scale(1);
+	}
+}
+
+.supro-spin {
+	-webkit-animation: spin 1s infinite linear;
+	-moz-animation: spin 1s infinite linear;
+	-ms-animation: spin 1s infinite linear;
+
+	animation: spin 1s infinite linear;
+	display: inline-block;
+}
+@-ms-keyframes spin {
+	from { -ms-transform: rotate(0deg); }
+	to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+	from { -moz-transform: rotate(0deg); }
+	to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+	from { -webkit-transform: rotate(0deg); }
+	to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+	from {
+		transform:rotate(0deg);
+	}
+	to {
+		transform:rotate(360deg);
+	}
+}
+
+.loopWidget(@index ) when (@index > 1) {
+	.widget:nth-child(@{index}) {
+		transition-delay: @index * 0.1s + 0.1s;
+	}
+
+	.loopWidget(@index - 1);
+}
+
+.supro-loader() {
+	position: relative;
+
+	&:after {
+		border-radius: 50%;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		background-image: none;
+		z-index: 999;
+		color: transparent !important;
+		font-size: 0;
+		border-width: 1px;
+		border-color: @primary-color @primary-color @primary-color transparent;
+		-webkit-border-radius: 50%;
+		border-style: solid;
+		-webkit-animation: sp-spin-fast 1.5s linear infinite;
+		animation: sp-spin-fast 1.5s linear infinite;
+		content: "";
+		width: 20px;
+		height: 20px;
+		font-weight: 400;
+	}
+}
+
+.supro-loader {
+	.supro-loader();
+}
+
+.supro-small-loading() {
+	border-width: 1px;
+	border-color: #666 #666 #666 transparent;
+	border-radius: 50%;
+	border-style: solid;
+	animation: sp-spin-fast 1s linear infinite;
+	content: " ";
+	width: 14px;
+	height: 14px;
+	font-weight: 400;
+}
+
+@keyframes sp-spin-fast {
+	0% {
+		-webkit-transform: rotate(0);
+		transform: rotate(0);
+		animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+	}
+	50% {
+		-webkit-transform: rotate(900deg);
+		transform: rotate(900deg);
+		animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+	}
+	to {
+		-webkit-transform: rotate(1800deg);
+		transform: rotate(1800deg)
+	}
+}
+
+@-webkit-keyframes sp-spin-fast {
+	0% {
+		-webkit-transform: rotate(0);
+		transform: rotate(0);
+		animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+	}
+	50% {
+		-webkit-transform: rotate(900deg);
+		transform: rotate(900deg);
+		animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+	}
+	to {
+		-webkit-transform: rotate(1800deg);
+		transform: rotate(1800deg)
+	}
+}
+
+@-o-keyframes sp-spin-fast {
+	0% {
+		-webkit-transform: rotate(0);
+		transform: rotate(0);
+		animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+	}
+	50% {
+		-webkit-transform: rotate(900deg);
+		transform: rotate(900deg);
+		animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+	}
+	to {
+		-webkit-transform: rotate(1800deg);
+		transform: rotate(1800deg)
+	}
+}
+
+@-ms-keyframes sp-spin-fast {
+	0% {
+		-webkit-transform: rotate(0);
+		transform: rotate(0);
+		animation-timing-function: cubic-bezier(.55, .055, .675, .19)
+	}
+	50% {
+		-webkit-transform: rotate(900deg);
+		transform: rotate(900deg);
+		animation-timing-function: cubic-bezier(.215, .61, .355, 1)
+	}
+	to {
+		-webkit-transform: rotate(1800deg);
+		transform: rotate(1800deg)
+	}
+}
+
+// Fade
+@keyframes suproFadeInUp {
+	from {
+		opacity: 0;
+		transform: translate3d(0, 50px, 0);
+	}
+
+	to {
+		opacity: 1;
+		transform: none;
+	}
+}
+
+.suproFadeInUp {
+	animation-name: suproFadeInUp;
+}
+
+@keyframes suproFadeIn {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+.suproFadeIn {
+	animation-name: suproFadeIn;
+}
+
+.suproAnimation {
+	animation-duration: 1s;
+	animation-fill-mode: both;
+}
+
+@keyframes fadeInDown {
+
+	from {
+		opacity: 0;
+		transform: translate3d(0, -100%, 0);
+	}
+
+	to {
+		opacity: 1;
+		transform: none;
+	}
+}
+
+@keyframes fadein {
+	from { opacity: 0; }
+	to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+	from { opacity: 0; }
+	to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+	from { opacity: 0; }
+	to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+	from { opacity: 0; }
+	to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+	from { opacity: 0; }
+	to   { opacity: 1; }
+}

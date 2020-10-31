@@ -1,0 +1,531 @@
+# Translation of Themes - Twenty Twenty in Slovak
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-14 07:49:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sk\n"
+"Project-Id-Version: Themes - Twenty Twenty\n"
+
+#. Description of the theme
+msgid "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors."
+msgstr "Naša nová téma pre rok 2020 je navrhnutá tak, aby dokázala plne využiť flexibilitu blokového editora. Organizácie a podniky môžu teraz tvoriť dynamické vstupné stránky s nekonečnými možnosťami rozloženia vďaka blokom skupín a stĺpcov. Centrovaný stĺpec obsahu a vycibrená typografia z nej robí skvelú voľbu aj pre tradičné blogy. Plne funkčné štýly editora vám dávajú náhľad ako bude vyzerať obsah, dokonca ešte pred publikovaním. Prispôsobiť vzhľad vašej webovej stránky môžete zmenou farby pozadia a akcentu, cez nástroj Prispôsobiť. Farby všetkých prvkov vášho webu sú automaticky prepočítané na základe farieb, ktoré zvolíte, zaručujúc vysokú úroveň kontrastu a použiteľnosti pre vašich náštevníkov. "
+
+#. Theme Name of the theme
+msgid "Twenty Twenty"
+msgstr "Twenty Twenty"
+
+#: classes/class-twentytwenty-customize.php:246
+msgid "Show author bio"
+msgstr "Zobraziť info o autorovi"
+
+#: template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "Zobraziť archív <span aria-hidden=\"true\">&rarr;</span>"
+
+#: inc/starter-content.php:38
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr "Nové múzeum otvára svoje brány"
+
+#: inc/template-tags.php:393
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "v"
+
+#: inc/starter-content.php:150
+msgid "Join the Club"
+msgstr "Pridajte sa do klubu"
+
+#: inc/starter-content.php:147
+msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+msgstr "Členovia získajú prístup k exkluzívnym výstavám a predajov. Naše členstvo stojí 99.99€ a platí sa raz ročne."
+
+#: inc/starter-content.php:144
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "Staňte sa členok a získajte exkluzívne výhody!"
+
+#: inc/starter-content.php:129
+msgid "&#8220;Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.&#8221;"
+msgstr "”Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.”"
+
+#: inc/starter-content.php:113
+msgid "From Signac to Matisse"
+msgstr "From Signac to Matisse"
+
+#: inc/starter-content.php:98
+msgid "The Life I Deserve"
+msgstr "The Life I Deserve"
+
+#: inc/starter-content.php:84 inc/starter-content.php:116
+msgid "October 1 -- December 1"
+msgstr "1. Október - 1. December"
+
+#: inc/starter-content.php:81
+msgid "Theatre of Operations"
+msgstr "Divadlo prevádzky"
+
+#: inc/starter-content.php:72 inc/starter-content.php:87
+#: inc/starter-content.php:104 inc/starter-content.php:119
+msgid "Read More"
+msgstr "Čítať viac"
+
+#: inc/starter-content.php:69 inc/starter-content.php:101
+msgid "August 1 -- December 1"
+msgstr "1. August - 1. December"
+
+#: inc/starter-content.php:66
+msgid "Works and Days"
+msgstr "Práce a dni"
+
+#: inc/starter-content.php:55
+msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+msgstr "Prvotná destinácia pre moderné umenie v severnom Švédsku. Otvorené od 10:00 do 18:00, každý deň počas letných mesiacov."
+
+#: inc/starter-content.php:47
+msgid "The New UMoMA Opens its Doors"
+msgstr "Nové múzeum otvára svoje brány"
+
+#: classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr "Miera priehľadnosti"
+
+#: classes/class-twentytwenty-customize.php:375
+msgid "The color used for the text in the overlay."
+msgstr "Farba textu v prekrytí"
+
+#: classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr "Farba prekrytia textu"
+
+#: classes/class-twentytwenty-customize.php:353
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr "Farba použitá na prekrytie. Predvolene farba akcentu."
+
+#: classes/class-twentytwenty-customize.php:352
+msgid "Overlay Background Color"
+msgstr "Farba pozadia prekrytia"
+
+#: classes/class-twentytwenty-customize.php:283
+msgid "Settings for the \"Cover Template\" page template. Add a featured image to use as background."
+msgstr "Nastavenia šablóny stránky \"Šablóna prekrytia\". Pridajte ilustračný obrázok, ktorý sa má použiť ako pozadie."
+
+#: classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr "Nastavte vlastnú farbu na odkazy, tlačidlá a náhľadové obrázky."
+
+#: classes/class-twentytwenty-customize.php:126
+msgid "Custom"
+msgstr "Vlastné"
+
+#: classes/class-twentytwenty-customize.php:125
+msgid "Default"
+msgstr "Predvolené"
+
+#: classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr "Primárna farba"
+
+#: searchform.php:24 template-parts/modal-search.php:20
+msgid "Search for:"
+msgstr "Vyhľadať:"
+
+#: index.php:99
+msgid "search again"
+msgstr "hľadať znovu"
+
+#. translators: %s: Number of search results.
+#: index.php:39
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "Našli sme %s výsledok pre vaše hľadanie."
+msgstr[1] "Našli sme %s výsledky pre vaše hľadanie."
+msgstr[2] "Našli sme %s výsledkov pre vaše hľadanie."
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:49
+msgid "Up %s"
+msgstr "Hore %s"
+
+#. translators: %s: HTML character for up arrow.
+#: footer.php:43
+msgid "To the top %s"
+msgstr "Nahor %s"
+
+#. translators: Copyright date format, see https://www.php.net/date
+#: footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: 404.php:24
+msgid "404 not found"
+msgstr "404 stránka neexistuje"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Šablóna na celú šírku"
+
+#: template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "Staršie <span class=\"nav-short\">články</span>"
+
+#: template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "Novšie <span class=\"nav-short\">články</span>"
+
+#: template-parts/navigation.php:25
+msgid "Post"
+msgstr "Článok"
+
+#: template-parts/modal-search.php:26
+msgid "Close search"
+msgstr "Zatvoriť vyhľadávanie"
+
+#: template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr "Rozbalené odkazy na sociálne sieta"
+
+#: template-parts/modal-menu.php:73
+msgid "Mobile"
+msgstr "Mobil"
+
+#: template-parts/modal-menu.php:48
+msgid "Expanded"
+msgstr "Rozbalený"
+
+#: template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr "Zatvoriť menu"
+
+#: template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr "Odkazy na sociálne siete"
+
+#: template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr "Pätička"
+
+#. translators: %s: Author name.
+#: inc/template-tags.php:354 template-parts/entry-author-bio.php:20
+msgid "By %s"
+msgstr "Autor: %s"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+msgid "Page"
+msgstr "Stránka"
+
+#: template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr "Skrolovať dolu"
+
+#: searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hľadať"
+
+#: searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Hľadať &hellip;"
+
+#: index.php:48
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "Na vaše vyhľadávanie neexistujú žiadne výsledky. Môžete to skúsiť znovu prostredníctvom poľa vyhľadávania nižšie."
+
+#: index.php:32
+msgid "Search:"
+msgstr "Hľadané:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:206
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Upraviť <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:445
+msgid "Sticky post"
+msgstr "Pripnutý článok"
+
+#: inc/template-tags.php:407
+msgid "Tags"
+msgstr "Značky"
+
+#: inc/template-tags.php:389 template-parts/entry-header.php:36
+#: template-parts/content-cover.php:70
+msgid "Categories"
+msgstr "Kategórie"
+
+#: inc/template-tags.php:371
+msgid "Post date"
+msgstr "Dátum článku"
+
+#: inc/template-tags.php:347
+msgid "Post author"
+msgstr "Autor článku"
+
+#: inc/starter-content.php:196
+msgid "Social Links Menu"
+msgstr "Menu odkazov sociálnych sietí"
+
+#: inc/starter-content.php:176 inc/starter-content.php:186 functions.php:494
+msgid "Primary"
+msgstr "Primárne"
+
+#: header.php:88
+msgid "Horizontal"
+msgstr "Horizontálne"
+
+#: header.php:76 header.php:137
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:53 header.php:157
+msgid "Search"
+msgstr "Hľadať"
+
+#: template-parts/content.php:36
+msgid "Continue reading"
+msgstr "Pokračovať v čítaní"
+
+#: functions.php:551
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:550
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "Väčší"
+
+#: functions.php:545
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:544
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "Veľký"
+
+#: functions.php:539
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:538
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "Bežný"
+
+#: functions.php:533
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:532
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "Malý"
+
+#: functions.php:517
+msgid "Background Color"
+msgstr "Farba pozadia"
+
+#: functions.php:504
+msgid "Subtle Background"
+msgstr "Jemné pozadie"
+
+#: functions.php:499
+msgid "Secondary"
+msgstr "Sekundárne"
+
+#: functions.php:489
+msgid "Accent Color"
+msgstr "Farba zvýraznenia"
+
+#: functions.php:380
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "Widgety v tejto oblasti budú zobrazené v druhom stĺpci pätičky."
+
+#: functions.php:378
+msgid "Footer #2"
+msgstr "Pätička #2"
+
+#: functions.php:368
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "Widgety v tejto oblasti budú zobrazené v prvom stĺpci pätičky."
+
+#: functions.php:366
+msgid "Footer #1"
+msgstr "Pätička #1"
+
+#: functions.php:341
+msgid "Skip to the content"
+msgstr "Preskočiť na obsah"
+
+#: functions.php:262
+msgid "Social Menu"
+msgstr "Menu sociálnych sietí"
+
+#: functions.php:261
+msgid "Footer Menu"
+msgstr "Menu pätičky"
+
+#: functions.php:260
+msgid "Mobile Menu"
+msgstr "Menu pre mobilné zariadenia"
+
+#: functions.php:259
+msgid "Desktop Expanded Menu"
+msgstr "Rozbalené desktop menu"
+
+#: functions.php:258
+msgid "Desktop Horizontal Menu"
+msgstr "Horizontálne desktop menu"
+
+#: footer.php:33
+msgid "Powered by WordPress"
+msgstr "Poháňa WordPress"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "Komentáre sú zakázané."
+
+#: comments.php:88
+msgid "Comments"
+msgstr "Komentáre"
+
+#: comments.php:75
+msgid "Older Comments"
+msgstr "Staršie komentáre"
+
+#: comments.php:74
+msgid "Newer Comments"
+msgstr "Novšie komentáre"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s odpoveď na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s odpovede na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s odpovedí na &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Jedna odpoveď na &ldquo;%s&rdquo;"
+
+#: comments.php:34
+msgid "Leave a comment"
+msgstr "Zanechať komentár"
+
+#: classes/class-twentytwenty-walker-page.php:107 inc/template-tags.php:555
+msgid "Show sub menu"
+msgstr "Zobraziť druhú úroveň navigácie"
+
+#. translators: %d: ID of a post.
+#: classes/class-twentytwenty-walker-page.php:70
+msgid "#%d (no title)"
+msgstr "#%d (bez názvu)"
+
+#: classes/class-twentytwenty-walker-comment.php:127
+msgid "By Post Author"
+msgstr "Od autora článku"
+
+#: classes/class-twentytwenty-walker-comment.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentár čaká na schválenie."
+
+#: classes/class-twentytwenty-walker-comment.php:77
+msgid "Edit"
+msgstr "Upraviť"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:69
+msgid "%1$s at %2$s"
+msgstr "%1$s o %2$s"
+
+#: classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr "hovorí:"
+
+#: classes/class-twentytwenty-customize.php:396
+msgid "Make sure that the contrast is high enough so that the text is readable."
+msgstr "Uistite sa, kontrast je dostatočne vysoký a text je dobre čitateľný."
+
+#: classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "Pri skrolovaní používateľom vytvorí parallax efekt."
+
+#: classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr "Fixný obrázok pozadia"
+
+#. Template Name of the theme
+#: classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr "Šablóna prekrytia"
+
+#: classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr "Zhrnutie"
+
+#: classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr "Celý text"
+
+#: classes/class-twentytwenty-customize.php:267
+msgid "On archive pages, posts show:"
+msgstr "Na stránke archívu, články zobrazujú:"
+
+#: classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr "Zobrazovať vyhľadávanie v hlavičke"
+
+#: classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr "Nastavenia témy"
+
+#: classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr "Farba pozadia hlavičky a pätičky"
+
+#: classes/class-twentytwenty-customize.php:82
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Upraví logo na polovicu nahranej veľkosti a zabezpečí ostrý vzhľad na obrazovkách s vysokým rozlíšením. "
+
+#: classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr "Retina logo"
+
+#: 404.php:19
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr "Stránka, ktorú hľadáte nemohla byť nájdená. Mohla byť odstránená, premenovaná alebo nemusela ani existovať. "
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr "Stránka nebola nájdená"
+
+#. Author URI of the theme
+#: footer.php:32
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwenty/"
+msgstr "https://sk.wordpress.org/themes/twentytwenty/"

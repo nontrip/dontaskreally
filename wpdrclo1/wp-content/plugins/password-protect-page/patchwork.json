@@ -1,0 +1,10 @@
+{
+  "redefinable-internals": [
+    "strpos",
+    "preg_replace",
+    "setcookie",
+    "parse_url",
+    "time",
+    "function_exists"
+  ]
+}

@@ -1,0 +1,178 @@
+[2020-08-14 21:30:59 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:14 : INFO] - 
+ 
+[2020-08-14 21:36:14 : INFO] - Header for logs at time:  Fri, 14 Aug 2020 21:36:14 +0000 on https://drclo.si/ 
+[2020-08-14 21:36:14 : INFO] - WP: 5.4.2 
+[2020-08-14 21:36:14 : INFO] - PHP: 7.3.13 (fpm-fcgi, Linux vmi237966.contaboserver.net 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64) 
+[2020-08-14 21:36:14 : INFO] - MySQL: 5.5.5 
+[2020-08-14 21:36:14 : INFO] - WPLANG: sl_SI 
+[2020-08-14 21:36:14 : INFO] - Server: Apache/2.4.39 (Unix) OpenSSL/1.0.2k-fips 
+[2020-08-14 21:36:14 : INFO] - Outbound connections: N 
+[2020-08-14 21:36:14 : INFO] - safe_mode: 0 
+[2020-08-14 21:36:14 : INFO] - max_execution_time: 1200 
+[2020-08-14 21:36:14 : INFO] - memory_limit: 256M (used: 20.4M | 22M) 
+[2020-08-14 21:36:14 : INFO] - multisite: Y 
+[2020-08-14 21:36:14 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-08-14 21:36:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-08-14 21:36:14 : INFO] - Set semaphore last lock (smush) time to 2020-08-14 21:36:14 
+[2020-08-14 21:36:14 : INFO] - Semaphore lock (smush) complete 
+[2020-08-14 21:36:14 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2020-08-14 21:36:14 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:14 : INFO] - 100 
+[2020-08-14 21:36:14 : INFO] - Backing up the original image - 2020/08/home1-2-updraft-pre-smush-original.jpg 
+[2020-08-14 21:36:14 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:14 : INFO] - 100 
+[2020-08-14 21:36:14 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:14 : INFO] - 100 
+[2020-08-14 21:36:14 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:14 : INFO] - 100 
+[2020-08-14 21:36:15 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:15 : INFO] - 100 
+[2020-08-14 21:36:15 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:15 : INFO] - 100 
+[2020-08-14 21:36:15 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:15 : INFO] - 100 
+[2020-08-14 21:36:16 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:16 : INFO] - 100 
+[2020-08-14 21:36:16 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:16 : INFO] - 100 
+[2020-08-14 21:36:16 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:16 : INFO] - 100 
+[2020-08-14 21:36:16 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:16 : INFO] - 100 
+[2020-08-14 21:36:17 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:17 : INFO] - 100 
+[2020-08-14 21:36:17 : INFO] - Re_Smush_It_Task with attachment ID : 1591, autocreated on : August 14, 2020 09:30:59 
+[2020-08-14 21:36:17 : INFO] - 100 
+[2020-08-14 21:36:17 : INFO] - Successfully optimized the image - /home/stranke/drclo.si/wpdrclo1/wp-content/uploads/2020/08/home1-2.jpg.The file was compressed from 24.10 KB to 24.10 KB saving 0 percent using WP-Optimize 
+[2020-08-14 21:36:17 : INFO] - Completed processing task with ID : 67, and type 'smush' 
+[2020-08-14 21:36:17 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-08-14 21:36:17 : INFO] - Semaphore (smush) unlocked 
+[2020-08-14 21:36:17 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-08-14 21:36:17 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-08-14 21:36:17 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-08-14 21:46:15 : INFO] - 
+ 
+[2020-08-14 21:46:15 : INFO] - Header for logs at time:  Fri, 14 Aug 2020 21:46:15 +0000 on https://drclo.si/ 
+[2020-08-14 21:46:15 : INFO] - WP: 5.4.2 
+[2020-08-14 21:46:15 : INFO] - PHP: 7.3.13 (fpm-fcgi, Linux vmi237966.contaboserver.net 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64) 
+[2020-08-14 21:46:15 : INFO] - MySQL: 5.5.5 
+[2020-08-14 21:46:15 : INFO] - WPLANG: sl_SI 
+[2020-08-14 21:46:15 : INFO] - Server: Apache/2.4.39 (Unix) OpenSSL/1.0.2k-fips 
+[2020-08-14 21:46:15 : INFO] - Outbound connections: N 
+[2020-08-14 21:46:15 : INFO] - safe_mode: 0 
+[2020-08-14 21:46:15 : INFO] - max_execution_time: 1200 
+[2020-08-14 21:46:15 : INFO] - memory_limit: 256M (used: 20.4M | 22M) 
+[2020-08-14 21:46:15 : INFO] - multisite: Y 
+[2020-08-14 21:46:15 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-08-14 21:46:15 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-08-28 18:33:42 : INFO] - Re_Smush_It_Task with attachment ID : 1595, autocreated on : August 28, 2020 06:33:42 
+[2020-08-28 18:38:44 : INFO] - 
+ 
+[2020-08-28 18:38:44 : INFO] - Header for logs at time:  Fri, 28 Aug 2020 18:38:44 +0000 on https://drclo.si/ 
+[2020-08-28 18:38:44 : INFO] - WP: 5.4.2 
+[2020-08-28 18:38:44 : INFO] - PHP: 7.3.13 (fpm-fcgi, Linux vmi237966.contaboserver.net 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64) 
+[2020-08-28 18:38:44 : INFO] - MySQL: 5.5.5 
+[2020-08-28 18:38:44 : INFO] - WPLANG: sl_SI 
+[2020-08-28 18:38:44 : INFO] - Server: Apache/2.4.39 (Unix) OpenSSL/1.0.2k-fips 
+[2020-08-28 18:38:44 : INFO] - Outbound connections: N 
+[2020-08-28 18:38:44 : INFO] - safe_mode: 0 
+[2020-08-28 18:38:44 : INFO] - max_execution_time: 1200 
+[2020-08-28 18:38:44 : INFO] - memory_limit: 256M (used: 20.3M | 18M) 
+[2020-08-28 18:38:44 : INFO] - multisite: Y 
+[2020-08-28 18:38:44 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-08-28 18:38:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-08-28 18:38:44 : INFO] - Set semaphore last lock (smush) time to 2020-08-28 18:38:44 
+[2020-08-28 18:38:44 : INFO] - Semaphore lock (smush) complete 
+[2020-08-28 18:38:44 : INFO] - Processing task with ID : 122, and type 'smush' 
+[2020-08-28 18:38:44 : INFO] - Task with ID 122 and type (smush) failed with error code invalid_file_type - /home/stranke/drclo.si/wpdrclo1/wp-content/uploads/2020/08/ETP_CleanCU_-Presentation_08.2020_v1.pdf - cannot be optimized, it has an invalid file type 
+[2020-08-28 18:38:44 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-08-28 18:38:44 : INFO] - Semaphore (smush) unlocked 
+[2020-08-28 18:38:44 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-08-28 18:38:44 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-08-28 18:38:44 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-08-28 18:49:26 : INFO] - 
+ 
+[2020-08-28 18:49:26 : INFO] - Header for logs at time:  Fri, 28 Aug 2020 18:49:26 +0000 on https://drclo.si/ 
+[2020-08-28 18:49:26 : INFO] - WP: 5.4.2 
+[2020-08-28 18:49:26 : INFO] - PHP: 7.3.13 (fpm-fcgi, Linux vmi237966.contaboserver.net 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64) 
+[2020-08-28 18:49:26 : INFO] - MySQL: 5.5.5 
+[2020-08-28 18:49:26 : INFO] - WPLANG: sl_SI 
+[2020-08-28 18:49:26 : INFO] - Server: Apache/2.4.39 (Unix) OpenSSL/1.0.2k-fips 
+[2020-08-28 18:49:26 : INFO] - Outbound connections: N 
+[2020-08-28 18:49:26 : INFO] - safe_mode: 0 
+[2020-08-28 18:49:26 : INFO] - max_execution_time: 1200 
+[2020-08-28 18:49:26 : INFO] - memory_limit: 256M (used: 20.3M | 22M) 
+[2020-08-28 18:49:26 : INFO] - multisite: Y 
+[2020-08-28 18:49:26 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-08-28 18:49:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-09-19 16:14:55 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:17 : INFO] - 
+ 
+[2020-09-19 16:30:17 : INFO] - Header for logs at time:  Sat, 19 Sep 2020 16:30:17 +0000 on https://drclo.si/ 
+[2020-09-19 16:30:17 : INFO] - WP: 5.4.2 
+[2020-09-19 16:30:17 : INFO] - PHP: 7.3.13 (fpm-fcgi, Linux vmi237966.contaboserver.net 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64) 
+[2020-09-19 16:30:17 : INFO] - MySQL: 5.5.5 
+[2020-09-19 16:30:17 : INFO] - WPLANG: sl_SI 
+[2020-09-19 16:30:17 : INFO] - Server: Apache/2.4.39 (Unix) OpenSSL/1.0.2k-fips 
+[2020-09-19 16:30:17 : INFO] - Outbound connections: N 
+[2020-09-19 16:30:17 : INFO] - safe_mode: 0 
+[2020-09-19 16:30:17 : INFO] - max_execution_time: 1200 
+[2020-09-19 16:30:17 : INFO] - memory_limit: 256M (used: 20.3M | 22M) 
+[2020-09-19 16:30:17 : INFO] - multisite: Y 
+[2020-09-19 16:30:17 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-09-19 16:30:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-09-19 16:30:17 : INFO] - Set semaphore last lock (smush) time to 2020-09-19 16:30:17 
+[2020-09-19 16:30:17 : INFO] - Semaphore lock (smush) complete 
+[2020-09-19 16:30:17 : INFO] - Processing task with ID : 196, and type 'smush' 
+[2020-09-19 16:30:17 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:17 : INFO] - 100 
+[2020-09-19 16:30:18 : INFO] - Backing up the original image - 2020/09/drclo-torbice-updraft-pre-smush-original.jpg 
+[2020-09-19 16:30:18 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:18 : INFO] - 100 
+[2020-09-19 16:30:18 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:18 : INFO] - 100 
+[2020-09-19 16:30:19 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:19 : INFO] - 100 
+[2020-09-19 16:30:19 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:19 : INFO] - 100 
+[2020-09-19 16:30:20 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:20 : INFO] - 100 
+[2020-09-19 16:30:20 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:20 : INFO] - 100 
+[2020-09-19 16:30:21 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:21 : INFO] - 100 
+[2020-09-19 16:30:21 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:21 : INFO] - 100 
+[2020-09-19 16:30:22 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:22 : INFO] - 100 
+[2020-09-19 16:30:22 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:22 : INFO] - 100 
+[2020-09-19 16:30:22 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:22 : INFO] - 100 
+[2020-09-19 16:30:23 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:23 : INFO] - 100 
+[2020-09-19 16:30:23 : INFO] - Re_Smush_It_Task with attachment ID : 1603, autocreated on : September 19, 2020 04:14:55 
+[2020-09-19 16:30:23 : INFO] - 100 
+[2020-09-19 16:30:24 : INFO] - Successfully optimized the image - /home/stranke/drclo.si/wpdrclo1/wp-content/uploads/2020/09/drclo-torbice.jpg.The file was compressed from 62.98 KB to 62.72 KB saving 0.42 percent using WP-Optimize 
+[2020-09-19 16:30:24 : INFO] - Completed processing task with ID : 196, and type 'smush' 
+[2020-09-19 16:30:24 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-09-19 16:30:24 : INFO] - Semaphore (smush) unlocked 
+[2020-09-19 16:30:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-09-19 16:30:24 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-09-19 16:30:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-09-19 16:53:37 : INFO] - 
+ 
+[2020-09-19 16:53:37 : INFO] - Header for logs at time:  Sat, 19 Sep 2020 16:53:37 +0000 on https://drclo.si/ 
+[2020-09-19 16:53:37 : INFO] - WP: 5.4.2 
+[2020-09-19 16:53:37 : INFO] - PHP: 7.3.13 (fpm-fcgi, Linux vmi237966.contaboserver.net 3.10.0-1062.9.1.el7.x86_64 #1 SMP Fri Dec 6 15:49:49 UTC 2019 x86_64) 
+[2020-09-19 16:53:37 : INFO] - MySQL: 5.5.5 
+[2020-09-19 16:53:37 : INFO] - WPLANG: sl_SI 
+[2020-09-19 16:53:37 : INFO] - Server: Apache/2.4.39 (Unix) OpenSSL/1.0.2k-fips 
+[2020-09-19 16:53:37 : INFO] - Outbound connections: N 
+[2020-09-19 16:53:37 : INFO] - safe_mode: 0 
+[2020-09-19 16:53:37 : INFO] - max_execution_time: 1200 
+[2020-09-19 16:53:37 : INFO] - memory_limit: 256M (used: 20.3M | 22M) 
+[2020-09-19 16:53:37 : INFO] - multisite: Y 
+[2020-09-19 16:53:37 : INFO] - openssl: OpenSSL 1.0.2k  26 Jan 2017 
+[2020-09-19 16:53:37 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

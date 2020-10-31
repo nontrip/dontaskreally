@@ -1,0 +1,122 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.pda-pwd-tools {
+    margin-bottom: 0.5rem;
+}
+
+.pda-pwd-tools input[type=radio].disabled, .pda-pwd-tools input[type=radio].disabled:checked:before, .pda-pwd-tools input[type=radio]:disabled, .pda-pwd-tools input[type=radio]:disabled:checked:before, .pda-pwd-tools input[type=checkbox].disabled, .pda-pwd-tools input[type=checkbox].disabled:checked:before, .pda-pwd-tools input[type=checkbox]:disabled, .pda-pwd-tools input[type=checkbox]:disabled:checked:before {
+    opacity: 1;
+    cursor: inherit;
+}
+
+.pda-pwd-tbl-actions {
+    cursor: pointer;
+}
+
+/**
+Metabox css
+ */
+textarea[name="wpp_multiple_password"] {
+    width: 94%;
+}
+
+#all_roles_select {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+#all_roles_select span {
+    border-radius: 6px 0;
+    padding: 0rem 0.2rem;
+    background: #FFFF00;
+    cursor: pointer;
+    transition: 0.4s;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 100%;
+    display: inline-block;
+}
+
+div#passwords-roles-map label {
+    display: block;
+}
+
+.pda-selected-role-select2,
+input.post-protection-password,
+textarea[name="wpp_multiple_password"] {
+    width: 100%;
+}
+
+.ppwp_set_password_type {
+    width: 70%;
+}
+
+#ppwp_set_password_metabox .ppwp_apply_password {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#ppwp_set_password_metabox .ppwp_show_hide_password_roles {
+    margin-top: 5px;
+}
+
+#ppwp_set_password_metabox .ppwp_input_set_type_password {
+    margin-top: 5px;
+}
+
+#ppwp_set_password_metabox .ppwp_default_hide_checkbox_roles {
+    display: none;
+}
+
+.ppwp-button-hide {
+    float: right;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.ppwp-button-submit {
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    box-shadow: 0 1px 0 #ccc;
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+
+.ppwp-button-submit:hover {
+    background: #fafafa;
+    border-color: #999;
+    color: #23282d;
+}
+
+#passwords-roles-map .ppwp-wrap-submit-hide {
+    margin-top: 13px;
+}
+
+.ppwp_multiple_password {
+    width: 100%;
+}
+
+.ppwp_wrap_role_password {
+    margin-top: 5px;
+}
+
+.pda-selected-role-select2 {
+    box-sizing: border-box;
+}

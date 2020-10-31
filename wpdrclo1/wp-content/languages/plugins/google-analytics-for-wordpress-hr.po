@@ -1,0 +1,99 @@
+# Translation of Plugins - Google Analytics Dashboard Plugin for WordPress by MonsterInsights - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Google Analytics Dashboard Plugin for WordPress by MonsterInsights - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-06 11:01:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Google Analytics Dashboard Plugin for WordPress by MonsterInsights - Stable (latest release)\n"
+
+#. Author of the plugin
+#: lite/includes/admin/dashboard-widget.php:97
+#: lite/includes/admin/wp-site-health.php:246
+#: lite/includes/admin/wp-site-health.php:298
+#: lite/includes/admin/wp-site-health.php:325
+#: lite/includes/admin/wp-site-health.php:363
+#: lite/includes/admin/wp-site-health.php:390
+#: lite/includes/admin/wp-site-health.php:417
+#: lite/includes/admin/wp-site-health.php:442
+#: lite/includes/admin/wp-site-health.php:481 includes/admin/admin.php:31
+#: includes/admin/admin.php:34 includes/admin/admin.php:42
+#: includes/emails/class-emails.php:254
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: languages/vue.php:171 includes/admin/admin.php:31
+#: includes/admin/admin.php:37 includes/admin/admin.php:45
+#: includes/admin/admin.php:91
+msgid "Insights"
+msgstr "Uvidi"
+
+#: languages/vue.php:716
+msgid "License Key"
+msgstr "Licencni ključ"
+
+#: languages/vue.php:1097
+msgid "Custom code"
+msgstr "Prilagođeni kod"
+
+#: languages/vue.php:814
+msgid "Enable Demographics and Interests Reports for Remarketing and Advertising"
+msgstr "Uključi Demographics i Interests izvještaje za Remarketing i Advertising"
+
+#: languages/vue.php:1982
+msgid "Enhanced Link Attribution"
+msgstr "Enhanced Link Attribution"
+
+#: languages/vue.php:2239
+msgid "Paste your license key here"
+msgstr "Ovdje zalijepite svoj licencni ključ"
+
+#: languages/vue.php:427
+msgid "General"
+msgstr "Osnovno"
+
+#: languages/vue.php:443
+msgid "Advanced"
+msgstr "Napredno"
+
+#: includes/admin/admin.php:34 includes/admin/admin.php:42
+#: includes/admin/admin.php:185
+msgid "Settings"
+msgstr "Postavke"
+
+#: languages/vue.php:1934
+msgid "Manually enter your UA code"
+msgstr "Manualno unesite svoj UA kod"
+
+#: languages/vue.php:265
+msgid "Custom Dimensions"
+msgstr "Prilagođene dimenzije"
+
+#: languages/vue.php:516 includes/admin/reports/overview.php:34
+msgid "Overview"
+msgstr "Pregled"
+
+#: languages/vue.php:701
+msgid "Bounce Rate"
+msgstr "Bounce rate"
+
+#: languages/vue.php:1104 includes/admin/admin.php:39
+#: includes/admin/admin.php:95
+msgid "Reports"
+msgstr "Izvještaji"
+
+#: languages/vue.php:1602
+msgid "eCommerce Tracking"
+msgstr "eCommerce praćenje"
+
+#: languages/vue.php:595
+msgid "Save Changes"
+msgstr "Snimi promjene"
+
+#: languages/vue.php:2396
+msgid "Last Month"
+msgstr "Prošli mjesec"

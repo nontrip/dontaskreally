@@ -1,0 +1,40 @@
+.control-title--wrapper span.customize-control-title {
+    margin: 0px -12px;
+    border: 1px solid #ddd;
+    padding: 13px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #555;
+    background-color: #fff;
+    margin-top: 8px;
+}
+
+#accordion-panel-ppwp {
+    margin-top: 1rem;
+}
+
+#accordion-panel-ppwp h3 {
+    border-top: 1px solid #ddd;
+}
+
+#accordion-section-ppwp_upsell {
+    margin-bottom: 1rem;
+}
+
+#accordion-section-ppwp_upsell .ppwp-accordion-section-title {
+    color: #f78935!important;
+    border-left-color: #f78935!important;
+}
+
+#accordion-section-ppwp_upsell .ppwp-accordion-section-title a {
+    color: #f78935!important;
+    text-decoration: none;
+    display: block;
+}
+
+#accordion-section-ppwp_upsell .accordion-section-title:after {
+    color: #f78935!important;
+}

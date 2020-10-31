@@ -1,0 +1,3549 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Supro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-17 08:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: 404.php:18
+msgid "ohh! page not found"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help "
+"or go back to "
+msgstr ""
+
+#: 404.php:22
+msgid "Homepage"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "No Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:48 comments.php:70
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:51 comments.php:73
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:52 comments.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:92
+msgid "Your comment..."
+msgstr ""
+
+#: comments.php:95
+msgid "Your email address will not be published."
+msgstr ""
+
+#: functions.php:79
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "User Logged Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Topbar Left"
+msgstr ""
+
+#: functions.php:109
+msgid "Topbar Right"
+msgstr ""
+
+#: functions.php:110
+msgid "Mobile Topbar"
+msgstr ""
+
+#: functions.php:111
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:112 inc/backend/customizer.php:468
+msgid "Menu Sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Catalog Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "Product Sidebar"
+msgstr ""
+
+#: functions.php:115
+msgid "Catalog Filter"
+msgstr ""
+
+#: functions.php:124
+msgid "Add widgets here in order to display on pages"
+msgstr ""
+
+#: functions.php:135
+msgid "Mobile Menu Sidebar"
+msgstr ""
+
+#: functions.php:137
+msgid "Add widgets here in order to display menu sidebar on mobile"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:151 functions.php:166
+msgid "Add widgets here in order to display on footer"
+msgstr ""
+
+#: functions.php:164 inc/backend/customizer.php:454
+#: inc/backend/customizer.php:4078
+msgid "Footer Copyright"
+msgstr ""
+
+#: single-portfolio.php:40
+msgid "Share:"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Home Boxed"
+msgstr ""
+
+#. Name of the template
+msgid "Home Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Home No Footer"
+msgstr ""
+
+#. Name of the template
+#: inc/backend/customizer.php:4155
+msgid "HomePage"
+msgstr ""
+
+#: parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: parts/content-page.php:15 parts/content-single.php:26
+msgid "Pages:"
+msgstr ""
+
+#: parts/content-search.php:63 parts/content.php:58
+msgid "READ MORE"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-added.php:46
+#: woocommerce/add-to-wishlist-browse.php:46 inc/frontend/header.php:147
+msgid "View Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:51 woocommerce/add-to-wishlist.php:68
+msgid "Save"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-remove.php:48 woocommerce/cart/cart.php:76
+msgid "Delete"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:36
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:39 inc/frontend/woocommerce.php:1291
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85 inc/functions/comments.php:78
+#: woocommerce/single-product/add-to-cart/grouped.php:28
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87 inc/functions/comments.php:82
+#: woocommerce/myaccount/dashboard.php:42
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:118
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:129
+msgid "Added on:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:140
+msgid "Price:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:159
+#: woocommerce/wishlist-view-mobile.php:200
+msgid "Quantity:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:176
+#: woocommerce/wishlist-view-mobile.php:217
+msgid "Stock:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:181
+#: woocommerce/wishlist-view-mobile.php:222 woocommerce/wishlist-view.php:222
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:183
+#: woocommerce/wishlist-view-mobile.php:224 woocommerce/wishlist-view.php:185
+#: woocommerce/wishlist-view.php:224
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:246 woocommerce/wishlist-view.php:248
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:266 woocommerce/wishlist-view.php:268
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:276 woocommerce/wishlist-view.php:144
+#: woocommerce/wishlist-view.php:277
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:288 woocommerce/wishlist-view.php:297
+msgid "No products added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:73 woocommerce/cart/cart.php:28
+#: woocommerce/cart/cart.php:50
+msgid "Product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:80
+msgid "Unit price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:88 woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:94 woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:96
+msgid "Stock status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:108
+msgid "Arrange"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:174
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:183
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:235
+#, php-format
+msgid "Added on: %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:277 inc/mega-menu/tmpl/background.php:11
+msgid "Remove"
+msgstr ""
+
+#: inc/backend/customizer.php:186 inc/backend/customizer.php:889
+#: inc/backend/customizer.php:1062 inc/backend/customizer.php:1082
+#: inc/backend/customizer.php:1102 inc/backend/customizer.php:1123
+#: inc/backend/customizer.php:1142 inc/backend/customizer.php:3990
+#: inc/backend/customizer.php:4003 inc/backend/customizer.php:4016
+#: inc/backend/customizer.php:4030 inc/backend/customizer.php:4042
+#: inc/backend/meta-boxes.php:227 inc/backend/meta-boxes.php:239
+#: inc/backend/meta-boxes.php:251 inc/backend/meta-boxes.php:264
+#: inc/backend/meta-boxes.php:275 inc/backend/product-meta-box-data.php:138
+msgid "None"
+msgstr ""
+
+#: inc/backend/customizer.php:209 inc/backend/meta-boxes.php:293
+#: inc/mega-menu/tmpl/menus.php:11 inc/mega-menu/tmpl/menus.php:14
+msgid "General"
+msgstr ""
+
+#: inc/backend/customizer.php:213
+msgid "Typography"
+msgstr ""
+
+#: inc/backend/customizer.php:217
+msgid "Styling"
+msgstr ""
+
+#: inc/backend/customizer.php:222 inc/backend/customizer.php:272
+#: inc/backend/customizer.php:293
+msgid "Header"
+msgstr ""
+
+#: inc/backend/customizer.php:225 inc/backend/customizer.php:4158
+msgid "Page"
+msgstr ""
+
+#: inc/backend/customizer.php:230 inc/functions/breadcrumbs.php:23
+msgid "Blog"
+msgstr ""
+
+#: inc/backend/customizer.php:235 inc/backend/customizer.php:419
+#: inc/frontend/entry.php:200
+msgid "Portfolio"
+msgstr ""
+
+#: inc/backend/customizer.php:240 inc/backend/customizer.php:279
+msgid "Footer"
+msgstr ""
+
+#: inc/backend/customizer.php:244 inc/backend/customizer.php:1230
+#: inc/backend/customizer.php:1710 inc/backend/customizer.php:3434
+#: inc/backend/meta-boxes.php:349
+msgid "Mobile"
+msgstr ""
+
+#: inc/backend/customizer.php:252 inc/backend/customizer.php:500
+msgid "Maintenance"
+msgstr ""
+
+#: inc/backend/customizer.php:258 inc/backend/customizer.php:523
+msgid "Body"
+msgstr ""
+
+#: inc/backend/customizer.php:265
+msgid "Heading"
+msgstr ""
+
+#: inc/backend/customizer.php:286
+msgid "Topbar"
+msgstr ""
+
+#: inc/backend/customizer.php:300 inc/backend/customizer.php:930
+msgid "Logo"
+msgstr ""
+
+#: inc/backend/customizer.php:307 inc/backend/customizer.php:972
+msgid "Back to Top"
+msgstr ""
+
+#: inc/backend/customizer.php:314 inc/backend/customizer.php:979
+msgid "Preloader"
+msgstr ""
+
+#: inc/backend/customizer.php:321
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/backend/customizer.php:328 inc/backend/customizer.php:1021
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:335
+msgid "Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:342
+msgid "Search Page"
+msgstr ""
+
+#: inc/backend/customizer.php:349
+msgid "Blog Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:356
+msgid "Blog Page"
+msgstr ""
+
+#: inc/backend/customizer.php:363
+msgid "Single Post"
+msgstr ""
+
+#: inc/backend/customizer.php:370
+msgid "Catalog Notification"
+msgstr ""
+
+#: inc/backend/customizer.php:377
+msgid "Shop"
+msgstr ""
+
+#: inc/backend/customizer.php:384 inc/functions/header.php:182
+msgid "My Account"
+msgstr ""
+
+#: inc/backend/customizer.php:391 inc/backend/customizer.php:2662
+msgid "Badges"
+msgstr ""
+
+#: inc/backend/customizer.php:398
+msgid "Catalog Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:405 inc/backend/customizer.php:4157
+msgid "Single Product"
+msgstr ""
+
+#: inc/backend/customizer.php:412
+msgid "Portfolio Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:426
+msgid "Single Portfolio"
+msgstr ""
+
+#: inc/backend/customizer.php:433
+msgid "Footer Newsletter"
+msgstr ""
+
+#: inc/backend/customizer.php:440 inc/backend/customizer.php:3948
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:447 inc/backend/customizer.php:4053
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/backend/customizer.php:461
+msgid "Footer Recently Viewed"
+msgstr ""
+
+#: inc/backend/customizer.php:475
+msgid "Catalog Mobile"
+msgstr ""
+
+#: inc/backend/customizer.php:487
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: inc/backend/customizer.php:488
+msgid "Put your site into maintenance mode"
+msgstr ""
+
+#: inc/backend/customizer.php:494
+msgid "Mode"
+msgstr ""
+
+#: inc/backend/customizer.php:495
+msgid "Select the correct mode for your site"
+msgstr ""
+
+#: inc/backend/customizer.php:496
+#, php-format
+msgid ""
+"If you are putting your site into maintenance mode for a longer perior of "
+"time, you should set this to \"Coming Soon\". Maintenance will return HTTP "
+"503, Comming Soon will set HTTP to 200. <a href=\"%s\" target=\"_blank\">"
+"Learn more</a>"
+msgstr ""
+
+#: inc/backend/customizer.php:501 inc/frontend/maintenance.php:29
+msgid "Coming Soon"
+msgstr ""
+
+#: inc/backend/customizer.php:506
+msgid "Maintenance Page"
+msgstr ""
+
+#: inc/backend/customizer.php:512 inc/backend/meta-boxes.php:318
+msgid "Text Color"
+msgstr ""
+
+#: inc/backend/customizer.php:516 inc/backend/customizer.php:793
+#: inc/backend/customizer.php:1200 inc/backend/customizer.php:1654
+#: inc/backend/customizer.php:3393 inc/backend/customizer.php:3812
+#: inc/backend/customizer.php:3966 inc/backend/meta-boxes.php:110
+#: inc/backend/meta-boxes.php:323
+msgid "Dark"
+msgstr ""
+
+#: inc/backend/customizer.php:517 inc/backend/customizer.php:794
+#: inc/backend/customizer.php:1201 inc/backend/customizer.php:1655
+#: inc/backend/customizer.php:3394 inc/backend/customizer.php:3813
+#: inc/backend/customizer.php:3965 inc/backend/meta-boxes.php:111
+#: inc/backend/meta-boxes.php:324
+msgid "Light"
+msgstr ""
+
+#: inc/backend/customizer.php:539
+msgid "Heading 1"
+msgstr ""
+
+#: inc/backend/customizer.php:555
+msgid "Heading 2"
+msgstr ""
+
+#: inc/backend/customizer.php:571
+msgid "Heading 3"
+msgstr ""
+
+#: inc/backend/customizer.php:587
+msgid "Heading 4"
+msgstr ""
+
+#: inc/backend/customizer.php:603
+msgid "Heading 5"
+msgstr ""
+
+#: inc/backend/customizer.php:619
+msgid "Heading 6"
+msgstr ""
+
+#: inc/backend/customizer.php:635
+msgid "Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:649
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:663
+msgid "Footer Text"
+msgstr ""
+
+#: inc/backend/customizer.php:677
+msgid "Show topbar"
+msgstr ""
+
+#: inc/backend/customizer.php:684
+msgid "Topbar Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:689 inc/backend/customizer.php:760
+#: inc/backend/customizer.php:1601 inc/backend/customizer.php:2565
+#: inc/backend/customizer.php:3066 inc/backend/customizer.php:3953
+msgid "Layout 1"
+msgstr ""
+
+#: inc/backend/customizer.php:690 inc/backend/customizer.php:761
+#: inc/backend/customizer.php:1602 inc/backend/customizer.php:2566
+#: inc/backend/customizer.php:3067 inc/backend/customizer.php:3954
+msgid "Layout 2"
+msgstr ""
+
+#: inc/backend/customizer.php:695
+msgid "Show border bottom"
+msgstr ""
+
+#: inc/backend/customizer.php:702 inc/backend/customizer.php:1029
+#: inc/backend/customizer.php:2749 inc/backend/customizer.php:2809
+#: inc/backend/customizer.php:2869 inc/backend/customizer.php:2929
+#: inc/backend/customizer.php:2997 inc/backend/customizer.php:3095
+#: inc/backend/customizer.php:3939 inc/backend/customizer.php:3971
+#: inc/backend/meta-boxes.php:210 inc/mega-menu/tmpl/background.php:18
+msgid "Background Color"
+msgstr ""
+
+#: inc/backend/customizer.php:709 inc/backend/customizer.php:807
+#: inc/backend/customizer.php:896 inc/backend/customizer.php:1005
+#: inc/backend/customizer.php:2732 inc/backend/customizer.php:2792
+#: inc/backend/customizer.php:2852 inc/backend/customizer.php:2912
+#: inc/backend/customizer.php:2980 inc/backend/customizer.php:3932
+#: inc/backend/meta-boxes.php:117
+msgid "Color"
+msgstr ""
+
+#: inc/backend/customizer.php:714 inc/backend/customizer.php:1266
+#: inc/backend/customizer.php:1296 inc/backend/customizer.php:1321
+#: inc/backend/customizer.php:1345 inc/backend/customizer.php:1388
+#: inc/backend/customizer.php:1418 inc/backend/customizer.php:1443
+#: inc/backend/customizer.php:1487 inc/backend/customizer.php:1517
+#: inc/backend/customizer.php:1542 inc/backend/customizer.php:1756
+#: inc/backend/customizer.php:1791 inc/backend/customizer.php:1821
+#: inc/backend/customizer.php:1850 inc/backend/customizer.php:1903
+#: inc/backend/customizer.php:1938 inc/backend/customizer.php:1968
+#: inc/backend/customizer.php:2022 inc/backend/customizer.php:2057
+#: inc/backend/customizer.php:2087 inc/backend/customizer.php:3470
+#: inc/backend/customizer.php:3500 inc/backend/customizer.php:3525
+#: inc/backend/customizer.php:3549 inc/backend/customizer.php:3592
+#: inc/backend/customizer.php:3622 inc/backend/customizer.php:3647
+#: inc/backend/customizer.php:3691 inc/backend/customizer.php:3721
+#: inc/backend/customizer.php:3746 inc/backend/meta-boxes.php:369
+#: inc/backend/meta-boxes.php:388 inc/backend/meta-boxes.php:402
+#: inc/backend/meta-boxes.php:415 inc/backend/meta-boxes.php:437
+#: inc/backend/meta-boxes.php:456 inc/backend/meta-boxes.php:470
+#: inc/backend/meta-boxes.php:493 inc/backend/meta-boxes.php:512
+#: inc/backend/meta-boxes.php:526 inc/backend/product-meta-box-data.php:137
+#: inc/frontend/woocommerce.php:1308
+msgid "Default"
+msgstr ""
+
+#: inc/backend/customizer.php:715 inc/backend/customizer.php:795
+#: inc/backend/customizer.php:891 inc/backend/meta-boxes.php:112
+#: inc/mega-menu/tmpl/background.php:48 inc/mega-menu/tmpl/background.php:67
+msgid "Custom"
+msgstr ""
+
+#: inc/backend/customizer.php:720
+msgid "Custom Color"
+msgstr ""
+
+#: inc/backend/customizer.php:740
+msgid "Topbar Mobile justify content"
+msgstr ""
+
+#: inc/backend/customizer.php:745
+msgid "Flex Start"
+msgstr ""
+
+#: inc/backend/customizer.php:746
+msgid "Flex End"
+msgstr ""
+
+#: inc/backend/customizer.php:747 inc/backend/customizer.php:1064
+#: inc/backend/customizer.php:1084 inc/backend/customizer.php:3893
+#: inc/backend/customizer.php:3992 inc/backend/customizer.php:4005
+#: inc/backend/meta-boxes.php:229 inc/backend/meta-boxes.php:241
+#: inc/mega-menu/tmpl/background.php:44
+msgid "Center"
+msgstr ""
+
+#: inc/backend/customizer.php:748 inc/backend/customizer.php:3892
+msgid "Space Between"
+msgstr ""
+
+#: inc/backend/customizer.php:755
+msgid "Header Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:762 inc/backend/customizer.php:1603
+#: inc/backend/customizer.php:2567 inc/backend/customizer.php:3068
+#: inc/backend/customizer.php:3955
+msgid "Layout 3"
+msgstr ""
+
+#: inc/backend/customizer.php:763 inc/backend/customizer.php:3069
+msgid "Layout 4"
+msgstr ""
+
+#: inc/backend/customizer.php:764 inc/backend/customizer.php:3070
+msgid "Layout 5"
+msgstr ""
+
+#: inc/backend/customizer.php:765 inc/backend/customizer.php:3071
+msgid "Layout 6"
+msgstr ""
+
+#: inc/backend/customizer.php:771
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/backend/customizer.php:779
+msgid "Header Transparent"
+msgstr ""
+
+#: inc/backend/customizer.php:783
+msgid "Check this to enable header transparent in homepage only."
+msgstr ""
+
+#: inc/backend/customizer.php:788 inc/backend/meta-boxes.php:105
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/backend/customizer.php:789
+msgid "This option apply for homepage only"
+msgstr ""
+
+#: inc/backend/customizer.php:821
+msgid "Menu Extras"
+msgstr ""
+
+#: inc/backend/customizer.php:826 inc/frontend/footer.php:364
+#: inc/frontend/footer.php:400
+msgid "Search"
+msgstr ""
+
+#: inc/backend/customizer.php:827
+msgid "Account"
+msgstr ""
+
+#: inc/backend/customizer.php:828
+msgid "Wishlist"
+msgstr ""
+
+#: inc/backend/customizer.php:829
+msgid "Cart"
+msgstr ""
+
+#: inc/backend/customizer.php:830
+msgid "Sidebar"
+msgstr ""
+
+#: inc/backend/customizer.php:835
+msgid "Menu Text"
+msgstr ""
+
+#: inc/backend/customizer.php:842 inc/backend/customizer.php:3835
+#: inc/backend/meta-boxes.php:155
+msgid "Socials"
+msgstr ""
+
+#: inc/backend/customizer.php:847
+msgid "Social"
+msgstr ""
+
+#: inc/backend/customizer.php:852 inc/backend/customizer.php:3855
+msgid "Social URL"
+msgstr ""
+
+#: inc/backend/customizer.php:853 inc/backend/customizer.php:3856
+msgid "Enter the URL for this social"
+msgstr ""
+
+#: inc/backend/customizer.php:872
+msgid "Menu Hover Animation"
+msgstr ""
+
+#: inc/backend/customizer.php:877
+msgid "No Animation"
+msgstr ""
+
+#: inc/backend/customizer.php:878
+msgid "Fade"
+msgstr ""
+
+#: inc/backend/customizer.php:879
+msgid "Slide"
+msgstr ""
+
+#: inc/backend/customizer.php:884
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/backend/customizer.php:890
+msgid "Primary Color"
+msgstr ""
+
+#: inc/backend/customizer.php:910
+msgid "AJAX Search"
+msgstr ""
+
+#: inc/backend/customizer.php:914
+msgid "Check this option to enable AJAX search in the header"
+msgstr ""
+
+#: inc/backend/customizer.php:918
+msgid "Search Content Type"
+msgstr ""
+
+#: inc/backend/customizer.php:923 inc/frontend/footer.php:386
+#: inc/frontend/woocommerce.php:1082 inc/functions/entry.php:836
+msgid "All"
+msgstr ""
+
+#: inc/backend/customizer.php:924
+msgid "Only products"
+msgstr ""
+
+#: inc/backend/customizer.php:937
+msgid "Logo Light"
+msgstr ""
+
+#: inc/backend/customizer.php:944
+msgid "Logo Width"
+msgstr ""
+
+#: inc/backend/customizer.php:951
+msgid "Logo Height"
+msgstr ""
+
+#: inc/backend/customizer.php:958
+msgid "Logo Margin"
+msgstr ""
+
+#: inc/backend/customizer.php:987
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/backend/customizer.php:998
+msgid "Custom Color Scheme"
+msgstr ""
+
+#: inc/backend/customizer.php:1022
+msgid "It just apply for home page"
+msgstr ""
+
+#: inc/backend/customizer.php:1043 inc/backend/customizer.php:1243
+#: inc/backend/customizer.php:1365 inc/backend/customizer.php:1464
+#: inc/backend/customizer.php:1728 inc/backend/customizer.php:1875
+#: inc/backend/customizer.php:1994 inc/backend/customizer.php:3447
+#: inc/backend/customizer.php:3569 inc/backend/customizer.php:3668
+#: inc/backend/customizer.php:3978 inc/backend/meta-boxes.php:215
+#: inc/backend/meta-boxes.php:356 inc/backend/meta-boxes.php:424
+#: inc/backend/meta-boxes.php:480 inc/mega-menu/tmpl/background.php:4
+msgid "Background Image"
+msgstr ""
+
+#: inc/backend/customizer.php:1057 inc/backend/customizer.php:3985
+#: inc/backend/meta-boxes.php:222
+msgid "Background Horizontal"
+msgstr ""
+
+#: inc/backend/customizer.php:1063 inc/backend/customizer.php:3991
+#: inc/backend/meta-boxes.php:228 inc/mega-menu/tmpl/background.php:42
+msgid "Left"
+msgstr ""
+
+#: inc/backend/customizer.php:1065 inc/backend/customizer.php:3993
+#: inc/backend/meta-boxes.php:230 inc/mega-menu/tmpl/background.php:46
+msgid "Right"
+msgstr ""
+
+#: inc/backend/customizer.php:1077 inc/backend/customizer.php:3998
+#: inc/backend/meta-boxes.php:234
+msgid "Background Vertical"
+msgstr ""
+
+#: inc/backend/customizer.php:1083 inc/backend/customizer.php:4004
+#: inc/backend/meta-boxes.php:240 inc/mega-menu/tmpl/background.php:61
+msgid "Top"
+msgstr ""
+
+#: inc/backend/customizer.php:1085 inc/backend/customizer.php:4006
+#: inc/backend/meta-boxes.php:242 inc/mega-menu/tmpl/background.php:65
+msgid "Bottom"
+msgstr ""
+
+#: inc/backend/customizer.php:1097 inc/backend/customizer.php:1292
+#: inc/backend/customizer.php:1414 inc/backend/customizer.php:1513
+#: inc/backend/customizer.php:1787 inc/backend/customizer.php:1934
+#: inc/backend/customizer.php:2053 inc/backend/customizer.php:3496
+#: inc/backend/customizer.php:3618 inc/backend/customizer.php:3717
+#: inc/backend/customizer.php:4011 inc/backend/meta-boxes.php:246
+#: inc/backend/meta-boxes.php:383 inc/backend/meta-boxes.php:451
+#: inc/backend/meta-boxes.php:507 inc/mega-menu/tmpl/background.php:23
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/backend/customizer.php:1103 inc/backend/customizer.php:1297
+#: inc/backend/customizer.php:1419 inc/backend/customizer.php:1518
+#: inc/backend/customizer.php:1792 inc/backend/customizer.php:1939
+#: inc/backend/customizer.php:2058 inc/backend/customizer.php:3501
+#: inc/backend/customizer.php:3623 inc/backend/customizer.php:3722
+#: inc/backend/customizer.php:4017 inc/backend/meta-boxes.php:252
+#: inc/backend/meta-boxes.php:389 inc/backend/meta-boxes.php:457
+#: inc/backend/meta-boxes.php:513 inc/mega-menu/tmpl/background.php:27
+msgid "No Repeat"
+msgstr ""
+
+#: inc/backend/customizer.php:1104 inc/backend/customizer.php:1298
+#: inc/backend/customizer.php:1420 inc/backend/customizer.php:1519
+#: inc/backend/customizer.php:1793 inc/backend/customizer.php:1940
+#: inc/backend/customizer.php:2059 inc/backend/customizer.php:3502
+#: inc/backend/customizer.php:3624 inc/backend/customizer.php:3723
+#: inc/backend/customizer.php:4018 inc/backend/meta-boxes.php:253
+#: inc/backend/meta-boxes.php:390 inc/backend/meta-boxes.php:458
+#: inc/backend/meta-boxes.php:514
+msgid "Repeat"
+msgstr ""
+
+#: inc/backend/customizer.php:1105 inc/backend/customizer.php:4019
+#: inc/backend/meta-boxes.php:254
+msgid "Repeat Vertical"
+msgstr ""
+
+#: inc/backend/customizer.php:1106 inc/backend/customizer.php:4020
+#: inc/backend/meta-boxes.php:255
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: inc/backend/customizer.php:1118 inc/backend/customizer.php:1341
+#: inc/backend/customizer.php:1846 inc/backend/customizer.php:3545
+#: inc/backend/customizer.php:4025 inc/backend/meta-boxes.php:259
+#: inc/backend/meta-boxes.php:410 inc/mega-menu/tmpl/background.php:77
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/backend/customizer.php:1124 inc/backend/customizer.php:1346
+#: inc/backend/customizer.php:1851 inc/backend/customizer.php:3550
+#: inc/backend/customizer.php:4031 inc/backend/meta-boxes.php:265
+#: inc/backend/meta-boxes.php:416 inc/mega-menu/tmpl/background.php:80
+msgid "Scroll"
+msgstr ""
+
+#: inc/backend/customizer.php:1125 inc/backend/customizer.php:1347
+#: inc/backend/customizer.php:1852 inc/backend/customizer.php:3551
+#: inc/backend/customizer.php:4032 inc/backend/meta-boxes.php:266
+#: inc/backend/meta-boxes.php:417 inc/mega-menu/tmpl/background.php:82
+msgid "Fixed"
+msgstr ""
+
+#: inc/backend/customizer.php:1137 inc/backend/customizer.php:1317
+#: inc/backend/customizer.php:1439 inc/backend/customizer.php:1538
+#: inc/backend/customizer.php:1817 inc/backend/customizer.php:1964
+#: inc/backend/customizer.php:2083 inc/backend/customizer.php:3521
+#: inc/backend/customizer.php:3643 inc/backend/customizer.php:3742
+#: inc/backend/customizer.php:4037 inc/backend/meta-boxes.php:270
+#: inc/backend/meta-boxes.php:397 inc/backend/meta-boxes.php:465
+#: inc/backend/meta-boxes.php:521
+msgid "Background Size"
+msgstr ""
+
+#: inc/backend/customizer.php:1143 inc/backend/customizer.php:1322
+#: inc/backend/customizer.php:1444 inc/backend/customizer.php:1543
+#: inc/backend/customizer.php:1822 inc/backend/customizer.php:1969
+#: inc/backend/customizer.php:2088 inc/backend/customizer.php:3526
+#: inc/backend/customizer.php:3648 inc/backend/customizer.php:3747
+#: inc/backend/customizer.php:4043 inc/backend/meta-boxes.php:276
+#: inc/backend/meta-boxes.php:403 inc/backend/meta-boxes.php:471
+#: inc/backend/meta-boxes.php:527
+msgid "Auto"
+msgstr ""
+
+#: inc/backend/customizer.php:1144 inc/backend/customizer.php:1323
+#: inc/backend/customizer.php:1445 inc/backend/customizer.php:1544
+#: inc/backend/customizer.php:1823 inc/backend/customizer.php:1970
+#: inc/backend/customizer.php:2089 inc/backend/customizer.php:3527
+#: inc/backend/customizer.php:3649 inc/backend/customizer.php:3748
+#: inc/backend/customizer.php:4044 inc/backend/meta-boxes.php:277
+#: inc/backend/meta-boxes.php:404 inc/backend/meta-boxes.php:472
+#: inc/backend/meta-boxes.php:528
+msgid "Cover"
+msgstr ""
+
+#: inc/backend/customizer.php:1145 inc/backend/customizer.php:1324
+#: inc/backend/customizer.php:1446 inc/backend/customizer.php:1545
+#: inc/backend/customizer.php:1824 inc/backend/customizer.php:1971
+#: inc/backend/customizer.php:2090 inc/backend/customizer.php:3528
+#: inc/backend/customizer.php:3650 inc/backend/customizer.php:3749
+#: inc/backend/customizer.php:4045 inc/backend/meta-boxes.php:278
+#: inc/backend/meta-boxes.php:405 inc/backend/meta-boxes.php:473
+#: inc/backend/meta-boxes.php:529
+msgid "Contain"
+msgstr ""
+
+#: inc/backend/customizer.php:1160 inc/backend/customizer.php:1574
+#: inc/backend/customizer.php:2538 inc/backend/customizer.php:3368
+msgid "Enable Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:1162
+msgid "Enable to show a page header for page below the site header"
+msgstr ""
+
+#: inc/backend/customizer.php:1168 inc/backend/customizer.php:1582
+#: inc/backend/customizer.php:2546
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/backend/customizer.php:1170
+msgid "Enable to show a breadcrumbs for page below the site header"
+msgstr ""
+
+#: inc/backend/customizer.php:1182 inc/backend/customizer.php:1672
+#: inc/backend/customizer.php:3404 inc/backend/meta-boxes.php:329
+msgid "Enable Parallax"
+msgstr ""
+
+#: inc/backend/customizer.php:1196 inc/backend/customizer.php:1650
+#: inc/backend/customizer.php:3389
+msgid "Page Header Text Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1224 inc/backend/customizer.php:1704
+#: inc/backend/customizer.php:3428 inc/backend/meta-boxes.php:342
+msgid "Device"
+msgstr ""
+
+#: inc/backend/customizer.php:1228 inc/backend/customizer.php:1708
+#: inc/backend/customizer.php:3432 inc/backend/meta-boxes.php:347
+msgid "Desktop"
+msgstr ""
+
+#: inc/backend/customizer.php:1229 inc/backend/customizer.php:1709
+#: inc/backend/customizer.php:3433 inc/backend/meta-boxes.php:348
+msgid "Tablet"
+msgstr ""
+
+#: inc/backend/customizer.php:1262 inc/backend/customizer.php:1384
+#: inc/backend/customizer.php:1483 inc/backend/customizer.php:1752
+#: inc/backend/customizer.php:1899 inc/backend/customizer.php:2018
+#: inc/backend/customizer.php:3466 inc/backend/customizer.php:3588
+#: inc/backend/customizer.php:3687 inc/backend/meta-boxes.php:364
+#: inc/backend/meta-boxes.php:432 inc/backend/meta-boxes.php:488
+#: inc/mega-menu/tmpl/background.php:38
+msgid "Background Position"
+msgstr ""
+
+#: inc/backend/customizer.php:1267 inc/backend/customizer.php:1389
+#: inc/backend/customizer.php:1488 inc/backend/customizer.php:1757
+#: inc/backend/customizer.php:1904 inc/backend/customizer.php:2023
+#: inc/backend/customizer.php:3471 inc/backend/customizer.php:3593
+#: inc/backend/customizer.php:3692 inc/backend/meta-boxes.php:370
+#: inc/backend/meta-boxes.php:438 inc/backend/meta-boxes.php:494
+msgid "Top Left"
+msgstr ""
+
+#: inc/backend/customizer.php:1268 inc/backend/customizer.php:1390
+#: inc/backend/customizer.php:1489 inc/backend/customizer.php:1758
+#: inc/backend/customizer.php:1905 inc/backend/customizer.php:2024
+#: inc/backend/customizer.php:3472 inc/backend/customizer.php:3594
+#: inc/backend/customizer.php:3693 inc/backend/meta-boxes.php:371
+#: inc/backend/meta-boxes.php:439 inc/backend/meta-boxes.php:495
+msgid "Top Center"
+msgstr ""
+
+#: inc/backend/customizer.php:1269 inc/backend/customizer.php:1391
+#: inc/backend/customizer.php:1490 inc/backend/customizer.php:1759
+#: inc/backend/customizer.php:1906 inc/backend/customizer.php:2025
+#: inc/backend/customizer.php:3473 inc/backend/customizer.php:3595
+#: inc/backend/customizer.php:3694 inc/backend/meta-boxes.php:372
+#: inc/backend/meta-boxes.php:440 inc/backend/meta-boxes.php:496
+msgid "Top Right"
+msgstr ""
+
+#: inc/backend/customizer.php:1270 inc/backend/customizer.php:1392
+#: inc/backend/customizer.php:1491 inc/backend/customizer.php:1760
+#: inc/backend/customizer.php:1907 inc/backend/customizer.php:2026
+#: inc/backend/customizer.php:3474 inc/backend/customizer.php:3596
+#: inc/backend/customizer.php:3695 inc/backend/meta-boxes.php:373
+#: inc/backend/meta-boxes.php:441 inc/backend/meta-boxes.php:497
+msgid "Center Left"
+msgstr ""
+
+#: inc/backend/customizer.php:1271 inc/backend/customizer.php:1393
+#: inc/backend/customizer.php:1492 inc/backend/customizer.php:1761
+#: inc/backend/customizer.php:1908 inc/backend/customizer.php:2027
+#: inc/backend/customizer.php:3475 inc/backend/customizer.php:3597
+#: inc/backend/customizer.php:3696 inc/backend/meta-boxes.php:374
+#: inc/backend/meta-boxes.php:442 inc/backend/meta-boxes.php:498
+msgid "Center Center"
+msgstr ""
+
+#: inc/backend/customizer.php:1272 inc/backend/customizer.php:1394
+#: inc/backend/customizer.php:1493 inc/backend/customizer.php:1762
+#: inc/backend/customizer.php:1909 inc/backend/customizer.php:2028
+#: inc/backend/customizer.php:3476 inc/backend/customizer.php:3598
+#: inc/backend/customizer.php:3697 inc/backend/meta-boxes.php:375
+#: inc/backend/meta-boxes.php:443 inc/backend/meta-boxes.php:499
+msgid "Center Right"
+msgstr ""
+
+#: inc/backend/customizer.php:1273 inc/backend/customizer.php:1395
+#: inc/backend/customizer.php:1494 inc/backend/customizer.php:1763
+#: inc/backend/customizer.php:1910 inc/backend/customizer.php:2029
+#: inc/backend/customizer.php:3477 inc/backend/customizer.php:3599
+#: inc/backend/customizer.php:3698 inc/backend/meta-boxes.php:376
+#: inc/backend/meta-boxes.php:444 inc/backend/meta-boxes.php:500
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/backend/customizer.php:1274 inc/backend/customizer.php:1396
+#: inc/backend/customizer.php:1495 inc/backend/customizer.php:1764
+#: inc/backend/customizer.php:1911 inc/backend/customizer.php:2030
+#: inc/backend/customizer.php:3478 inc/backend/customizer.php:3600
+#: inc/backend/customizer.php:3699 inc/backend/meta-boxes.php:377
+#: inc/backend/meta-boxes.php:445 inc/backend/meta-boxes.php:501
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/backend/customizer.php:1275 inc/backend/customizer.php:1397
+#: inc/backend/customizer.php:1496 inc/backend/customizer.php:1765
+#: inc/backend/customizer.php:1912 inc/backend/customizer.php:2031
+#: inc/backend/customizer.php:3479 inc/backend/customizer.php:3601
+#: inc/backend/customizer.php:3700 inc/backend/meta-boxes.php:378
+#: inc/backend/meta-boxes.php:446 inc/backend/meta-boxes.php:502
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/backend/customizer.php:1299 inc/backend/customizer.php:1421
+#: inc/backend/customizer.php:1520 inc/backend/customizer.php:1794
+#: inc/backend/customizer.php:1941 inc/backend/customizer.php:2060
+#: inc/backend/customizer.php:3503 inc/backend/customizer.php:3625
+#: inc/backend/customizer.php:3724 inc/backend/meta-boxes.php:391
+#: inc/backend/meta-boxes.php:459 inc/backend/meta-boxes.php:515
+msgid "Repeat-x"
+msgstr ""
+
+#: inc/backend/customizer.php:1300 inc/backend/customizer.php:1422
+#: inc/backend/customizer.php:1521 inc/backend/customizer.php:1795
+#: inc/backend/customizer.php:1942 inc/backend/customizer.php:2061
+#: inc/backend/customizer.php:3504 inc/backend/customizer.php:3626
+#: inc/backend/customizer.php:3725 inc/backend/meta-boxes.php:392
+#: inc/backend/meta-boxes.php:460 inc/backend/meta-boxes.php:516
+msgid "Repeat-y"
+msgstr ""
+
+#: inc/backend/customizer.php:1565
+msgid "Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:1566
+msgid "Inheritance of the Blog page"
+msgstr ""
+
+#: inc/backend/customizer.php:1576
+msgid "Enable to show a page header for blog page below the site header"
+msgstr ""
+
+#: inc/backend/customizer.php:1584
+msgid "Enable to show a breadcrumbs for blog page below the site header"
+msgstr ""
+
+#: inc/backend/customizer.php:1596 inc/backend/customizer.php:2560
+msgid "Page Header Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:1615
+msgid "Blog SubTitle"
+msgstr ""
+
+#: inc/backend/customizer.php:1619
+msgid "Enter Blog SubTitle"
+msgstr ""
+
+#: inc/backend/customizer.php:1635
+msgid "Blog Title"
+msgstr ""
+
+#: inc/backend/customizer.php:1639
+msgid "Enter Blog Title"
+msgstr ""
+
+#: inc/backend/customizer.php:2114
+msgid "Blog Style"
+msgstr ""
+
+#: inc/backend/customizer.php:2119 inc/backend/customizer.php:2414
+#: inc/backend/customizer.php:3772
+msgid "Grid"
+msgstr ""
+
+#: inc/backend/customizer.php:2120 inc/backend/customizer.php:2415
+msgid "List"
+msgstr ""
+
+#: inc/backend/customizer.php:2121 inc/backend/customizer.php:3773
+msgid "Masonry"
+msgstr ""
+
+#: inc/backend/customizer.php:2126
+msgid "Blog Grid Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:2130
+msgid "Select default sidebar for blog classic."
+msgstr ""
+
+#: inc/backend/customizer.php:2132 inc/backend/customizer.php:2220
+#: inc/backend/customizer.php:2387 inc/backend/customizer.php:3082
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/backend/customizer.php:2133 inc/backend/customizer.php:2221
+#: inc/backend/customizer.php:2386 inc/backend/customizer.php:3081
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/backend/customizer.php:2134 inc/backend/customizer.php:2222
+#: inc/backend/customizer.php:2388 inc/backend/customizer.php:3083
+msgid "Full Content"
+msgstr ""
+
+#: inc/backend/customizer.php:2146
+msgid "Entry Metas"
+msgstr ""
+
+#: inc/backend/customizer.php:2150 inc/backend/customizer.php:2231
+msgid "Category"
+msgstr ""
+
+#: inc/backend/customizer.php:2151 inc/backend/customizer.php:2233
+msgid "Date"
+msgstr ""
+
+#: inc/backend/customizer.php:2157
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/backend/customizer.php:2177
+msgid "Categories Filter"
+msgstr ""
+
+#: inc/backend/customizer.php:2183 inc/backend/customizer.php:2446
+msgid "Categories Numbers"
+msgstr ""
+
+#: inc/backend/customizer.php:2197 inc/backend/customizer.php:2460
+msgid "Custom Categories"
+msgstr ""
+
+#: inc/backend/customizer.php:2201 inc/backend/customizer.php:2464
+msgid ""
+"Enter categories slug you want to display. Each slug is separated by comma "
+"character \",\". If empty, it will display default"
+msgstr ""
+
+#: inc/backend/customizer.php:2214
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:2218
+msgid "Select default sidebar for the single post page."
+msgstr ""
+
+#: inc/backend/customizer.php:2227
+msgid "Entry Meta"
+msgstr ""
+
+#: inc/backend/customizer.php:2232
+msgid "Author"
+msgstr ""
+
+#: inc/backend/customizer.php:2245 inc/backend/customizer.php:3827
+msgid "Show Socials Share"
+msgstr ""
+
+#: inc/backend/customizer.php:2246
+msgid "Check this option to show socials share in the single post page."
+msgstr ""
+
+#: inc/backend/customizer.php:2254 inc/backend/customizer.php:3180
+msgid "Socials Share"
+msgstr ""
+
+#: inc/backend/customizer.php:2258 inc/backend/customizer.php:3184
+#: inc/functions/entry.php:567
+msgid "Facebook"
+msgstr ""
+
+#: inc/backend/customizer.php:2259 inc/backend/customizer.php:3185
+#: inc/functions/entry.php:568
+msgid "Twitter"
+msgstr ""
+
+#: inc/backend/customizer.php:2260 inc/backend/customizer.php:3186
+msgid "Google Plus"
+msgstr ""
+
+#: inc/backend/customizer.php:2261 inc/backend/customizer.php:3187
+#: inc/functions/entry.php:570
+msgid "Tumblr"
+msgstr ""
+
+#: inc/backend/customizer.php:2262 inc/backend/customizer.php:3188
+#: inc/functions/entry.php:575
+msgid "Pinterest"
+msgstr ""
+
+#: inc/backend/customizer.php:2263 inc/backend/customizer.php:3189
+msgid "Linkedin"
+msgstr ""
+
+#: inc/backend/customizer.php:2276
+msgid "Show Author Box"
+msgstr ""
+
+#: inc/backend/customizer.php:2288
+msgid "Related Posts"
+msgstr ""
+
+#: inc/backend/customizer.php:2290
+msgid "Check this option to show related posts in the single post page."
+msgstr ""
+
+#: inc/backend/customizer.php:2296
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/backend/customizer.php:2298 inc/backend/customizer.php:3318
+msgid "You may also like"
+msgstr ""
+
+#: inc/backend/customizer.php:2311
+msgid "Related Posts Numbers"
+msgstr ""
+
+#: inc/backend/customizer.php:2326
+msgid "Added to Cart Notification"
+msgstr ""
+
+#: inc/backend/customizer.php:2327
+msgid "Display a notification when a product is added to cart"
+msgstr ""
+
+#: inc/backend/customizer.php:2334
+msgid "Cart Notification Auto Hide"
+msgstr ""
+
+#: inc/backend/customizer.php:2335 inc/backend/customizer.php:2357
+msgid "How many seconds you want to hide the notification."
+msgstr ""
+
+#: inc/backend/customizer.php:2348
+msgid "Added to Wislist Notification"
+msgstr ""
+
+#: inc/backend/customizer.php:2349
+msgid "Display a notification when a product is added to wishlist"
+msgstr ""
+
+#: inc/backend/customizer.php:2356
+msgid "Wishlist Notification Auto Hide"
+msgstr ""
+
+#: inc/backend/customizer.php:2365 inc/backend/product-meta-box-data.php:145
+msgid "Product Attribute"
+msgstr ""
+
+#: inc/backend/customizer.php:2370 inc/backend/product-meta-box-data.php:146
+msgid "Show product attribute for each item listed under the item name."
+msgstr ""
+
+#: inc/backend/customizer.php:2380
+msgid "Catalog Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:2384
+msgid "Select layout for catalog."
+msgstr ""
+
+#: inc/backend/customizer.php:2389
+msgid "Masonry Content"
+msgstr ""
+
+#: inc/backend/customizer.php:2394
+msgid "Catalog Full Width"
+msgstr ""
+
+#: inc/backend/customizer.php:2408
+msgid "Catalog View"
+msgstr ""
+
+#: inc/backend/customizer.php:2409
+msgid "Select Catalog View"
+msgstr ""
+
+#: inc/backend/customizer.php:2427
+msgid "Masonry ToolBar Elements"
+msgstr ""
+
+#: inc/backend/customizer.php:2432 inc/backend/customizer.php:3214
+msgid "Categories"
+msgstr ""
+
+#: inc/backend/customizer.php:2433 inc/frontend/woocommerce.php:1003
+msgid "Filters"
+msgstr ""
+
+#: inc/backend/customizer.php:2435
+msgid "Select which elements you want to show."
+msgstr ""
+
+#: inc/backend/customizer.php:2481
+msgid "Catalog Add to Cart Action"
+msgstr ""
+
+#: inc/backend/customizer.php:2486
+msgid "Show Notice"
+msgstr ""
+
+#: inc/backend/customizer.php:2487
+msgid "Show Cart Sidebar"
+msgstr ""
+
+#: inc/backend/customizer.php:2498
+msgid "Ajax For Filtering"
+msgstr ""
+
+#: inc/backend/customizer.php:2500
+msgid "Check this option to use ajax for filtering in the catalog page."
+msgstr ""
+
+#: inc/backend/customizer.php:2506
+msgid "Disable Secondary Product Thumbnail"
+msgstr ""
+
+#: inc/backend/customizer.php:2510
+msgid ""
+"Check this option to disable secondary product thumbnail when hover over the "
+"main product image."
+msgstr ""
+
+#: inc/backend/customizer.php:2514
+msgid "Type of Navigation"
+msgstr ""
+
+#: inc/backend/customizer.php:2519
+msgid "Page Numbers"
+msgstr ""
+
+#: inc/backend/customizer.php:2520
+msgid "Ajax Loading"
+msgstr ""
+
+#: inc/backend/customizer.php:2521
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/backend/customizer.php:2529
+msgid "Disable Login Popup"
+msgstr ""
+
+#: inc/backend/customizer.php:2531
+msgid "Disable Login Modal when click on account icon on header"
+msgstr ""
+
+#: inc/backend/customizer.php:2540
+msgid "Enable to show a page header for catalog page below the site header"
+msgstr ""
+
+#: inc/backend/customizer.php:2548
+msgid "Enable to show a breadcrumbs for catalog page below the site header"
+msgstr ""
+
+#: inc/backend/customizer.php:2587
+msgid "Shop Toolbar"
+msgstr ""
+
+#: inc/backend/customizer.php:2592
+msgid "Result"
+msgstr ""
+
+#: inc/backend/customizer.php:2593 inc/frontend/woocommerce.php:882
+msgid "Filter"
+msgstr ""
+
+#: inc/backend/customizer.php:2594
+msgid "Sort By"
+msgstr ""
+
+#: inc/backend/customizer.php:2595
+msgid "Shop View"
+msgstr ""
+
+#: inc/backend/customizer.php:2604
+msgid "Select which elements you want to show on shop toolbar"
+msgstr ""
+
+#: inc/backend/customizer.php:2617
+msgid "Enable Catalog Banner"
+msgstr ""
+
+#: inc/backend/customizer.php:2619
+msgid "Enable to show a page header banner for catalog page"
+msgstr ""
+
+#: inc/backend/customizer.php:2632
+msgid "Catalog Banner Shortcode"
+msgstr ""
+
+#: inc/backend/customizer.php:2634
+msgid "Enter banner shortcode."
+msgstr ""
+
+#: inc/backend/customizer.php:2635
+msgid "You can build banner by RevSlider then copy that shortcode into here"
+msgstr ""
+
+#: inc/backend/customizer.php:2654 inc/backend/customizer.php:3110
+msgid "Show Badges"
+msgstr ""
+
+#: inc/backend/customizer.php:2658
+msgid "Check this to show badges on every products."
+msgstr ""
+
+#: inc/backend/customizer.php:2667 inc/backend/customizer.php:2776
+#: inc/frontend/woocommerce.php:638
+#: inc/mega-menu/class-mega-menu-walker.php:334
+#: inc/mega-menu/tmpl/general.php:17
+msgid "Hot"
+msgstr ""
+
+#: inc/backend/customizer.php:2668 inc/backend/customizer.php:2895
+#: inc/frontend/woocommerce.php:646
+#: inc/mega-menu/class-mega-menu-walker.php:337
+#: inc/mega-menu/tmpl/general.php:24
+msgid "New"
+msgstr ""
+
+#: inc/backend/customizer.php:2669 inc/backend/customizer.php:2710
+#: inc/frontend/woocommerce.php:592
+msgid "Sale"
+msgstr ""
+
+#: inc/backend/customizer.php:2670 inc/backend/customizer.php:2835
+#: inc/frontend/woocommerce.php:584
+msgid "Out Of Stock"
+msgstr ""
+
+#: inc/backend/customizer.php:2672
+msgid "Select which badges you want to show"
+msgstr ""
+
+#: inc/backend/customizer.php:2684
+msgid "Sale Badge"
+msgstr ""
+
+#: inc/backend/customizer.php:2690
+msgid "Sale Behaviour"
+msgstr ""
+
+#: inc/backend/customizer.php:2695
+msgid "Show Text"
+msgstr ""
+
+#: inc/backend/customizer.php:2696
+msgid "Show Percentage Discount"
+msgstr ""
+
+#: inc/backend/customizer.php:2708
+msgid "Custom Sale Text"
+msgstr ""
+
+#: inc/backend/customizer.php:2767
+msgid "Hot Badge"
+msgstr ""
+
+#: inc/backend/customizer.php:2773
+msgid "Custom Hot Text"
+msgstr ""
+
+#: inc/backend/customizer.php:2827
+msgid "Out of stock Badge"
+msgstr ""
+
+#: inc/backend/customizer.php:2833
+msgid "Custom Out Of Stock Text"
+msgstr ""
+
+#: inc/backend/customizer.php:2887
+msgid "New Badge"
+msgstr ""
+
+#: inc/backend/customizer.php:2893
+msgid "Custom New Text"
+msgstr ""
+
+#: inc/backend/customizer.php:2946
+msgid "Product Newness"
+msgstr ""
+
+#: inc/backend/customizer.php:2950
+msgid "Display the \"New\" badge for how many days?"
+msgstr ""
+
+#: inc/backend/customizer.php:2967 inc/backend/customizer.php:2973
+msgid "Custom Badge"
+msgstr ""
+
+#: inc/backend/customizer.php:3015
+msgid "Product Zoom"
+msgstr ""
+
+#: inc/backend/customizer.php:3018
+msgid "Check this option to show a bigger size product image on mouseover"
+msgstr ""
+
+#: inc/backend/customizer.php:3030
+msgid "Product Images Gallery"
+msgstr ""
+
+#: inc/backend/customizer.php:3033
+msgid "Check this option to open product gallery images in a lightbox"
+msgstr ""
+
+#: inc/backend/customizer.php:3038
+msgid "Add to cart with AJAX"
+msgstr ""
+
+#: inc/backend/customizer.php:3042
+msgid "Check this option to enable add to cart with AJAX on the product page."
+msgstr ""
+
+#: inc/backend/customizer.php:3047
+msgid "Add to cart Sticky"
+msgstr ""
+
+#: inc/backend/customizer.php:3051
+msgid ""
+"Check this option to enable add to cart sticky on the product page on mobile."
+msgstr ""
+
+#: inc/backend/customizer.php:3061
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:3076
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/backend/customizer.php:3130
+msgid "Buy Now Button"
+msgstr ""
+
+#: inc/backend/customizer.php:3133
+msgid "Show buy now in the single product."
+msgstr ""
+
+#: inc/backend/customizer.php:3138
+msgid "Buy Now Text"
+msgstr ""
+
+#: inc/backend/customizer.php:3139
+msgid "Enter Buy not button text."
+msgstr ""
+
+#: inc/backend/customizer.php:3141
+msgid "Buy Now"
+msgstr ""
+
+#: inc/backend/customizer.php:3153
+msgid "Buy Now Link"
+msgstr ""
+
+#: inc/backend/customizer.php:3173
+msgid "Show Product Socials"
+msgstr ""
+
+#: inc/backend/customizer.php:3208
+msgid "Show Product Meta"
+msgstr ""
+
+#: inc/backend/customizer.php:3213
+msgid "SKU"
+msgstr ""
+
+#: inc/backend/customizer.php:3215
+msgid "Tags"
+msgstr ""
+
+#: inc/backend/customizer.php:3216
+msgid "Brand"
+msgstr ""
+
+#: inc/backend/customizer.php:3218
+msgid ""
+"Select which product meta you want to show in single product page. Brand "
+"product just show if Brand Product Plugin is activated"
+msgstr ""
+
+#: inc/backend/customizer.php:3228
+msgid "Product Toolbar"
+msgstr ""
+
+#: inc/backend/customizer.php:3233
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/backend/customizer.php:3234
+msgid "Navigation"
+msgstr ""
+
+#: inc/backend/customizer.php:3236
+msgid ""
+"Select element you want to show on product toolbar in single product page"
+msgstr ""
+
+#: inc/backend/customizer.php:3246
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/backend/customizer.php:3253
+msgid "Related Products Title"
+msgstr ""
+
+#: inc/backend/customizer.php:3255
+msgid "Related products"
+msgstr ""
+
+#: inc/backend/customizer.php:3267
+msgid "Related Products Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:3271
+msgid ""
+"Specify how many columns of related products you want to show on single "
+"product page"
+msgstr ""
+
+#: inc/backend/customizer.php:3273 inc/backend/customizer.php:3336
+#: inc/backend/customizer.php:4067 inc/backend/customizer.php:4092
+msgid "3 Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:3274 inc/backend/customizer.php:3337
+#: inc/backend/customizer.php:4068
+msgid "4 Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:3275 inc/backend/customizer.php:3338
+#: inc/backend/customizer.php:4069
+msgid "5 Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:3276 inc/backend/customizer.php:3339
+msgid "6 Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:3288
+msgid "Related Products Numbers"
+msgstr ""
+
+#: inc/backend/customizer.php:3292
+msgid ""
+"Specify how many numbers of related products you want to show on single "
+"product page"
+msgstr ""
+
+#: inc/backend/customizer.php:3309
+msgid "Show Up-sells Products"
+msgstr ""
+
+#: inc/backend/customizer.php:3316
+msgid "Up-sells Products Title"
+msgstr ""
+
+#: inc/backend/customizer.php:3330
+msgid "Up-sells Products Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:3334
+msgid ""
+"Specify how many columns of up-sells products you want to show on single "
+"product page"
+msgstr ""
+
+#: inc/backend/customizer.php:3351
+msgid "Up-sells Products Numbers"
+msgstr ""
+
+#: inc/backend/customizer.php:3355
+msgid ""
+"Specify how many numbers of up-sells products you want to show on single "
+"product page"
+msgstr ""
+
+#: inc/backend/customizer.php:3370
+msgid "Enable to show a page header for portfolio below the site header"
+msgstr ""
+
+#: inc/backend/customizer.php:3376
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/backend/customizer.php:3378
+msgid "Enable to show a breadcrumb on page header"
+msgstr ""
+
+#: inc/backend/customizer.php:3767
+msgid "Portfolio Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:3774
+msgid "Carousel"
+msgstr ""
+
+#: inc/backend/customizer.php:3780
+msgid "Category Filter"
+msgstr ""
+
+#: inc/backend/customizer.php:3781
+msgid "Check this option to display Category Filter in the portfolio page."
+msgstr ""
+
+#: inc/backend/customizer.php:3789
+msgid "Portfolio Navigation Type"
+msgstr ""
+
+#: inc/backend/customizer.php:3794
+msgid "Loading Ajax"
+msgstr ""
+
+#: inc/backend/customizer.php:3795
+msgid "Numeric"
+msgstr ""
+
+#: inc/backend/customizer.php:3808
+msgid "Portfolio Text Color"
+msgstr ""
+
+#: inc/backend/customizer.php:3828
+msgid "Check this option to show socials share in the single portfolio page."
+msgstr ""
+
+#: inc/backend/customizer.php:3872
+msgid "Newsletter"
+msgstr ""
+
+#: inc/backend/customizer.php:3879
+msgid "Show on HomePage"
+msgstr ""
+
+#: inc/backend/customizer.php:3883
+msgid "Just show newsletter on HomePage"
+msgstr ""
+
+#: inc/backend/customizer.php:3887
+msgid "Style"
+msgstr ""
+
+#: inc/backend/customizer.php:3895
+msgid "Select Style for Newsletter"
+msgstr ""
+
+#: inc/backend/customizer.php:3899
+msgid "Shape"
+msgstr ""
+
+#: inc/backend/customizer.php:3904
+msgid "Square"
+msgstr ""
+
+#: inc/backend/customizer.php:3905
+msgid "Round"
+msgstr ""
+
+#: inc/backend/customizer.php:3910
+msgid "Newsletter Title"
+msgstr ""
+
+#: inc/backend/customizer.php:3912
+msgid "Keep Connected"
+msgstr ""
+
+#: inc/backend/customizer.php:3917
+msgid "Newsletter Description"
+msgstr ""
+
+#: inc/backend/customizer.php:3919
+msgid "Get updates by subscribe our weekly newsletter"
+msgstr ""
+
+#: inc/backend/customizer.php:3924 inc/backend/meta-boxes.php:192
+msgid "Newsletter Form"
+msgstr ""
+
+#: inc/backend/customizer.php:3928
+msgid "Go to MailChimp for WP/Form to get shortcode"
+msgstr ""
+
+#: inc/backend/customizer.php:3960
+msgid "Footer Skin"
+msgstr ""
+
+#: inc/backend/customizer.php:4060
+msgid "Footer Widgets Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:4065 inc/backend/customizer.php:4090
+msgid "1 Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:4066 inc/backend/customizer.php:4091
+#: inc/backend/customizer.php:4200
+msgid "2 Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:4071
+msgid ""
+"Go to Appearance/Widgets/Footer Widget 1, 2, 3, 4, 5 to add widgets content."
+msgstr ""
+
+#: inc/backend/customizer.php:4085
+msgid "Footer Copyright Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:4094
+msgid ""
+"Go to Appearance/Widgets/Footer Copyright 1, 2, 3 to add widgets content."
+msgstr ""
+
+#: inc/backend/customizer.php:4098
+msgid "Menu style"
+msgstr ""
+
+#: inc/backend/customizer.php:4103
+msgid "Capitalize"
+msgstr ""
+
+#: inc/backend/customizer.php:4104
+msgid "Uppercase"
+msgstr ""
+
+#: inc/backend/customizer.php:4106
+msgid "Select text transform for menu on footer copyright"
+msgstr ""
+
+#: inc/backend/customizer.php:4110
+msgid "Top Spacing"
+msgstr ""
+
+#: inc/backend/customizer.php:4111
+msgid "Adjust the top spacing."
+msgstr ""
+
+#: inc/backend/customizer.php:4125
+msgid "Bottom Spacing"
+msgstr ""
+
+#: inc/backend/customizer.php:4126
+msgid "Adjust the bottom spacing."
+msgstr ""
+
+#: inc/backend/customizer.php:4142
+msgid "Show Recently Viewed"
+msgstr ""
+
+#: inc/backend/customizer.php:4146
+msgid ""
+"Check this option to show the recently viewed products above the footer."
+msgstr ""
+
+#: inc/backend/customizer.php:4150
+msgid "Show Recently Viewed in"
+msgstr ""
+
+#: inc/backend/customizer.php:4156
+msgid "Catalog"
+msgstr ""
+
+#: inc/backend/customizer.php:4159
+msgid "Post"
+msgstr ""
+
+#: inc/backend/customizer.php:4160
+msgid "Other Pages"
+msgstr ""
+
+#: inc/backend/customizer.php:4162
+msgid "Check pages to show the recently viewed products above the footer."
+msgstr ""
+
+#: inc/backend/customizer.php:4166
+msgid "Recently Viewed Title"
+msgstr ""
+
+#: inc/backend/customizer.php:4168
+msgid "Your Recently Viewed Products"
+msgstr ""
+
+#: inc/backend/customizer.php:4173
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/backend/customizer.php:4182
+msgid "Menu Mobile Icon Behaviour"
+msgstr ""
+
+#: inc/backend/customizer.php:4186
+msgid "Open sub menu by click on icon"
+msgstr ""
+
+#: inc/backend/customizer.php:4187
+msgid "Open sub menu by click on item"
+msgstr ""
+
+#: inc/backend/customizer.php:4193
+msgid "Catalog Columns"
+msgstr ""
+
+#: inc/backend/customizer.php:4197
+msgid "Select catalog columns on mobile."
+msgstr ""
+
+#: inc/backend/customizer.php:4199
+msgid "1 Column"
+msgstr ""
+
+#: inc/backend/customizer.php:4205
+msgid "Filter Mobile Sidebar"
+msgstr ""
+
+#: inc/backend/customizer.php:4209
+msgid "The Catalog filter display as sidebar"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:45
+msgid "Format Details"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:52
+msgid "Image"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:59
+msgid "Gallery"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:65
+msgid "Video"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:78
+msgid "Header Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:84
+msgid "Custom Header"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:90
+msgid "Enable Header Transparent"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:95
+msgid "This option just apply for pages which is not home page template"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:98
+msgid "Hide Border"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:128
+msgid "Header Left Sidebar Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:134
+msgid "Header Account Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:139
+msgid "Header Wishlist Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:144
+msgid "Header Cart Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:149
+msgid "Header Copyright"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:158
+msgid "Header Socials"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:162
+msgid "Enter socials URL"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:170
+msgid "Newsletter Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:176
+msgid "Hide Newsletter"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:182
+msgid "Form Title"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:187
+msgid "Form Subtitle"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:195
+msgid "Go to MailChimp for WP &gt; Form to get shortcode"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:203
+msgid "Page Background Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:287
+msgid "Page Header Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:298
+msgid "Hide Page Header"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:305
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:312
+msgid "Custom Layout"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:336 inc/mega-menu/tmpl/menus.php:5
+msgid "Background"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:539
+msgid "Product Video"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:545
+msgid "Video URL"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:549
+msgid ""
+"Enter URL of Youtube or Vimeo or specific filetypes such as mp4, m4v, webm, "
+"ogv, wmv, flv."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:552
+msgid "Video Width(px)"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:555
+msgid "Enter the width of video."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:559
+msgid "Video Height(px)"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:562
+msgid "Enter the height of video."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:586
+msgid ""
+"The Supro Addons plugin needs to be updated to 1.0.7 to ensure maximum "
+"compatibility with this theme. Go to Plugins > Supro Addons to update it."
+msgstr ""
+
+#: inc/backend/plugins.php:16
+msgid "Meta Box"
+msgstr ""
+
+#: inc/backend/plugins.php:23
+msgid "Kirki"
+msgstr ""
+
+#: inc/backend/plugins.php:30
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/backend/plugins.php:37
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: inc/backend/plugins.php:45
+msgid "Supro Addons"
+msgstr ""
+
+#: inc/backend/plugins.php:54
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/backend/plugins.php:62
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/backend/plugins.php:69
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/backend/plugins.php:76
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/backend/plugins.php:83
+msgid "Variation Swatches for WooCommerce"
+msgstr ""
+
+#: inc/backend/plugins.php:98 inc/libs/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/backend/plugins.php:99 inc/libs/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/backend/plugins.php:100 inc/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/backend/plugins.php:101 inc/libs/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/backend/plugins.php:102 inc/libs/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:103 inc/libs/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:104
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:105 inc/libs/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:106 inc/libs/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:107
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:108 inc/libs/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:109
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:110 inc/libs/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:111
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugins.php:112 inc/libs/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/backend/plugins.php:113 inc/libs/class-tgm-plugin-activation.php:394
+#: inc/libs/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/backend/plugins.php:114
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:62
+msgid "Extra"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:132
+msgid "You need to add attributes on the Attributes tab."
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:156
+msgid "Custom Badge Text"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:157
+msgid "Enter this optional to show your badges."
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:165
+msgid "Custom Badge Background"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:166
+msgid "Pick background color for your badge"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:175
+msgid "Custom Badge Color"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:176
+msgid "Pick color for your badge"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:184
+msgid "New product?"
+msgstr ""
+
+#: inc/backend/product-meta-box-data.php:185
+msgid ""
+"Enable to set this product as a new product. A \"New\" badge will be added "
+"to this product."
+msgstr ""
+
+#: inc/frontend/entry.php:168
+msgid "Search Results"
+msgstr ""
+
+#: inc/frontend/entry.php:170
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/frontend/entry.php:204
+msgid "The Latest Posts"
+msgstr ""
+
+#: inc/frontend/footer.php:192
+msgid "Close (Esc)"
+msgstr ""
+
+#: inc/frontend/footer.php:195 inc/functions/entry.php:583
+msgid "Share"
+msgstr ""
+
+#: inc/frontend/footer.php:198
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: inc/frontend/footer.php:201
+msgid "Zoom in/out"
+msgstr ""
+
+#: inc/frontend/footer.php:217
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: inc/frontend/footer.php:221
+msgid "Next (arrow right)"
+msgstr ""
+
+#: inc/frontend/footer.php:421 inc/frontend/footer.php:501
+#: inc/frontend/footer.php:538 inc/mega-menu/class-menu-edit.php:153
+msgid "Close"
+msgstr ""
+
+#: inc/frontend/header.php:134
+msgid "has been added to your cart."
+msgstr ""
+
+#: inc/frontend/header.php:135
+msgid "have been added to your cart."
+msgstr ""
+
+#: inc/frontend/header.php:136
+msgid "View Cart"
+msgstr ""
+
+#: inc/frontend/header.php:145
+msgid "has been added to your wishlist."
+msgstr ""
+
+#: inc/frontend/header.php:146
+msgid "have been added to your wishlist."
+msgstr ""
+
+#: inc/frontend/maintenance.php:29
+msgid ""
+"Our website is under construction. We will be here soon with our new awesome "
+"site."
+msgstr ""
+
+#: inc/frontend/maintenance.php:31
+msgid "Website Under Maintenance"
+msgstr ""
+
+#: inc/frontend/maintenance.php:31
+msgid ""
+"Our website is currently undergoing scheduled maintenance. Please check back "
+"soon."
+msgstr ""
+
+#: inc/frontend/woocommerce.php:317 inc/functions/header.php:61
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:368 inc/functions/header.php:226
+msgid "Orders History"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:523 inc/frontend/woocommerce.php:546
+msgid "Quick View"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:679
+msgid "Brand:"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:697
+msgid "Category: "
+msgid_plural "Categories: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/frontend/woocommerce.php:701
+msgid "Tag: "
+msgid_plural "Tags: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/frontend/woocommerce.php:721
+msgid "SKU:"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:727
+msgid "N/A"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:868
+msgid " Products"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:870
+msgid " Product"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:872
+msgid "Found"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:972
+msgid "Clear All Filter"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1185
+msgid "Select"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1243
+msgid "Product navigation"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1244
+msgctxt "Previous post link"
+msgid ""
+"<i class=\"arrow_carrot-left\"></i><span class=\"screen-reader-text\">"
+"%title</span>"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1245
+msgctxt "Next post link"
+msgid ""
+"<span class=\"screen-reader-text\">%title</span><i class=\"arrow_carrot-"
+"right\"></i>"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1249
+msgid "Products"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1302
+msgid "More Information"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1309
+msgid "Popularity"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1310
+msgid "Average rating"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1311
+msgid "Newness"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1312
+msgid "Price: low to high"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1313
+msgid "Price: high to low"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1358 woocommerce/myaccount/dashboard.php:36
+msgid "Hello!"
+msgstr ""
+
+#: inc/frontend/woocommerce.php:1381
+msgid "Nothing found"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:21
+msgid "Home"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:22
+msgid "Archives"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:24
+msgid "Search results for"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:25
+msgid "Not Found"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:26
+msgid "Author Archives:"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:27
+msgid "Daily Archives:"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:28
+msgid "Monthly Archives:"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:29
+msgid "Yearly Archives:"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:193 inc/functions/breadcrumbs.php:199
+#: inc/functions/breadcrumbs.php:205
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:215
+msgctxt "Portfolio post type breadcrumb"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/functions/comments.php:50
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions/comments.php:58
+msgid "Reply"
+msgstr ""
+
+#: inc/functions/comments.php:59
+msgid "Edit"
+msgstr ""
+
+#: inc/functions/comments.php:86
+msgid "Website"
+msgstr ""
+
+#: inc/functions/entry.php:33
+msgid "Tags: "
+msgstr ""
+
+#: inc/functions/entry.php:80
+#, php-format
+msgid "Continue reading &quot;%s&quot;"
+msgstr ""
+
+#: inc/functions/entry.php:310
+msgid "Author:"
+msgstr ""
+
+#: inc/functions/entry.php:334
+msgid "Published in:"
+msgstr ""
+
+#: inc/functions/entry.php:406 inc/functions/entry.php:417
+msgid ""
+"Recently Viewed Products is a function which helps you keep track of your "
+"recent viewing history."
+msgstr ""
+
+#: inc/functions/entry.php:408 inc/functions/entry.php:419
+msgid "Shop Now"
+msgstr ""
+
+#: inc/functions/entry.php:569
+msgid "Google"
+msgstr ""
+
+#: inc/functions/entry.php:571
+msgid "Flickr"
+msgstr ""
+
+#: inc/functions/entry.php:572
+msgid "Vimeo"
+msgstr ""
+
+#: inc/functions/entry.php:573
+msgid "Youtube"
+msgstr ""
+
+#: inc/functions/entry.php:574
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/functions/entry.php:576
+msgid "Dribbble"
+msgstr ""
+
+#: inc/functions/entry.php:577
+msgid "Spotify"
+msgstr ""
+
+#: inc/functions/entry.php:578
+msgid "Instagram"
+msgstr ""
+
+#: inc/functions/entry.php:579
+msgid "Tumbleupon"
+msgstr ""
+
+#: inc/functions/entry.php:580
+msgid "WordPress"
+msgstr ""
+
+#: inc/functions/entry.php:581
+msgid "Rss"
+msgstr ""
+
+#: inc/functions/entry.php:582
+msgid "Deviantart"
+msgstr ""
+
+#: inc/functions/entry.php:584
+msgid "Skype"
+msgstr ""
+
+#: inc/functions/entry.php:585
+msgid "Behance"
+msgstr ""
+
+#: inc/functions/entry.php:586
+msgid "Apple"
+msgstr ""
+
+#: inc/functions/entry.php:587
+msgid "Yelp"
+msgstr ""
+
+#: inc/functions/entry.php:833
+msgid "All Categories"
+msgstr ""
+
+#: inc/functions/entry.php:1281
+msgid "Play Video"
+msgstr ""
+
+#: inc/functions/entry.php:1307
+msgid "Click to enlarge"
+msgstr ""
+
+#: inc/functions/header.php:113
+msgid "Start Searching"
+msgstr ""
+
+#: inc/functions/header.php:170 inc/functions/header.php:282
+msgid "My Wishlist"
+msgstr ""
+
+#: inc/functions/header.php:224
+msgid "Account Settings"
+msgstr ""
+
+#: inc/functions/header.php:245
+msgid "Logout"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Montserrat, translate this to 'off'. Do not translate
+#. into your own language.
+#: inc/functions/media.php:23
+msgctxt "LibreBaskerville font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/functions/nav.php:24
+msgid "Discover More"
+msgstr ""
+
+#: inc/functions/nav.php:35 woocommerce/loop/pagination.php:49
+msgid "Loading"
+msgstr ""
+
+#: inc/functions/nav.php:105
+msgid "Older posts"
+msgstr ""
+
+#: inc/functions/nav.php:112
+msgid "Newer posts"
+msgstr ""
+
+#: inc/functions/nav.php:142
+msgid "Next"
+msgstr ""
+
+#: inc/functions/nav.php:143
+msgid "Prev"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:393
+#: inc/libs/class-tgm-plugin-activation.php:912
+#: inc/libs/class-tgm-plugin-activation.php:2618
+#: inc/libs/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:395
+#: inc/libs/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: dashboard link.
+#: inc/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1019
+#: inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1206
+#: inc/libs/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. %s: version number
+#: inc/libs/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: inc/libs/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: inc/libs/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/mega-menu/class-mega-menu-walker.php:340
+#: inc/mega-menu/tmpl/general.php:31
+msgid "Trending"
+msgstr ""
+
+#: inc/mega-menu/class-menu-edit.php:100
+msgid "Settings"
+msgstr ""
+
+#: inc/mega-menu/class-menu-edit.php:168
+msgid "Save Changes"
+msgstr ""
+
+#: inc/mega-menu/class-menu-edit.php:169 woocommerce/loop/orderby.php:68
+msgid "Cancel"
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:66
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:88
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:112
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:73 woocommerce/cart/cart.php:125
+#: woocommerce/cart/mini-cart.php:45
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:82
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Discount Code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Enter your code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:76
+#: woocommerce/single-product/add-to-cart/grouped.php:29
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:89
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:58
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "enter your coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:30
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:33
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:37
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:31
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/global/form-login.php:36
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40 woocommerce/myaccount/form-login.php:51
+#: woocommerce/myaccount/form-login.php:95
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:49 woocommerce/myaccount/form-login.php:31
+#: woocommerce/myaccount/form-login.php:62
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:56
+msgid "Lost your password?"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:62
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:38
+msgid "DISCOVER MORE"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:39
+msgid "Full Name"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:45
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:54
+msgid "Country"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:57
+msgid "Postcode"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:60
+msgid "Edit Profile"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:35
+msgid "Display Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:41
+#: woocommerce/myaccount/form-login.php:89
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "Current Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:49
+msgid "New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:61
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+#: woocommerce/myaccount/form-login.php:115
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:45
+#: woocommerce/myaccount/form-login.php:83
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Forgot?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Information"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Information"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:40
+msgid "Billing Adresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:43
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:78
+msgid "Edit your billing address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:80
+msgid "Edit your shipping address"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:57
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/mega-menu/tmpl/background.php:12
+msgid "Select Image"
+msgstr ""
+
+#: inc/mega-menu/tmpl/background.php:29
+msgid "Tile"
+msgstr ""
+
+#: inc/mega-menu/tmpl/background.php:31
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/mega-menu/tmpl/background.php:33
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/mega-menu/tmpl/background.php:63
+msgid "Middle"
+msgstr ""
+
+#: inc/mega-menu/tmpl/content.php:9
+msgid "Allow HTML and Shortcodes"
+msgstr ""
+
+#: inc/mega-menu/tmpl/general.php:9
+msgid "Hide Text"
+msgstr ""
+
+#: inc/mega-menu/tmpl/mega.php:5 inc/mega-menu/tmpl/menus.php:3
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/mega-menu/tmpl/mega.php:11
+msgid "Mega Width"
+msgstr ""
+
+#: inc/mega-menu/tmpl/menus.php:2
+msgid "Mega Menu Content"
+msgstr ""
+
+#: inc/mega-menu/tmpl/menus.php:4
+msgid "Mega Menu Background"
+msgstr ""
+
+#: inc/mega-menu/tmpl/menus.php:8 inc/mega-menu/tmpl/menus.php:9
+msgid "Menu Content"
+msgstr ""
+
+#: inc/mega-menu/tmpl/menus.php:10 inc/mega-menu/tmpl/menus.php:13
+msgid "Menu General"
+msgstr ""
+
+#. Name of the theme
+msgid "Supro"
+msgstr ""
+
+#. Description of the theme
+msgid "Minimalist AJAX WooCommerce WordPress Theme"
+msgstr ""
+
+#. URI of the theme
+msgid "http://drfuri.com/supro"
+msgstr ""
+
+#. Author of the theme
+msgid "DrFuri"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://drfuri.com"
+msgstr ""

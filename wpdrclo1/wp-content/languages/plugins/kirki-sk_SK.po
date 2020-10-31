@@ -1,0 +1,565 @@
+# Translation of Plugins - Kirki Customizer Framework - Stable (latest release) in Slovak
+# This file is distributed under the same license as the Plugins - Kirki Customizer Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-18 07:16:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sk\n"
+"Project-Id-Version: Plugins - Kirki Customizer Framework - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://wp-pagebuilderframework.com/"
+msgstr "https://wp-pagebuilderframework.com/"
+
+#. Author of the plugin
+msgid "David Vongries"
+msgstr "David Vongries"
+
+#: core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr "Viac nezobrazovať"
+
+#: core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr "Nainštalujte plugin"
+
+#: core/class-kirki-init.php:365
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Vaša téma používa pre polia ikony Font Awesome. Aby ste sa vyhli problémom s chýbajúcimi ikonami na vašom klientskom rozhraní, odporúčame vám nainštalovať oficiálny plugin Font Awesome."
+
+#. Description of the plugin
+msgid "The Ultimate WordPress Customizer Framework"
+msgstr "Špičková štruktúra pre úpravu WordPress tém"
+
+#. Plugin Name of the plugin
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "Predvolená rodina písiem prehliadača"
+
+#: controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "Predvolené nastavenia CSS"
+
+#: field/class-kirki-field-image.php:53 controls/views/image.php:40
+msgid "Choose image"
+msgstr "Vyberte obrázok"
+
+#: field/class-kirki-field-image.php:51 controls/views/image.php:38
+msgid "No image selected"
+msgstr "Nie je vybratý žiadny obrázok"
+
+#: field/class-kirki-field-image.php:48 controls/views/image.php:35
+msgid "Change image"
+msgstr "Zmeniť obrázok"
+
+#: field/class-kirki-field-image.php:47 field/class-kirki-field-image.php:52
+#: controls/views/image.php:34 controls/views/image.php:39
+msgid "Select image"
+msgstr "Vyberte obrázok"
+
+#: controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "Prečiarknuté"
+
+#: controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "Nadčiarknuté"
+
+#: controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "Podčiarknuté"
+
+#: controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "Textová dekorácia"
+
+#: controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Písma Google"
+
+#: controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Štandardné písma"
+
+#: controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Reset"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Chyba v poli %1$s. Argument \"mode\" bol od Kirki v0.8 zastaraný. Namiesto toho použite typ \"radio-%2$s\"."
+
+#: field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Nepoužívajte \"alpha\" ako argument v ovládacích prvkoch farieb. Namiesto toho použite \"choices[alpha]\"."
+
+#: deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s alebo %2$s"
+
+#: core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Polia Kirki by nemali byť pridané do customize_register. Pridajte ich priamo alebo na začiatku."
+
+#: core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "Zistili sme, že používate Kirki_Init::get_variables(). Namiesto toho použite Kirki_Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: core/class-kirki-field.php:498 core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "Neplatný formát \"output\" v poli %s. Argument \"output\" by sa mal definovať ako pole polí."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" neplatný záznam v poli %s"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Našiel sa preklep v poli %s - \"theme_mods\" vs \"theme_mod\""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: core/class-kirki-field.php:257 core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Konfigurácia nie je definovaná pre pole %1$s - Podrobnosti o tom, ako správne pridať polia, nájdete v %2$s."
+
+#. translators: %s represents the field ID where the error occurs.
+#: core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Preklep nájdený v poli %s - nastavenie namiesto nastavenia."
+
+#: field/class-kirki-field-image.php:49 controls/views/image.php:36
+#: controls/php/class-kirki-control-base.php:134
+msgid "Default"
+msgstr "Predvolené"
+
+#. translators: The title.
+#: modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "Prispôsobujete &#9656; %s"
+
+#: modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "Prispôsobujete"
+
+#: field/class-kirki-field-switch.php:40
+#: controls/php/class-kirki-control-switch.php:56
+msgid "Off"
+msgstr "Vypnúť"
+
+#: field/class-kirki-field-switch.php:39
+#: controls/php/class-kirki-control-switch.php:52
+msgid "On"
+msgstr "Zapnúť"
+
+#: controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "Dolný vonkajší okraj"
+
+#: controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "Horný vonkajší okraj"
+
+#: controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Záložné písmo"
+
+#: controls/php/class-kirki-control-typography.php:83
+#: controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Vyberte štýl písma"
+
+#. translators: %s represents the label of the row.
+#: controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Pridať nové %s"
+
+#: controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Šírka"
+
+#: controls/php/class-kirki-control-dimensions.php:128
+#: controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "Medzery medzi slovami"
+
+#: controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Auto"
+
+#: controls/php/class-kirki-control-background.php:63
+#: controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Vyberte súbor"
+
+#: upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Dôležité upozornenie na inováciu:"
+
+#: controls/php/class-kirki-control-background.php:59
+#: controls/php/class-kirki-control-base.php:132
+#: controls/php/class-kirki-control-repeater.php:408
+#: controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr "Nie je vybraný žiadny súbor"
+
+#: controls/php/class-kirki-control-repeater.php:419
+#: controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Zmena súboru"
+
+#: controls/php/class-kirki-control-repeater.php:419
+#: controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Pridať súbor"
+
+#: controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "riadok"
+
+#: controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Vyberte stránku"
+
+#: controls/php/class-kirki-control-typography.php:180
+#: controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "Východzie"
+
+#: controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Malé písmena"
+
+#: controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Veľké písmena"
+
+#: controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "Kapitálky"
+
+#: controls/php/class-kirki-control-typography.php:176
+#: controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "Žiadny"
+
+#: controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Textová transformácia"
+
+#: controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Zarovnať text"
+
+#: controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "Zarovnať do bloku"
+
+#: controls/php/class-kirki-control-dimensions.php:133
+#: controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "Na stred"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Limit: %s riadkov"
+
+#: controls/php/class-kirki-control-dimensions.php:138
+#: controls/php/class-kirki-control-dimension.php:41
+msgid "Invalid Value"
+msgstr "Nesprávna hodnota"
+
+#: modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:218
+#: modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:215
+#: modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:210
+#: modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:205
+#: modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Book 300"
+
+#: modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "Light 200"
+
+#: modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: modules/webfonts/class-kirki-fonts.php:198
+#: modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Medzera"
+
+#: controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Výška"
+
+#: controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Veľkosť"
+
+#: controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Varianta"
+
+#: controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Štýl písma"
+
+#: controls/php/class-kirki-control-repeater.php:376
+#: controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Nie je vybratý žiadny obrázok"
+
+#: field/class-kirki-field-image.php:50 controls/views/image.php:37
+#: controls/php/class-kirki-control-background.php:62
+#: controls/php/class-kirki-control-base.php:133
+#: controls/php/class-kirki-control-repeater.php:386
+#: controls/php/class-kirki-control-repeater.php:418
+#: controls/php/class-kirki-control-repeater.php:443
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: controls/php/class-kirki-control-repeater.php:387
+#: controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Zmeniť obrázok"
+
+#: controls/php/class-kirki-control-repeater.php:387
+#: controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Pridať obrázok"
+
+#: controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Farba"
+
+#: field/class-kirki-field-spacing.php:35
+#: controls/php/class-kirki-control-dimensions.php:132
+#: controls/php/class-kirki-control-typography.php:157
+msgid "Right"
+msgstr "Vpravo"
+
+#: field/class-kirki-field-spacing.php:34
+#: controls/php/class-kirki-control-dimensions.php:131
+#: controls/php/class-kirki-control-typography.php:145
+msgid "Left"
+msgstr "Vľavo"
+
+#: field/class-kirki-field-spacing.php:33
+#: controls/php/class-kirki-control-dimensions.php:130
+msgid "Bottom"
+msgstr "Dole"
+
+#: field/class-kirki-field-spacing.php:32
+#: controls/php/class-kirki-control-dimensions.php:129
+msgid "Top"
+msgstr "Hore"
+
+#: controls/php/class-kirki-control-dimensions.php:127
+#: controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Rozostup písmen"
+
+#: controls/php/class-kirki-control-dimensions.php:125
+#: controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Výška riadku"
+
+#: controls/php/class-kirki-control-dimensions.php:123
+#: controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Veľkosť písma"
+
+#. Plugin URI of the plugin
+msgid "https://kirki.org"
+msgstr "https://kirki.org"
+
+#: controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Hrúbka písma"
+
+#: controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Štýl písma"
+
+#: controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Pozícia pozadia"
+
+#: controls/php/class-kirki-control-dimensions.php:122
+#: controls/php/class-kirki-control-background.php:91
+msgid "Center Bottom"
+msgstr "Dole v strede"
+
+#: controls/php/class-kirki-control-dimensions.php:121
+#: controls/php/class-kirki-control-background.php:90
+msgid "Center Center"
+msgstr "V strede"
+
+#: controls/php/class-kirki-control-dimensions.php:120
+#: controls/php/class-kirki-control-background.php:89
+msgid "Center Top"
+msgstr "V strede hore"
+
+#: controls/php/class-kirki-control-dimensions.php:119
+#: controls/php/class-kirki-control-background.php:88
+msgid "Right Bottom"
+msgstr "Vpravo dole"
+
+#: controls/php/class-kirki-control-dimensions.php:118
+#: controls/php/class-kirki-control-background.php:87
+msgid "Right Center"
+msgstr "Vpravo v strede"
+
+#: controls/php/class-kirki-control-dimensions.php:117
+#: controls/php/class-kirki-control-background.php:86
+msgid "Right Top"
+msgstr "Vpravo hore"
+
+#: controls/php/class-kirki-control-dimensions.php:116
+#: controls/php/class-kirki-control-background.php:85
+msgid "Left Bottom"
+msgstr "Vľavo dole"
+
+#: controls/php/class-kirki-control-dimensions.php:115
+#: controls/php/class-kirki-control-background.php:84
+msgid "Left Center"
+msgstr "Vľavo v strede"
+
+#: controls/php/class-kirki-control-dimensions.php:114
+#: controls/php/class-kirki-control-background.php:83
+msgid "Left Top"
+msgstr "Vľavo hore"
+
+#: controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Rolovanie obrázka na pozadí"
+
+#: controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Posúvať"
+
+#: controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Pevné \"fixed\""
+
+#: controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Veľkosť obrázka na pozadí"
+
+#: controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Obsahovať \"contain\""
+
+#: controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Pokryť \"cover\""
+
+#: controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Opakovanie obrázka na pozadí"
+
+#: controls/php/class-kirki-control-typography.php:139
+#: controls/php/class-kirki-control-typography.php:181
+#: controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Rodičovský prvok \"inherit\""
+
+#: controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Opakovať zvislo"
+
+#: controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Opakovať vodorovne"
+
+#: controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Opakovať všetko"
+
+#: controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Žiadne opakovanie"
+
+#: controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Obrázok na pozadí"
+
+#: controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Farba pozadia"

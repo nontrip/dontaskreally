@@ -1,0 +1,70 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/genie-wp-favicon\n"
+"POT-Creation-Date: 2013-01-06 06:57:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: GwpfSetupModel.php:45
+msgid ""
+"Upload of profile photo failed: Image object is empty or invalid image type "
+"(Only .ico, .png, .png allowed). "
+msgstr ""
+
+#: GwpfSetupModel.php:48
+msgid "Upload of profile photo failed: Image size greater than 100 Kb. "
+msgstr ""
+
+#: GwpfSetupModel.php:51
+msgid ""
+"Upload of profile photo failed: Image width or height greater than 128. "
+msgstr ""
+
+#: gwpf_admin_page.php:10
+msgid "Favicon Configuration"
+msgstr ""
+
+#: gwpf_admin_page.php:19
+msgid "Favicon updated successfully."
+msgstr ""
+
+#: gwpf_admin_page.php:25
+msgid ""
+"does saves the images \"as is\" what ever you upload. It does not process "
+"the images in any sort."
+msgstr ""
+
+#: gwpf_admin_page.php:26
+msgid ""
+"The idle size for the Favicon icon is 16x16 or 32x32, with a max of 128x128. "
+"Make sure to process the image before uploading."
+msgstr ""
+
+#: gwpf_admin_page.php:31
+msgid "Select Favicon: "
+msgstr ""
+
+#: gwpf_admin_page.php:37
+msgid ""
+"Note: You already have a Favicon configured. Updating the setup will "
+"replace the older Favicon."
+msgstr ""
+
+#: gwpf_admin_page.php:38
+msgid "Current Favicon: "
+msgstr ""
+
+#: gwpf_admin_page.php:40
+msgid "Updated Favicon: "
+msgstr ""
+
+#: gwpf_admin_page.php:44
+msgid "Update Favicon"
+msgstr ""

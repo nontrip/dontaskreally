@@ -1,0 +1,55 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">image</custom-field>
+		<custom-field action="copy">images</custom-field>
+		<custom-field action="copy">video</custom-field>
+		<custom-field action="copy">custom_header</custom-field>
+		<custom-field action="copy">enable_header_transparent</custom-field>
+		<custom-field action="copy">header_border</custom-field>
+		<custom-field action="copy">header_text_color</custom-field>
+		<custom-field action="copy">header_color</custom-field>
+		<custom-field action="translate">header_account_text</custom-field>
+		<custom-field action="translate">header_wishlist_text</custom-field>
+		<custom-field action="translate">header_cart_text</custom-field>
+		<custom-field action="translate">header_copyright</custom-field>
+		<custom-field action="copy">header_socials</custom-field>
+		<custom-field action="copy">hide_newsletter</custom-field>
+		<custom-field action="translate">form_title</custom-field>
+		<custom-field action="translate">form_subtitle</custom-field>
+		<custom-field action="copy">form</custom-field>
+		<custom-field action="copy">color</custom-field>
+		<custom-field action="copy">background_horizontal</custom-field>
+		<custom-field action="copy">background_vertical</custom-field>
+		<custom-field action="copy">background_repeat</custom-field>
+		<custom-field action="copy">background_attachment</custom-field>
+		<custom-field action="copy">background_size</custom-field>
+		<custom-field action="copy">hide_page_header</custom-field>
+		<custom-field action="copy">hide_breadcrumbs</custom-field>
+		<custom-field action="copy">page_header_custom_layout</custom-field>
+		<custom-field action="copy">text_color</custom-field>
+		<custom-field action="copy">page_header_bg</custom-field>
+		<custom-field action="copy">parallax</custom-field>
+		<custom-field action="copy">video_url</custom-field>
+		<custom-field action="copy">video_width</custom-field>
+		<custom-field action="copy">video_height</custom-field>
+	</custom-fields>
+
+	<admin-texts>
+		<key name="theme_mods_supro">
+			<key name="header_menu_text" />
+			<key name="blog_page_header_title" />
+			<key name="blog_page_header_subtitle" />
+			<key name="related_posts_title" />
+			<key name="sale_text" />
+			<key name="hot_text" />
+			<key name="outofstock_text" />
+			<key name="new_text" />
+			<key name="product_buy_now_text" />
+			<key name="product_related_title" />
+			<key name="product_upsells_title" />
+			<key name="newsletter_title" />
+			<key name="newsletter_desc" />
+			<key name="footer_recently_viewed_title" />
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,8 @@
+#fl-field-ppwp_passwords .fl-field-description, #fl-field-ppwp_whitelisted_roles .fl-field-description {
+    background: #f0f0f0;
+    color: #333 !important;
+    display: block;
+    float: none;
+    margin: 10px 0 0 0;
+    padding: 10px;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bwps/password_protect_page",
+  "authors": [
+    {
+      "name": "Thinh Nguyen",
+      "email": "thinhnp@ymese.com"
+    }
+  ],
+  "require-dev": {
+    "brain/monkey": "~2.0.0",
+    "phpunit/phpunit": "^7"
+  },
+  "scripts": {
+    "reports": "phpunit --verbose --coverage-html __dev__/unit-test/reports"
+  }
+}

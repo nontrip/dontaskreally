@@ -1,0 +1,1888 @@
+# Translation of Plugins - Polylang - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Polylang - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-03 14:54:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Polylang - Stable (latest release)\n"
+
+#: settings/flags.php:159
+msgid "North Macedonia"
+msgstr "Sjeverna Makedonija"
+
+#: settings/settings-module.php:311
+msgid "To enable this feature, you need Polylang Pro."
+msgstr "Da biste to omogućili, potreban vam je Polylang Pro."
+
+#. translators: %1$s is link start tag, %2$s is link end tag.
+#: admin/admin-notices.php:233
+msgid "We have noticed that you have been using Polylang for some time. We hope you love it, and we would really appreciate it if you would %1$sgive us a 5 stars rating%2$s."
+msgstr "Primijetili smo da već neko vrijeme koristite Polylang. Nadamo se da vam se sviđa i stvarno bismo vam bili zahvalni ako biste %1$snam dali ocjenu od 5 zvjezdica%2$s."
+
+#. translators: %1$s and %2$s are Polylang version numbers
+#: install/upgrade.php:82
+msgid "Before upgrading to %2$s, please upgrade to %1$s."
+msgstr "Prije nadogradnje na %2$s, molimo nadogradite prvo na %1$s."
+
+#. translators: %s is a comma separated list of native language names
+#: admin/admin-static-pages.php:244
+msgid "You must translate your static front page in %s."
+msgstr "Morate prevesti početnu stranicu na %s."
+
+#. translators: accessibility text
+#: modules/wizard/wizard.php:342 modules/wizard/wizard.php:432
+#: modules/wizard/wizard.php:612 admin/admin-notices.php:193
+#: settings/settings.php:328
+msgid "Dismiss this notice."
+msgstr "Uklonite ovu obavijest."
+
+#: settings/flags.php:234
+msgid "Tibet"
+msgstr "Tibet"
+
+#. translators: %1$s plugin name, %3$s plugin version, %2$s is link start tag,
+#. %4$s is link end tag.
+#: install/plugin-updater.php:269
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Dostupna je nova inačica %1$s. %2$sPogledajte detalje od inačici %3$s%4$s."
+
+#. translators: %1$s plugin name, %3$s plugin version, %2$s and %5$s are link
+#. start tags, %4$s and %6$s are link end tags.
+#: install/plugin-updater.php:278
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "Dostupna je nova inačica %1$s. %2$sPogledajte detalje od inačici %3$s%4$s ili %5$sodmah ažurirajte%6$s."
+
+#: install/plugin-updater.php:522
+msgid "You do not have permission to install plugin updates"
+msgstr "Nemate dopuštenje za ažuriranje dodatka"
+
+#: install/plugin-updater.php:522
+msgid "Error"
+msgstr "Greška"
+
+#: modules/share-slug/settings-share-slug.php:31
+msgid "Share slugs"
+msgstr "Podjeli slugove"
+
+#: modules/share-slug/settings-share-slug.php:32
+msgid "Allows to share the same url slug across languages for posts and terms."
+msgstr "Omogućuje dijeljenje istog URL sluga kroz sve jezike za objave i pojmove."
+
+#: modules/translate-slugs/settings-translate-slugs.php:31
+msgid "Translate slugs"
+msgstr "Prevedi slugove"
+
+#: modules/translate-slugs/settings-translate-slugs.php:32
+msgid "Allows to translate custom post types and taxonomies slugs in urls."
+msgstr "Omogućuje prijevod prilagođenih tipova objava i slugova taksonomija u URL-ovima."
+
+#: settings/settings-licenses.php:38
+msgid "License keys"
+msgstr "Licencni ključevi"
+
+#: settings/settings-licenses.php:39
+msgid "Manage licenses for Polylang Pro and add-ons."
+msgstr "Upravljanje licencnim ključevima za Polylang Pro ili dodatke."
+
+#. translators: %1$s is a date, %2$s is link start tag, %3$s is link end tag.
+#: include/license.php:221
+msgid "Your license key expired on %1$s. Please %2$srenew your license key%3$s."
+msgstr "Vaše licencni ključe je istekao %1$s. %2$sObnovite svoj licencni ključ%3$s."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://polylang.pro"
+msgstr "https://polylang.pro"
+
+#: settings/settings-module.php:313
+msgid "Upgrade now."
+msgstr "Ažuriraj."
+
+#. translators: %s is a product name
+#: include/license.php:255
+msgid "This is not a %s license key."
+msgstr "Ovo nije %s licencni ključ."
+
+#: include/license.php:273
+msgid "The license key never expires."
+msgstr "Licencni ključ nikad ne ističe."
+
+#. translators: %s is a date
+#: include/license.php:286
+msgid "Your license key expires on %s."
+msgstr "Vaš licencni ključ ističe %s."
+
+#. translators: %1$s is a product name, %2$s is link start tag, %3$s is link
+#. end tag.
+#: include/license.php:246
+msgid "Your %1$s license key is not active for this URL. Please %2$svisit your account page%3$s to manage your license key URLs."
+msgstr "Vaš %1$s licencni ključ nije aktivan za ovaj URL. %2$svPosjetite svoj račun%3$s kako bi mogli upravljati URL-ovima za svoj licencni ključ.."
+
+#. translators: %1$s is link start tag, %2$s is link end tag.
+#: settings/view-about.php:24
+msgid "Support and extra features are available to %1$sPolylang Pro%2$s users."
+msgstr "Podrška i druge pogodnosti dostupne su %1$sPolylang Pro%2$s korisnicima."
+
+#. translators: %1$s is link start tag, %2$s is link end tag
+#: include/license.php:261
+msgid "Your license key has reached its activation limit. %1$sView possible upgrades%2$s now."
+msgstr "Vaš licencni ključ je dosegnuo aktivacijski limit. %1$sProučite dostupne nadogradnje%2$s."
+
+#. translators: %1$s is link start tag, %2$s is link end tag.
+#: include/license.php:236
+msgid "Invalid license. Please %1$svisit your account page%2$s and verify it."
+msgstr "Neispravna licenca. %1$sPosjetite svoj račun%2$s i provjerite ju."
+
+#. translators: Post calendar label. %s: Date.
+#: include/widget-calendar.php:221
+msgid "Posts published on %s"
+msgstr "Objava objavljena %s"
+
+#: include/widget-calendar.php:219
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y."
+
+#. translators: accessibility text
+#: settings/table-string.php:316
+msgid "Filter by group"
+msgstr "Filtriraj po grupi"
+
+#: settings/view-tab-lang.php:143
+msgid "Choose a flag for the language."
+msgstr "Odaberite zastavu za jezik."
+
+#. translators:  accessibility text, %s is a string potentially in any language
+#: settings/table-string.php:76
+msgid "Select %s"
+msgstr "Odaberi %s"
+
+#: settings/table-settings.php:147
+msgid "Description"
+msgstr "Opis"
+
+#: settings/table-settings.php:146
+msgid "Module"
+msgstr "Modul"
+
+#: settings/settings-module.php:142
+msgid "Save Changes"
+msgstr "Spremi izmjene"
+
+#: settings/settings-module.php:141
+msgid "Cancel"
+msgstr "Poništi"
+
+#. translators: %s is a native language name
+#: settings/settings-url.php:251
+msgid "Please enter a valid URL for %s."
+msgstr "Molimo unesite ispravan URL za %s"
+
+#. translators: %s is an url
+#: settings/settings-url.php:306
+msgid "Polylang was unable to access the %s URL. Please check that the URL is valid."
+msgstr "Polylang nije uspio pristupiti na URL %s. Molimo provjerite ako je URL valjan."
+
+#: modules/wizard/view-wizard-step-untranslated-contents.php:19
+#: settings/settings.php:342
+msgid "There are posts, pages, categories or tags without language."
+msgstr "Postoje objave, stranice, kategorije ili oznake koje nemaju odabran jezik."
+
+#: settings/settings.php:344
+msgid "You can set them all to the default language."
+msgstr "Možete ih sve postaviti na zadani jezik."
+
+#: settings/table-languages.php:90 settings/table-languages.php:204
+msgid "Edit this language"
+msgstr "Uredite ovaj jezik"
+
+#: settings/table-languages.php:113
+msgid "Select as default language"
+msgstr "Postavite kao zadani jezik"
+
+#. translators: accessibility text, %s is a native language name
+#: settings/table-languages.php:116
+msgid "Choose %s as default language"
+msgstr "Odaberite %s kao zadani jezik"
+
+#: settings/table-languages.php:210
+msgid "Delete this language and all its associated data"
+msgstr "Obrišite ovaj jezik i sve podatke vezane uz njega"
+
+#: settings/settings-url.php:32
+msgid "Decide how your URLs will look like."
+msgstr "Odlučite kako će vaš URL izgledati."
+
+#: settings/settings-module.php:132
+msgid "Activate this module"
+msgstr "Aktivirajte ovaj modul"
+
+#: settings/settings-module.php:137
+msgid "Deactivated"
+msgstr "Neaktivan"
+
+#: settings/flags.php:265
+msgid "Zambia"
+msgstr "Zambija"
+
+#: settings/flags.php:266
+msgid "Zimbabwe"
+msgstr "Zimbabve"
+
+#: include/license.php:270 settings/settings-module.php:128
+msgid "Deactivate"
+msgstr "Deaktiviraj"
+
+#: settings/settings-module.php:126
+msgid "Deactivate this module"
+msgstr "Deaktiviraj ovaj modul"
+
+#: settings/settings-module.php:120
+msgid "Configure this module"
+msgstr "Podesi ovaj modul"
+
+#: settings/settings-cpt.php:59
+msgid "Custom post types and Taxonomies"
+msgstr "Dodatni tipovi objave i taksonomije"
+
+#: settings/settings-cpt.php:60
+msgid "Activate languages and translations management for the custom post types and the taxonomies."
+msgstr "Aktivirajte upravljanje za jezik i prijevod za vrste prilagođene objave i taksonomije."
+
+#: settings/flags.php:262
+msgid "Yemen"
+msgstr "Jemen"
+
+#: settings/flags.php:263
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: settings/flags.php:264
+msgid "South Africa"
+msgstr "Južna Afrika"
+
+#: settings/flags.php:258
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: settings/flags.php:261
+msgid "Western Samoa"
+msgstr "Western Samoa"
+
+#: settings/flags.php:259
+msgid "Wales"
+msgstr "Wales"
+
+#: settings/flags.php:260
+msgid "Wallis and Futuna"
+msgstr "Wallis and Futuna"
+
+#: settings/flags.php:252
+msgid "Saint Vincent and the Grenadines"
+msgstr "Sveti Vincent i Grenadini"
+
+#: settings/flags.php:253
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: settings/flags.php:257
+msgid "Vietnam"
+msgstr "Vijetnam"
+
+#: settings/flags.php:256
+msgid "United States Virgin Islands"
+msgstr "Američki Djevičanski Otoci"
+
+#: settings/flags.php:254
+msgid "Veneto"
+msgstr "Veneto"
+
+#: settings/flags.php:255
+msgid "British Virgin Islands"
+msgstr "British Virgin Islands"
+
+#: settings/flags.php:249
+msgid "Uruguay"
+msgstr "Urugvaj"
+
+#: settings/flags.php:250
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: settings/flags.php:251
+msgid "Vatican"
+msgstr "Vatican"
+
+#: settings/flags.php:246
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+#: settings/flags.php:247
+msgid "Uganda"
+msgstr "Uganda"
+
+#: settings/flags.php:248
+msgid "United States"
+msgstr "Sjedinjene Države"
+
+#: settings/flags.php:242
+msgid "Trinidad and Tobago"
+msgstr "Trinidad i Tobago"
+
+#: settings/flags.php:243
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: settings/flags.php:244
+msgid "Taiwan"
+msgstr "Tajvan"
+
+#: settings/flags.php:245
+msgid "Tanzania"
+msgstr "Tanzanija"
+
+#: settings/flags.php:239
+msgid "Tunisia"
+msgstr "Tunis"
+
+#: settings/flags.php:240
+msgid "Tonga"
+msgstr "Tonga"
+
+#: settings/flags.php:241
+msgid "Turkey"
+msgstr "Turska"
+
+#: settings/flags.php:235
+msgid "Tajikistan"
+msgstr "Tadžikistan"
+
+#: settings/flags.php:236
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: settings/flags.php:238
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: settings/flags.php:237
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: settings/flags.php:230
+msgid "Chad"
+msgstr "Čad"
+
+#: settings/flags.php:232
+msgid "Togo"
+msgstr "Togo"
+
+#: settings/flags.php:233
+msgid "Thailand"
+msgstr "Tailand"
+
+#: settings/flags.php:231
+msgid "French Southern Territories"
+msgstr "French Southern Territories"
+
+#: settings/flags.php:227
+msgid "Syria"
+msgstr "Sirija"
+
+#: settings/flags.php:228
+msgid "Swaziland"
+msgstr "Svazi"
+
+#: settings/flags.php:229
+msgid "Turks and Caicos Islands"
+msgstr "Otoci Turks i Caicos"
+
+#: settings/flags.php:223
+msgid "Suriname"
+msgstr "Surinam"
+
+#: settings/flags.php:224
+msgid "South Sudan"
+msgstr "South Sudan"
+
+#: settings/flags.php:225
+msgid "São Tomé and Príncipe"
+msgstr "São Tomé i Príncipe"
+
+#: settings/flags.php:226
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: settings/flags.php:221
+msgid "Senegal"
+msgstr "Senegal"
+
+#: settings/flags.php:222
+msgid "Somalia"
+msgstr "Somalija"
+
+#: settings/flags.php:217
+msgid "Slovenia"
+msgstr "Slovenija"
+
+#: settings/flags.php:218
+msgid "Slovakia"
+msgstr "Slovačka"
+
+#: settings/flags.php:219
+msgid "Sierra Leone"
+msgstr "Sijera Leone"
+
+#: settings/flags.php:220
+msgid "San Marino"
+msgstr "San Marino"
+
+#: settings/flags.php:216
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: settings/flags.php:214
+msgid "Sweden"
+msgstr "Švedska"
+
+#: settings/flags.php:215
+msgid "Singapore"
+msgstr "Singapore"
+
+#: settings/flags.php:210
+msgid "Solomon Islands"
+msgstr "Solomonski otoci"
+
+#: settings/flags.php:211
+msgid "Seychelles"
+msgstr "Sejšeli"
+
+#: settings/flags.php:212
+msgid "Scotland"
+msgstr "Škotska"
+
+#: settings/flags.php:213
+msgid "Sudan"
+msgstr "Sudan"
+
+#: settings/flags.php:207
+msgid "Russia"
+msgstr "Rusija"
+
+#: settings/flags.php:208
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: settings/flags.php:209
+msgid "Saudi Arabia"
+msgstr "Saudijska Arabija"
+
+#: settings/flags.php:204
+msgid "Quebec"
+msgstr "Quebec"
+
+#: settings/flags.php:205
+msgid "Romania"
+msgstr "Rumunjska"
+
+#: settings/flags.php:206
+msgid "Serbia"
+msgstr "Srbija"
+
+#: settings/flags.php:201
+msgid "Belau"
+msgstr "Belau"
+
+#: settings/flags.php:202
+msgid "Paraguay"
+msgstr "Paragvaj"
+
+#: settings/flags.php:203
+msgid "Qatar"
+msgstr "Qatar"
+
+#: settings/flags.php:199
+msgid "Palestinian Territory"
+msgstr "Palestinian Territory"
+
+#: settings/flags.php:200
+msgid "Portugal"
+msgstr "Portugal"
+
+#: settings/flags.php:196
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre and Miquelon"
+
+#: settings/flags.php:197
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: settings/flags.php:198
+msgid "Puerto Rico"
+msgstr "Porto riko"
+
+#: settings/flags.php:193
+msgid "Philippines"
+msgstr "Filipini"
+
+#: settings/flags.php:194
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: settings/flags.php:195
+msgid "Poland"
+msgstr "Poljska"
+
+#: settings/flags.php:190
+msgid "Peru"
+msgstr "Peru"
+
+#: settings/flags.php:192
+msgid "Papua New Guinea"
+msgstr "Papua Nova Gvineja"
+
+#: settings/flags.php:191
+msgid "French Polynesia"
+msgstr "French Polynesia"
+
+#: settings/flags.php:186
+msgid "New Zealand"
+msgstr "Novi zeland"
+
+#: settings/flags.php:188
+msgid "Oman"
+msgstr "Oman"
+
+#: settings/flags.php:189
+msgid "Panama"
+msgstr "Panama"
+
+#: settings/flags.php:187
+msgid "Occitania"
+msgstr "Okcitanija"
+
+#: settings/flags.php:184
+msgid "Nauru"
+msgstr "Nauru"
+
+#: settings/flags.php:185
+msgid "Niue"
+msgstr "Niue"
+
+#: settings/flags.php:181
+msgid "Netherlands"
+msgstr "Nizozemska"
+
+#: settings/flags.php:182
+msgid "Norway"
+msgstr "Norveška"
+
+#: settings/flags.php:183
+msgid "Nepal"
+msgstr "Nepal"
+
+#: settings/flags.php:177
+msgid "Niger"
+msgstr "Niger"
+
+#: settings/flags.php:179
+msgid "Nigeria"
+msgstr "Nigerija"
+
+#: settings/flags.php:180
+msgid "Nicaragua"
+msgstr "Nikaragva"
+
+#: settings/flags.php:178
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+#: settings/flags.php:173
+msgid "Malaysia"
+msgstr "Malasia"
+
+#: settings/flags.php:174
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: settings/flags.php:175
+msgid "Namibia"
+msgstr "Namibia"
+
+#: settings/flags.php:176
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+#: settings/flags.php:170
+msgid "Maldives"
+msgstr "Maldives"
+
+#: settings/flags.php:171
+msgid "Malawi"
+msgstr "Malavi"
+
+#: settings/flags.php:172
+msgid "Mexico"
+msgstr "Meksiko"
+
+#: settings/flags.php:169
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: settings/flags.php:166
+msgid "Mauritania"
+msgstr "Mauritanija"
+
+#: settings/flags.php:168
+msgid "Malta"
+msgstr "Malta"
+
+#: settings/flags.php:167
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: settings/flags.php:164
+msgid "Northern Mariana Islands"
+msgstr "Northern Mariana Islands"
+
+#: settings/flags.php:165
+msgid "Martinique"
+msgstr "Martinique"
+
+#: settings/flags.php:162
+msgid "Mongolia"
+msgstr "Mongolija"
+
+#: settings/flags.php:163
+msgid "Macao"
+msgstr "Makao"
+
+#: settings/flags.php:161
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: settings/flags.php:158
+msgid "Marshall Islands"
+msgstr "Maršalovi Otoci"
+
+#: settings/flags.php:160
+msgid "Mali"
+msgstr "Mali"
+
+#: settings/flags.php:155
+msgid "Moldova"
+msgstr "Moldavija"
+
+#: settings/flags.php:156
+msgid "Montenegro"
+msgstr "Crna Gora"
+
+#: settings/flags.php:157
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: settings/flags.php:152
+msgid "Libya"
+msgstr "Libija"
+
+#: settings/flags.php:153
+msgid "Morocco"
+msgstr "Maroko"
+
+#: settings/flags.php:154
+msgid "Monaco"
+msgstr "Monako"
+
+#: settings/flags.php:150
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+#: settings/flags.php:151
+msgid "Latvia"
+msgstr "Latvija"
+
+#: settings/flags.php:147
+msgid "Liberia"
+msgstr "Liberija"
+
+#: settings/flags.php:148
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: settings/flags.php:149
+msgid "Lithuania"
+msgstr "Litvanija"
+
+#: settings/flags.php:144
+msgid "Saint Lucia"
+msgstr "Sveta Lucija"
+
+#: settings/flags.php:145
+msgid "Liechtenstein"
+msgstr "Lihtenštajn"
+
+#: settings/flags.php:146
+msgid "Sri Lanka"
+msgstr "Šri Lanka"
+
+#: settings/flags.php:141
+msgid "Kazakhstan"
+msgstr "Kazahstan"
+
+#: settings/flags.php:142
+msgid "Laos"
+msgstr "Laos"
+
+#: settings/flags.php:143
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: settings/flags.php:139
+msgid "Kuwait"
+msgstr "Kuvait"
+
+#: settings/flags.php:140
+msgid "Cayman Islands"
+msgstr "Kajmanski otoci"
+
+#: settings/flags.php:138
+msgid "Kurdistan"
+msgstr "Kurdistan"
+
+#: settings/flags.php:135
+msgid "Saint Kitts and Nevis"
+msgstr "Sveti Kristofor i Nevis"
+
+#: settings/flags.php:137
+msgid "South Korea"
+msgstr "Južna Koreja"
+
+#: settings/flags.php:136
+msgid "North Korea"
+msgstr "Koreja, Sjeverna"
+
+#: settings/flags.php:132
+msgid "Cambodia"
+msgstr "Kambodža"
+
+#: settings/flags.php:133
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: settings/flags.php:134
+msgid "Comoros"
+msgstr "Komori"
+
+#: settings/flags.php:128
+msgid "Jordan"
+msgstr "Jordan"
+
+#: settings/flags.php:129
+msgid "Japan"
+msgstr "Japan"
+
+#: settings/flags.php:130
+msgid "Kenya"
+msgstr "Kenija"
+
+#: settings/flags.php:131
+msgid "Kyrgyzstan"
+msgstr "Kirgistan"
+
+#: settings/flags.php:127
+msgid "Jamaica"
+msgstr "Jamajka"
+
+#: settings/flags.php:123
+msgid "Iraq"
+msgstr "Irak"
+
+#: settings/flags.php:124
+msgid "Iran"
+msgstr "Iran"
+
+#: settings/flags.php:125
+msgid "Iceland"
+msgstr "Island"
+
+#: settings/flags.php:126
+msgid "Italy"
+msgstr "Italija"
+
+#: settings/flags.php:120
+msgid "Israel"
+msgstr "Izrael"
+
+#: settings/flags.php:121
+msgid "India"
+msgstr "Indija"
+
+#: settings/flags.php:122
+msgid "British Indian Ocean Territory"
+msgstr "British Indian Ocean Territory"
+
+#: settings/flags.php:116
+msgid "Haiti"
+msgstr "Haiti"
+
+#: settings/flags.php:117
+msgid "Hungary"
+msgstr "Mađarska"
+
+#: settings/flags.php:118
+msgid "Indonesia"
+msgstr "Indonezija"
+
+#: settings/flags.php:119
+msgid "Republic of Ireland"
+msgstr "Republic of Ireland"
+
+#: settings/flags.php:113
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard Island and McDonald Islands"
+
+#: settings/flags.php:114
+msgid "Honduras"
+msgstr "Honduras"
+
+#: settings/flags.php:115
+msgid "Croatia"
+msgstr "Hrvatska"
+
+#: settings/flags.php:112
+msgid "Hong Kong"
+msgstr "Hong Kong S.A.R. Kine"
+
+#: settings/flags.php:110
+msgid "Guinea-Bissau"
+msgstr "Gvineja Bisau"
+
+#: settings/flags.php:111
+msgid "Guyana"
+msgstr "Gvajana"
+
+#: settings/flags.php:109
+msgid "Guam"
+msgstr "Guam"
+
+#: settings/flags.php:108
+msgid "Guatemala"
+msgstr "Gvatemala"
+
+#: settings/flags.php:107
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Južna Gruzija i Južni Sendvič Otoci"
+
+#: settings/flags.php:105
+msgid "Equatorial Guinea"
+msgstr "Ekvatorska Gvineja"
+
+#: settings/flags.php:106
+msgid "Greece"
+msgstr "Grčka"
+
+#: settings/flags.php:102
+msgid "Gambia"
+msgstr "Gambija"
+
+#: settings/flags.php:103
+msgid "Guinea"
+msgstr "Gvineja"
+
+#: settings/flags.php:104
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: settings/flags.php:100
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: settings/flags.php:101
+msgid "Greenland"
+msgstr "Greenland"
+
+#: settings/flags.php:98
+msgid "Georgia"
+msgstr "Gruzija"
+
+#: settings/flags.php:99
+msgid "Ghana"
+msgstr "Gana"
+
+#: settings/flags.php:96
+msgid "United Kingdom"
+msgstr "Velika Britanija"
+
+#: settings/flags.php:97
+msgid "Grenada"
+msgstr "Grenada"
+
+#: settings/flags.php:95
+msgid "Galicia"
+msgstr "Galicija"
+
+#: settings/flags.php:93
+msgid "France"
+msgstr "Francuska"
+
+#: settings/flags.php:94
+msgid "Gabon"
+msgstr "Gabon"
+
+#: settings/flags.php:92
+msgid "Faroe Islands"
+msgstr "Faroe Islands"
+
+#: settings/flags.php:91
+msgid "Micronesia"
+msgstr "Mikronezija"
+
+#: settings/flags.php:90
+msgid "Falkland Islands"
+msgstr "Falkland Islands"
+
+#: settings/flags.php:86
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: settings/flags.php:87
+msgid "Ethiopia"
+msgstr "Etiopija"
+
+#: settings/flags.php:88
+msgid "Finland"
+msgstr "Finska"
+
+#: settings/flags.php:89
+msgid "Fiji"
+msgstr "Fiji"
+
+#: settings/flags.php:84
+msgid "Eritrea"
+msgstr "Eritreja"
+
+#: settings/flags.php:85
+msgid "Spain"
+msgstr "Španjolska"
+
+#: settings/flags.php:83
+msgid "England"
+msgstr "Engleska"
+
+#: settings/flags.php:80
+msgid "Estonia"
+msgstr "Estonija"
+
+#: settings/flags.php:81
+msgid "Egypt"
+msgstr "Egipat"
+
+#: settings/flags.php:82
+msgid "Western Sahara"
+msgstr "Zapadna Sahara"
+
+#: settings/flags.php:77
+msgid "Dominican Republic"
+msgstr "Dominikanska Republika"
+
+#: settings/flags.php:78
+msgid "Algeria"
+msgstr "Alžir"
+
+#: settings/flags.php:79
+msgid "Ecuador"
+msgstr "Ekvador"
+
+#: settings/flags.php:76
+msgid "Dominica"
+msgstr "Dominika"
+
+#: settings/flags.php:75
+msgid "Denmark"
+msgstr "Danska"
+
+#: settings/flags.php:73
+msgid "Germany"
+msgstr "Njemačka"
+
+#: settings/flags.php:74
+msgid "Djibouti"
+msgstr "Džibuti"
+
+#: settings/flags.php:71
+msgid "Cyprus"
+msgstr "Cipar"
+
+#: settings/flags.php:72
+msgid "Czech Republic"
+msgstr "Češka Republika"
+
+#: settings/flags.php:70
+msgid "Christmas Island"
+msgstr "Uskršnji otoci"
+
+#: settings/flags.php:68
+msgid "Cuba"
+msgstr "Kuba"
+
+#: settings/flags.php:69
+msgid "Cape Verde"
+msgstr "Zeleni Rt"
+
+#: settings/flags.php:65
+msgid "China"
+msgstr "Kina"
+
+#: settings/flags.php:66
+msgid "Colombia"
+msgstr "Kolumbija"
+
+#: settings/flags.php:67
+msgid "Costa Rica"
+msgstr "Kostarika"
+
+#: settings/flags.php:63
+msgid "Chile"
+msgstr "Čile"
+
+#: settings/flags.php:64
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: settings/flags.php:62
+msgid "Cook Islands"
+msgstr "Cook Islands"
+
+#: settings/flags.php:61
+msgid "Ivory Coast"
+msgstr "Obala bjelokosti"
+
+#: settings/flags.php:58
+msgid "Central African Republic"
+msgstr "Srednjoafrička Republika"
+
+#: settings/flags.php:60
+msgid "Switzerland"
+msgstr "Švicarska"
+
+#: settings/flags.php:59
+msgid "Congo"
+msgstr "Kongo"
+
+#: settings/flags.php:57
+msgid "Democratic Republic of the Congo"
+msgstr "Demokratska Republika Kongo"
+
+#: settings/flags.php:54
+msgid "Canada"
+msgstr "Kanada"
+
+#: settings/flags.php:56
+msgid "Cocos"
+msgstr "Cocos"
+
+#: settings/flags.php:55
+msgid "Catalonia"
+msgstr "Katalonja"
+
+#: settings/flags.php:52
+msgid "Belarus"
+msgstr "Bjelorusija"
+
+#: settings/flags.php:53
+msgid "Belize"
+msgstr "Belize"
+
+#: settings/flags.php:49
+msgid "Bahamas"
+msgstr "Bahamai"
+
+#: settings/flags.php:50
+msgid "Bhutan"
+msgstr "Butan"
+
+#: settings/flags.php:51
+msgid "Botswana"
+msgstr "Bocvana"
+
+#: settings/flags.php:47
+msgid "Bolivia"
+msgstr "Bolivija"
+
+#: settings/flags.php:48
+msgid "Brazil"
+msgstr "Brazil"
+
+#: settings/flags.php:46
+msgid "Brunei"
+msgstr "Brunei"
+
+#: settings/flags.php:45
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: settings/flags.php:43
+msgid "Burundi"
+msgstr "Burundi"
+
+#: settings/flags.php:44
+msgid "Benin"
+msgstr "Benin"
+
+#: settings/flags.php:40
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: settings/flags.php:41
+msgid "Bulgaria"
+msgstr "Bugarska"
+
+#: settings/flags.php:42
+msgid "Bahrain"
+msgstr "Bahrein"
+
+#: settings/flags.php:38
+msgid "Bangladesh"
+msgstr "Bangladeš"
+
+#: settings/flags.php:39
+msgid "Belgium"
+msgstr "Belgija"
+
+#: settings/flags.php:37
+msgid "Barbados"
+msgstr "Barbados"
+
+#: settings/flags.php:35
+msgid "Bosnia and Herzegovina"
+msgstr "Bosna i Hercegovina"
+
+#: settings/flags.php:36
+msgid "Basque Country"
+msgstr "Baskija"
+
+#: settings/flags.php:33
+msgid "Åland Islands"
+msgstr "Alandski otoci"
+
+#: settings/flags.php:34
+msgid "Azerbaijan"
+msgstr "Azerbedžan"
+
+#: settings/flags.php:32
+msgid "Aruba"
+msgstr "Aruba"
+
+#: settings/flags.php:31
+msgid "Australia"
+msgstr "Australia"
+
+#: settings/flags.php:30
+msgid "Austria"
+msgstr "Austrija"
+
+#: settings/flags.php:28
+msgid "Arab league"
+msgstr "Arapska liga"
+
+#: settings/flags.php:29
+msgid "American Samoa"
+msgstr "American Samoa"
+
+#: settings/flags.php:26
+msgid "Angola"
+msgstr "Angola"
+
+#: settings/flags.php:27
+msgid "Argentina"
+msgstr "Argentina"
+
+#: settings/flags.php:25
+msgid "Netherlands Antilles"
+msgstr "Nizozemska antiles"
+
+#: settings/flags.php:23
+msgid "Albania"
+msgstr "Albanija"
+
+#: settings/flags.php:24
+msgid "Armenia"
+msgstr "Armenija"
+
+#: settings/flags.php:20
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: settings/flags.php:21
+msgid "Antigua and Barbuda"
+msgstr "Antigua i Barbuda"
+
+#: settings/flags.php:22
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: settings/flags.php:19
+msgid "United Arab Emirates"
+msgstr "Ujedinjeni Arapski Emirati"
+
+#: settings/flags.php:18
+msgid "Andorra"
+msgstr "Andora"
+
+#: modules/wpml/settings-wpml.php:31
+msgid "WPML compatibility"
+msgstr "Kompatibilnost s WPML-om"
+
+#: admin/admin-static-pages.php:102
+msgid "Posts Page"
+msgstr "Stranica objava"
+
+#. translators: accessibility text
+#: admin/view-translations-term.php:77 admin/view-translations-post.php:58
+msgid "Translation"
+msgstr "Prijevod "
+
+#: admin/admin-static-pages.php:98
+msgid "Front Page"
+msgstr "Početna stranica"
+
+#: admin/admin-nav-menu.php:78
+msgid "Add to Menu"
+msgstr "Dodaj u Izbornik"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-filters-columns.php:171 admin/admin-filters-columns.php:302
+msgid "This item is in %s"
+msgstr "Ova stavka je u %s"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-links.php:27
+msgid "Add a translation in %s"
+msgstr "Dodaj prijevod u %s"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-filters-columns.php:153 admin/admin-filters-columns.php:284
+msgid "Edit this item in %s"
+msgstr "Uredite ovu stavku u %s"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-filters-columns.php:157 admin/admin-filters-columns.php:288
+#: admin/admin-links.php:54
+msgid "Edit the translation in %s"
+msgstr "Uredite ovaj prijevod u %s"
+
+#: modules/wizard/wizard.php:447 admin/admin-model.php:305
+msgid "The flag does not exist"
+msgstr "Ova zastava ne postoji"
+
+#. Description of the plugin
+msgid "Adds multilingual capability to WordPress"
+msgstr "Dodaje višejezičnu podršku u WordPress"
+
+#: modules/lingotek/lingotek.php:82 settings/settings-module.php:136
+msgid "Activated"
+msgstr "Aktivirano"
+
+#: modules/lingotek/lingotek.php:82 settings/settings-module.php:134
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: modules/lingotek/lingotek.php:266
+msgid "Learn more..."
+msgstr "Saznajte više..."
+
+#: modules/lingotek/lingotek.php:87
+msgid "Request Translation"
+msgstr "Zatraži prijevod"
+
+#: modules/lingotek/lingotek.php:93
+msgid "Request Services"
+msgstr "Zatraži uslugu"
+
+#: modules/lingotek/lingotek.php:127
+msgid "Professionally translate my site"
+msgstr "Profesionalno prevedi moju stranicu"
+
+#: modules/lingotek/lingotek.php:139
+msgid "Need extra services?"
+msgstr "Trebate dodatne usluge?"
+
+#: modules/lingotek/lingotek.php:140
+msgid "Do you need help translating your site?"
+msgstr "Trebate li pomoć u prevođenju stranice?"
+
+#: modules/lingotek/lingotek.php:143
+msgid "Do you need someone to run your localization project?"
+msgstr "Trebate li nekoga da vodi vaš lokalizacijski projekt?"
+
+#. Plugin Name of the plugin
+msgid "Polylang"
+msgstr "Polylang"
+
+#: modules/lingotek/lingotek.php:100
+msgid "Polylang is now fully integrated with Lingotek, a professional translation management system!"
+msgstr "Polylang je sad poptuno integriran s Lingotekom, profesionalnim sustavom za prevođenje."
+
+#: modules/lingotek/lingotek.php:103
+msgid "Automatically translate my site"
+msgstr "Prevedi moju stranicu automatski"
+
+#: modules/lingotek/lingotek.php:104
+msgid "Polylang is now fully integrated with Lingotek!"
+msgstr "Polylang je sad poptuno integriran s Lingotekom!"
+
+#: modules/lingotek/lingotek.php:106 modules/lingotek/lingotek.php:117
+msgid "Access free machine translation for your site for up to 100,000 characters."
+msgstr "Pristupite besplatnom strojnom prevođenju do 100 000 znakova za vašu stranicu."
+
+#: modules/lingotek/lingotek.php:119
+msgid "Have linguists compare side-by-side versions of original and translated text."
+msgstr "Zatražite da lingvist paralelno usporedi original i prevedeni tekst."
+
+#: modules/lingotek/lingotek.php:120
+msgid "Save and re-use previously translated material (leverage translation memory (TM))."
+msgstr "Snimite i ponovno koristite prethodno prevedeni materijal (iskoristite prijevodnu memoriju)"
+
+#: modules/lingotek/lingotek.php:130
+msgid "Start the process of getting a professional translation bid."
+msgstr "Krenite s procesom dobivanja profesionalne ponude za prevođenje."
+
+#: modules/lingotek/lingotek.php:142
+msgid "Start the process of getting extra services."
+msgstr "Započnite proces dobivanja dodatnih usluga."
+
+#: modules/lingotek/lingotek.php:146
+msgid "Do you need help creating glossaries and terminologies?"
+msgstr "Trebate li pomoć s izradom pojmovnika i terminologijom?"
+
+#: modules/lingotek/lingotek.php:145
+msgid "Do you have existing Translation Memories you would like to use?"
+msgstr "Imate li postojeću prijevodnu memoriju koju bi htjeli koristiti?"
+
+#: modules/lingotek/lingotek.php:144
+msgid "Do you need customized workflows?"
+msgstr "Da li trebate prilagođeni obrazac?"
+
+#: modules/lingotek/lingotek.php:114
+msgid "Translation Management System"
+msgstr "Sustav upravljanja prijevodima"
+
+#: modules/lingotek/lingotek.php:115
+msgid "Do you need to connect to a professional translation management system?"
+msgstr "Da li je potrebno povezivanje na profesionalni sustav za upravljanje prijevodom?"
+
+#: modules/lingotek/lingotek.php:118
+msgid "Access an online translator workbench."
+msgstr "Pristup on-line prevoditelju."
+
+#: modules/lingotek/lingotek.php:132
+msgid "Once activated, click on the \"request translation bid\" and a certified translation project manager will contact you for a no-obligations translation bid."
+msgstr "Jednom kada aktivirate zahtjev za ponudom prevođenja, certificirani prevoditelj će vas kontaktirati kako bi vam dali ponudu bez obaveze za prevođenja."
+
+#: modules/wizard/view-wizard-step-languages.php:29
+#: modules/wizard/wizard.php:458 admin/admin-nav-menu.php:68
+#: admin/admin-nav-menu.php:71 admin/admin-nav-menu.php:102
+#: admin/admin-notices.php:92 admin/admin-classic-editor.php:53
+#: admin/admin-base.php:75 admin/admin-base.php:99 include/nav-menu.php:47
+#: include/translated-post.php:110 settings/settings.php:126
+msgid "Languages"
+msgstr "Jezici"
+
+#: include/switcher.php:26
+msgid "Displays language names"
+msgstr "Prikazuje imena jezika"
+
+#: include/switcher.php:27
+msgid "Displays flags"
+msgstr "Prikazuje zastave"
+
+#: include/switcher.php:28
+msgid "Forces link to front page"
+msgstr "Forsira linkove do početne stranice"
+
+#: include/switcher.php:29
+msgid "Hides the current language"
+msgstr "Sakriva trenutni jezik"
+
+#: include/switcher.php:25
+msgid "Displays as a dropdown"
+msgstr "Prikazuje kao spuštajući izbornik"
+
+#: admin/admin-base.php:368 admin/admin-base.php:387
+msgid "Filters content by language"
+msgstr "Filtrira sadržaj po jeziku"
+
+#: admin/admin-base.php:359
+msgid "Show all languages"
+msgstr "Prikazuje sve jezike"
+
+#: modules/wizard/view-wizard-step-languages.php:67
+#: admin/admin-filters-term.php:102 admin/admin-filters-term.php:174
+#: admin/admin-filters-columns.php:210 admin/admin-filters-media.php:59
+#: admin/admin-classic-editor.php:103 include/translated-post.php:111
+msgid "Language"
+msgstr "Jezik"
+
+#: admin/view-translations-term.php:14 admin/view-translations-term.php:21
+#: admin/view-translations-post.php:12 admin/view-translations-media.php:13
+#: settings/table-string.php:134
+msgid "Translations"
+msgstr "Prijevodi"
+
+#: admin/admin-filters-term.php:104 admin/admin-filters-term.php:176
+msgid "Sets the language"
+msgstr "Postavlja jezik"
+
+#: admin/admin-filters.php:86
+msgid "The widget is displayed for:"
+msgstr "Widget je prikazan za:"
+
+#: admin/admin-filters.php:72 include/translated-post.php:112
+msgid "All languages"
+msgstr "Svi jezici"
+
+#: admin/admin.php:77 admin/admin-base.php:82 settings/settings-module.php:122
+msgid "Settings"
+msgstr "Postavke"
+
+#: admin/admin-filters.php:171
+msgid "Upgrading language files&#8230;"
+msgstr "Osvježavanje datoteka s jezikom &#8230;"
+
+#: settings/settings.php:116
+msgid "About Polylang"
+msgstr "O Polylangu"
+
+#: admin/admin-base.php:79 include/mo.php:21 settings/settings.php:144
+msgid "Strings translations"
+msgstr "Prevođenje linija teksta"
+
+#: modules/wizard/wizard.php:443 admin/admin-model.php:275
+msgid "Enter a valid WordPress locale"
+msgstr "Unesite ispravan locale (jezik i set znakova) od WordPressa"
+
+#: modules/wizard/wizard.php:445 admin/admin-model.php:286
+msgid "The language code must be unique"
+msgstr "Šifra jezika mora biti jedinstvena"
+
+#: modules/wizard/wizard.php:446 admin/admin-model.php:293
+msgid "The language must have a name"
+msgstr "Jezik mora imati ime"
+
+#: settings/settings.php:191
+msgid "The language was created, but the WordPress language file was not downloaded. Please install it manually."
+msgstr "Jezik je kreiran, ali datoteka jezika WordPressa nije skinuta. Molim da istu instalirate ručno."
+
+#: admin/admin-strings.php:62
+msgid "Widget title"
+msgstr "Naslov widgeta"
+
+#: modules/sync/settings-sync.php:101
+msgid "Taxonomies"
+msgstr "Taksonomija"
+
+#: modules/sync/settings-sync.php:102
+msgid "Custom fields"
+msgstr "Vlastita polja"
+
+#: modules/sync/settings-sync.php:103
+msgid "Comment status"
+msgstr "Status komentara"
+
+#: modules/sync/settings-sync.php:104
+msgid "Ping status"
+msgstr "Status pinga"
+
+#: modules/sync/settings-sync.php:105
+msgid "Sticky posts"
+msgstr "Zalijepljeni postovi"
+
+#: modules/sync/settings-sync.php:106
+msgid "Published date"
+msgstr "Datum objave"
+
+#: modules/sync/settings-sync.php:108
+msgid "Page parent"
+msgstr "Nadređena stranica"
+
+#: modules/sync/settings-sync.php:109
+msgid "Page template"
+msgstr "Predložak stranice"
+
+#: modules/sync/settings-sync.php:110
+msgid "Page order"
+msgstr "Redoslijed stranica"
+
+#: modules/sync/settings-sync.php:111
+msgid "Featured image"
+msgstr "Istaknuta slika"
+
+#: settings/view-tab-lang.php:32
+msgid "Edit language"
+msgstr "Mijenjaj jezik"
+
+#: modules/wizard/view-wizard-step-languages.php:55
+#: modules/wizard/view-wizard-step-languages.php:59
+#: settings/view-tab-lang.php:32 settings/view-tab-lang.php:175
+msgid "Add new language"
+msgstr "Dodavanje novog jezika"
+
+#: include/widget-languages.php:51 settings/view-tab-lang.php:53
+msgid "Choose a language"
+msgstr "Odaberite jezik"
+
+#: settings/view-tab-lang.php:73
+msgid "You can choose a language in the list or directly edit it below."
+msgstr "Možete odabrati jezik na popisu ili ga direktno upisati ispod."
+
+#: settings/table-languages.php:148 settings/view-tab-lang.php:77
+msgid "Full name"
+msgstr "Puno ime"
+
+#: settings/view-tab-lang.php:84
+msgid "The name is how it is displayed on your site (for example: English)."
+msgstr "Ime kako je prikazano na vašim stranicama (primjerice: hrvatski)"
+
+#: settings/table-languages.php:149 settings/view-tab-lang.php:88
+msgid "Locale"
+msgstr "Locale (kombinacija jezika i seta znakova)"
+
+#: settings/view-tab-lang.php:95
+msgid "WordPress Locale for the language (for example: en_US). You will need to install the .mo file for this language."
+msgstr "WordPress locale za vaš jezik (primjerice hr). Morat ćete instalirati .mo datoteku za vaš jezik."
+
+#: settings/view-tab-lang.php:99
+msgid "Language code"
+msgstr "Šifra jezika"
+
+#: settings/view-tab-lang.php:110
+msgid "Text direction"
+msgstr "Smjer teksta"
+
+#: settings/view-tab-lang.php:115
+msgid "left to right"
+msgstr "s lijeva na desno"
+
+#: settings/view-tab-lang.php:120
+msgid "right to left"
+msgstr "s desna na lijevo"
+
+#: settings/view-tab-lang.php:123
+msgid "Choose the text direction for the language"
+msgstr "Odaberite smjer teksta za jezik"
+
+#: settings/table-languages.php:152 settings/view-tab-lang.php:147
+msgid "Order"
+msgstr "Redoslijed"
+
+#: settings/view-tab-lang.php:154
+msgid "Position of the language in the language switcher"
+msgstr "Pozicija jezika na popisu jezika"
+
+#: admin/admin-nav-menu.php:47 include/nav-menu.php:48
+#: include/widget-languages.php:21 install/upgrade.php:341
+msgid "Language switcher"
+msgstr "Mijenjanje jezika"
+
+#: settings/view-tab-strings.php:16
+msgid "Search translations"
+msgstr "Pretraga za prijevodima"
+
+#: settings/view-tab-strings.php:19
+msgid "Clean strings translation database"
+msgstr "Počisti bazu prevedenih linija"
+
+#. translators: accessibility text
+#: modules/wizard/view-wizard-step-languages.php:76
+#: modules/wizard/view-wizard-step-languages.php:91
+#: modules/wizard/view-wizard-step-home-page.php:77
+#: modules/wizard/view-wizard-step-home-page.php:92
+#: modules/wizard/view-wizard-step-home-page.php:124
+#: settings/table-languages.php:132 settings/table-languages.php:151
+msgid "Default language"
+msgstr "Originalni jezik"
+
+#: settings/settings-browser.php:32
+msgid "Detect browser language"
+msgstr "Otkrij jezik u browseru"
+
+#: settings/settings-browser.php:33
+msgid "When the front page is visited, set the language according to the browser preference"
+msgstr "Kada se otvori naslovna stranica, postavi jezik ovisno o postavkama browsera"
+
+#: settings/settings-url.php:31
+msgid "URL modifications"
+msgstr "Prilagodbe URL-a"
+
+#: settings/settings-url.php:118
+msgid "Hide URL language information for default language"
+msgstr "Sakrij informacije o jeziku u URL-u za osnovni jezik"
+
+#: modules/wizard/view-wizard-step-media.php:21 modules/wizard/wizard.php:565
+#: settings/settings-media.php:31
+msgid "Media"
+msgstr "Medij"
+
+#: settings/settings-media.php:32
+msgid "Activate languages and translations for media"
+msgstr "Aktivirajte jezike i prijevode za medije"
+
+#: modules/sync/settings-sync.php:31
+msgid "Synchronization"
+msgstr "Sinkronizacija"
+
+#: settings/settings-cpt.php:100
+msgid "Custom post types"
+msgstr "Prilagođeni tipovi postova"
+
+#: settings/settings-cpt.php:118
+msgid "Activate languages and translations for custom post types."
+msgstr "Aktivirajte jezike i prijevode za vlastite tipove postova."
+
+#: settings/settings-cpt.php:124
+msgid "Custom taxonomies"
+msgstr "Prilagođene taksonomije"
+
+#: settings/settings-cpt.php:142
+msgid "Activate languages and translations for custom taxonomies."
+msgstr "Aktivirajte jezike i prijevode za prilagođene taksonomije"
+
+#: settings/table-languages.php:206
+msgid "Edit"
+msgstr "Uredi"
+
+#: settings/table-languages.php:213 settings/table-string.php:285
+msgid "Delete"
+msgstr "Obriši"
+
+#: settings/table-languages.php:150
+msgid "Code"
+msgstr "Kod"
+
+#: settings/table-languages.php:153 settings/view-tab-lang.php:127
+msgid "Flag"
+msgstr "Zastavica"
+
+#: settings/table-string.php:132
+msgid "Name"
+msgstr "Ime"
+
+#: settings/table-string.php:131
+msgid "String"
+msgstr "Linija"
+
+#: include/widget-languages.php:23
+msgid "Displays a language switcher"
+msgstr "Prikazuje prebacivanje jezika"
+
+#: include/widget-languages.php:93
+msgid "Title:"
+msgstr "Naslov:"
+
+#: install/upgrade.php:79
+msgid "Polylang has been deactivated because you upgraded from a too old version."
+msgstr "Polylang je isključen jer ste imali zastarjelu verziju dodatka."
+
+#: settings/table-string.php:133
+msgid "Group"
+msgstr "Grupa"
+
+#: settings/table-string.php:322
+msgid "View all groups"
+msgstr "Vidi sve grupe"
+
+#: settings/table-languages.php:212
+msgid "You are about to permanently delete this language. Are you sure?"
+msgstr "Planirate trajno obrisati ovaj jezik. Jeste li sigurni?"
+
+#: settings/view-tab-strings.php:21
+msgid "Use this to remove unused strings from database, for example after a plugin has been uninstalled."
+msgstr "Koristite ovo da maknete neiskorištene linije iz baze, primjerice nakon što je neki dodatak maknut."
+
+#: modules/sync/settings-sync.php:32
+msgid "The synchronization options allow to maintain exact same values (or translations in the case of taxonomies and page parent) of meta content between the translations of a post or page."
+msgstr "Opcija sinkronizacije dozvoljava da zadržimo identične vrijednosti (odnosno prijevode u primjeru taksonomije i nadređenih stranica) od meta podataka nakon prijevoda postova ili stranica."
+
+#: modules/wizard/wizard.php:444 admin/admin-model.php:280
+msgid "The language code contains invalid characters"
+msgstr "Oznaka jezika sadrži pogrešne znakove"
+
+#: settings/settings-url.php:53
+msgid "The language is set from content"
+msgstr "Jezik je postavljen iz sadržaja"
+
+#: settings/settings-url.php:57
+msgid "Posts, pages, categories and tags URLs will not be modified."
+msgstr "Postovi, stranice, kategorije i oznake (tagovi) nisu promijenjeni."
+
+#: settings/settings-url.php:63
+msgid "The language is set from the directory name in pretty permalinks"
+msgstr "Jezik je postavljen po imenu direktorija u uljepšanim trajnim linkovima"
+
+#: settings/settings-url.php:67 settings/settings-url.php:78
+#: settings/settings-url.php:142 settings/settings-url.php:153
+msgid "Example:"
+msgstr "Primjer:"
+
+#: settings/settings-url.php:74
+msgid "The language is set from the subdomain name in pretty permalinks"
+msgstr "Jezik je postavljen po imenu poddomene u uljepšanim trajnim linkovima (permalinks)"
+
+#: settings/settings-url.php:85
+msgid "The language is set from different domains"
+msgstr "Jezik je postavljen od različitih domena"
+
+#: settings/settings-url.php:138
+msgid "Remove /language/ in pretty permalinks"
+msgstr "Ukloni /jezik/ u uljepšanim trajnim linkovima"
+
+#: settings/settings-url.php:149
+msgid "Keep /language/ in pretty permalinks"
+msgstr "Zadrži /jezik/ u uljepšanim trajnim linkovima"
+
+#: settings/settings-url.php:169
+msgid "The front page url contains the language code instead of the page name or page id"
+msgstr "URL naslovne stranice sadrži oznaku jezika umjesto imena ili oznake stranice"
+
+#: modules/wizard/wizard.php:442 admin/admin-model.php:44
+msgid "Impossible to add the language."
+msgstr "Nije moguće dodati jezik"
+
+#: settings/settings.php:184
+msgid "Language added."
+msgstr "Jezik dodan"
+
+#: settings/settings.php:206
+msgid "Language deleted."
+msgstr "Jezik obrisan"
+
+#: settings/settings.php:221
+msgid "Language updated."
+msgstr "Jezik osvježen"
+
+#: settings/table-string.php:386
+msgid "Translations updated."
+msgstr "Prijevodi osvježeni"
+
+#: settings/view-tab-lang.php:106
+msgid "Language code - preferably 2-letters ISO 639-1  (for example: en)"
+msgstr "Oznaka jezika - preferirano dvoznačna oznaka u ISO 639-1 formatu (primjerice: hr)"
+
+#: admin/admin-static-pages.php:157 admin/admin-static-pages.php:174
+msgid "The chosen static front page must be translated in all languages."
+msgstr "Naslovna (statična) stranica mora biti prevedena na svim jezicima."
+
+#: admin/admin-strings.php:63
+msgid "Widget text"
+msgstr "Tekst Widgeta"
+
+#: settings/settings-url.php:63
+msgid "The language is set from the code in the URL"
+msgstr "Jezik je postavljen preko oznake jezika u URL-u"
+
+#: include/switcher.php:30
+msgid "Hides languages with no translation"
+msgstr "Sakrij jezike koji nisu prevedeni"
+
+#: settings/settings-module.php:252 settings/settings-licenses.php:113
+msgid "Settings saved."
+msgstr "Opcije spremljene."
+
+#: modules/lingotek/lingotek.php:36
+msgid "Learn more"
+msgstr "Saznaj više"
+
+#: settings/view-tab-lang.php:175
+msgid "Update"
+msgstr "Ažuriraj"
+
+#: frontend/frontend-filters-search.php:86
+#: frontend/frontend-filters-search.php:87
+msgid "Search"
+msgstr "Traži"
+
+#: settings/settings-licenses.php:43
+msgid "Close"
+msgstr "Zatvori"
+
+#: modules/lingotek/lingotek.php:45
+msgid "Activate Lingotek"
+msgstr "Aktivirajte Lingotek"
+
+#: admin/admin-filters-term.php:471
+msgid "None"
+msgstr "Nijedno"
+
+#: admin/admin-strings.php:58
+msgid "Tagline"
+msgstr "Slogan"
+
+#: include/model.php:385
+msgid "Uncategorized"
+msgstr "Nekategorizirano"
+
+#: admin/admin-filters-columns.php:196
+msgid "&mdash; No Change &mdash;"
+msgstr "&mdash; Bez promjene &mdash;"
+
+#: admin/admin-strings.php:57
+msgid "Site Title"
+msgstr "Naziv stranice"
+
+#: admin/admin-strings.php:59
+msgid "Date Format"
+msgstr "Format datuma"
+
+#: admin/admin-strings.php:60
+msgid "Time Format"
+msgstr "Format vremena"
+
+#: settings/table-string.php:335
+msgid "Filter"
+msgstr "Ograničenje"
+
+#: integrations/wp-importer/wordpress-importer.php:45
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr "Uvoz <strong>objava, stranica, komentara, dodatnih podataka, kategorija i oznaka</strong> iz  WordPress izvozne datoteke."
+
+#: modules/lingotek/lingotek.php:40
+msgid "Click on Activate Lingotek to start translating."
+msgstr "Kliknite na Aktiviraj Lingotek kako bi krenuli prevoditi."
+
+#: modules/lingotek/lingotek.php:31
+msgid "You’ve just upgraded to the latest version of Polylang! Would you like to automatically translate your website for free?"
+msgstr "Upravo ste nadogradili na posljednju verziju Polylanga. Želite li besplatno automatski prevesti vašu stranicu?"
+
+#. translators: Calendar caption: 1: Month name, 2: 4-digit year.
+#: include/widget-calendar.php:149
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: settings/table-languages.php:154
+msgid "Posts"
+msgstr "Objave"
+
+#: modules/sync/settings-sync.php:107
+msgid "Post format"
+msgstr "Format objave"
+
+#: admin/admin-classic-editor.php:215
+msgid "(no parent)"
+msgstr "(nema matičnog)"
+
+#. translators: %1$s example url when the option is active. %2$s example url
+#. when the option is not active
+#: settings/settings-url.php:180
+msgid "Example: %1$s instead of %2$s"
+msgstr "Primjer: %1$s umjesto %2$s"
+
+#. translators: %1$s is link start tag, %2$s is link end tag.
+#: settings/view-about.php:16
+msgid "Polylang is provided with an extensive %1$sdocumentation%2$s (in English). It includes information on how to set up your multilingual site and use it on a daily basis; FAQs, and documentation for developers to adapt their plugins and themes."
+msgstr "Polylang sadrži detaljnu %1$sdokumentaciju%2$s (samo na engleskom). Ona sadrži podatke kako podesiti vaš višejezični web i kako ga koristiti na dnevnoj bazi; često postavljana pitanja kao i dokumentaciju za programere da prilagode njihove dodatke i teme."

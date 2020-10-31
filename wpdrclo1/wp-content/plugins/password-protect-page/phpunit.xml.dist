@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<phpunit
+	bootstrap="__dev__/unit-test/bootstrap.php"
+	backupGlobals="false"
+	colors="true"
+	convertErrorsToExceptions="true"
+	convertNoticesToExceptions="true"
+	convertWarningsToExceptions="true"
+	>
+	<testsuites>
+		<testsuite name="testcases">
+			<directory prefix="test-" suffix=".php">./__dev__/unit-test/</directory>
+			<exclude>./__dev__/unit-test/test-sample.php</exclude>
+		</testsuite>
+        <testsuite name="testcases">
+            <directory prefix="test-" suffix=".php">./__dev__/unit-test/admin</directory>
+        </testsuite>
+        <testsuite name="public">
+            <directory prefix="test-" suffix=".php">./__dev__/unit-test/public</directory>
+        </testsuite>
+	</testsuites>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">./includes</directory>
+            <directory suffix=".php">./public</directory>
+            <directory suffix=".php">./core</directory>
+        </whitelist>
+    </filter>
+</phpunit>

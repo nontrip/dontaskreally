@@ -1,0 +1,1604 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-08 22:33+0530\n"
+"PO-Revision-Date: 2020-09-08 22:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-cookie-law-info-admin.php:145
+#: admin/class-cookie-law-info-admin.php:146
+#: admin/partials/cookie-law-info-admin_settings.php:31
+msgid "Cookie Law Settings"
+msgstr "Stillingar köku lög"
+
+#: admin/class-cookie-law-info-admin.php:153
+#: admin/class-cookie-law-info-admin.php:154
+msgid "Non-necessary Cookie"
+msgstr "Óþarfa smákökur"
+
+#: admin/class-cookie-law-info-admin.php:161
+#: admin/class-cookie-law-info-admin.php:162
+msgid "Necessary Cookie"
+msgstr "Nauðsynleg smákaka"
+
+#: admin/class-cookie-law-info-admin.php:169
+#: admin/class-cookie-law-info-admin.php:170
+#: admin/partials/cookie-law-info-privacy_overview.php:51
+msgid "Privacy Overview"
+msgstr "Persónuupplýsingar Yfirlit"
+
+#: admin/class-cookie-law-info-admin.php:208
+msgid "Settings"
+msgstr "Stillingar"
+
+#: admin/class-cookie-law-info-admin.php:209
+msgid "Support"
+msgstr "Stoð"
+
+#: admin/class-cookie-law-info-admin.php:210
+msgid "Premium Upgrade"
+msgstr "Premium Uppfærsla"
+
+#: admin/class-cookie-law-info-admin.php:220
+#: admin/class-cookie-law-info-admin.php:279
+#: admin/class-cookie-law-info-admin.php:321
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:22
+#: admin/partials/cookie-law-info-privacy_overview.php:8
+msgid "You do not have sufficient permission to perform this operation"
+msgstr "Þú hefur ekki nægilegt leyfi til að framkvæma þessa aðgerð"
+
+#: admin/class-cookie-law-info-admin.php:254
+#: admin/class-cookie-law-info-admin.php:299
+#: admin/class-cookie-law-info-admin.php:345
+#: admin/partials/cookie-law-info-privacy_overview.php:27
+msgid "Settings Updated."
+msgstr "Stillingar Uppfærðar."
+
+#: admin/class-cookie-law-info-admin.php:360
+msgid "ERROR MIGRATING SETTINGS (ERROR: 2)"
+msgstr "ERROR MIGRATING SETTINGS (ERROR: 2)"
+
+#: admin/class-cookie-law-info-admin.php:378
+msgid "Cookie ID"
+msgstr "Cookie ID"
+
+#: admin/class-cookie-law-info-admin.php:379
+msgid "Cookie Type"
+msgstr "Kex gerð"
+
+#: admin/class-cookie-law-info-admin.php:380
+msgid "Cookie Duration"
+msgstr "Cookie Duration"
+
+#: admin/class-cookie-law-info-admin.php:381
+#, fuzzy
+#| msgid "Cookie Details"
+msgid "Cookie Sensitivity"
+msgstr "Nánar um smáköku"
+
+#: admin/class-cookie-law-info-admin.php:631
+msgid "Close Header"
+msgstr "Loka fyrirsögn"
+
+#: admin/class-cookie-law-info-admin.php:635
+msgid "Open URL"
+msgstr "Opna vefslóð"
+
+#: admin/class-cookie-law-info-admin.php:648
+msgid "Extra Large"
+msgstr "Sérstaklega stórt"
+
+#: admin/class-cookie-law-info-admin.php:652
+msgid "Large"
+msgstr "Stórt"
+
+#: admin/class-cookie-law-info-admin.php:656
+msgid "Medium"
+msgstr "Miðlungs"
+
+#: admin/class-cookie-law-info-admin.php:660
+msgid "Small"
+msgstr "Lítið"
+
+#: admin/class-cookie-law-info-admin.php:674
+msgid "Default theme font"
+msgstr "Sjálfgefið þema letur"
+
+#: admin/class-cookie-law-info-admin.php:678
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: admin/class-cookie-law-info-admin.php:682
+msgid "Serif"
+msgstr "Serif"
+
+#: admin/class-cookie-law-info-admin.php:686
+msgid "Arial"
+msgstr "Arial"
+
+#: admin/class-cookie-law-info-admin.php:690
+msgid "Arial Black"
+msgstr "Arial Black"
+
+#: admin/class-cookie-law-info-admin.php:694
+msgid "Georgia, serif"
+msgstr "Georgia, serif"
+
+#: admin/class-cookie-law-info-admin.php:698
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: admin/class-cookie-law-info-admin.php:702
+msgid "Lucida"
+msgstr "Lucida"
+
+#: admin/class-cookie-law-info-admin.php:706
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: admin/class-cookie-law-info-admin.php:710
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: admin/class-cookie-law-info-admin.php:714
+msgid "Trebuchet"
+msgstr "Trebuchet"
+
+#: admin/class-cookie-law-info-admin.php:718
+msgid "Verdana"
+msgstr "Verdana"
+
+#: admin/modules/ccpa/ccpa.php:106
+msgid "Do you really wish to opt out?"
+msgstr "Viltu virkilega afþakka?"
+
+#: admin/modules/ccpa/ccpa.php:107
+msgid "Confirm"
+msgstr "Staðfesta"
+
+#: admin/modules/ccpa/ccpa.php:108
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:121
+msgid "Cancel"
+msgstr "Hætta við"
+
+#: admin/modules/ccpa/ccpa.php:145
+msgid "Select the type of law"
+msgstr "Veldu tegund laga"
+
+#: admin/modules/ccpa/ccpa.php:149
+msgid "GDPR"
+msgstr "GDPR"
+
+#: admin/modules/ccpa/ccpa.php:150 admin/modules/ccpa/ccpa.php:158
+msgid ""
+"Customize the buttons, notice, themes from the relevant tabs to setup your "
+"cookie notice accordingly."
+msgstr ""
+"Sérsníddu hnappana, taktu eftir, þemu frá viðeigandi flipum til að setja upp "
+"smákökutilkynninguna í samræmi við það."
+
+#: admin/modules/ccpa/ccpa.php:153
+msgid "CCPA"
+msgstr "CCPA"
+
+#: admin/modules/ccpa/ccpa.php:154
+msgid ""
+"Most of the customizations from the tabs for buttons, notice or themes are "
+"not relevant especially if you choose to not show the notice, except the Do "
+"not sell within the buttons."
+msgstr ""
+"Flestar aðlaganirnar á flipunum fyrir hnappa, tilkynningu eða þemu eru ekki "
+"viðeigandi sérstaklega ef þú velur að sýna ekki tilkynninguna, nema selja "
+"ekki innan hnappanna."
+
+#: admin/modules/ccpa/ccpa.php:157
+msgid "CCPA & GDPR"
+msgstr "CCPA & GDPR"
+
+#: admin/modules/ccpa/views/ccpa_settings.php:7
+#, fuzzy
+#| msgid "Settings"
+msgid "CCPA Settings"
+msgstr "Stillingar"
+
+#: admin/modules/ccpa/views/ccpa_settings.php:7
+msgid ""
+"The right to opt out in the California Consumer Privacy Act gives consumers "
+"the ability to direct a business not to sell their personal information to a "
+"third party. If the user considers to not sell their personal information, "
+"all the scripts related to the categories which are configured to sell "
+"personal information will be blocked. The DO NOT SELL option is facilitated "
+"via a shortcode [wt_cli_ccpa_optout]."
+msgstr ""
+"Rétturinn til að afþakka lög um neytendavernd í Kaliforníu veitir neytendum "
+"möguleika á að beina viðskiptum til að selja ekki persónulegar upplýsingar "
+"sínar til þriðja aðila. Ef notandi telur að selja ekki persónulegar "
+"upplýsingar sínar verður lokað fyrir öll forskriftir sem tengjast flokkunum "
+"sem eru búnir til að selja persónulegar upplýsingar. Ekki er hægt að selja "
+"valmöguleikann með stuttan kóða [wt_cli_ccpa_optout]."
+
+#: admin/modules/ccpa/views/ccpa_settings.php:10
+msgid "Enable CCPA ?"
+msgstr "Virkja CCPA?"
+
+#: admin/modules/ccpa/views/ccpa_settings.php:18
+msgid "Enable CCPA notice"
+msgstr "Virkja CCPA tilkynningu"
+
+#: admin/modules/ccpa/views/ccpa_settings.php:18
+msgid ""
+"Enabling the notice will display the banner with the relevant text as per "
+"your configuration. Use this option particularly to record prior consent "
+"from the website visitors."
+msgstr ""
+"Ef þú virkjar tilkynninguna mun borðið birtast með viðeigandi texta samkvæmt "
+"stillingum þínum. Notaðu þennan valmöguleika sérstaklega til að skrá "
+"fyrirfram samþykki gesta gesta."
+
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:26
+msgid "Unable to handle your request."
+msgstr "Ekki tókst að takast á við beiðnina þína."
+
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:96
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:130
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:132
+msgid "Error"
+msgstr "Villa"
+
+#: admin/modules/cli-policy-generator/classes/class-preview-page.php:27
+msgid "Cookie Policy"
+msgstr "Cookie Policy"
+
+#: admin/modules/cli-policy-generator/classes/class-preview-page.php:83
+msgid "Auto reload preview"
+msgstr "Sjálfvirk endurhlaða forskoðun"
+
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:106
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:107
+#: admin/modules/cli-policy-generator/views/policy-generator.php:21
+msgid "Policy generator"
+msgstr "Stefna rafall"
+
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:133
+msgid "Success"
+msgstr "Arangur"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:25
+msgid "Sample heading"
+msgstr "Dæmi fyrirsögn"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:26
+msgid "Sample content"
+msgstr "Dæmi um efni"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:27
+msgid "Delete"
+msgstr "Eyða"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:49
+msgid "Add new"
+msgstr "Bæta við"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:53
+msgid "Heading"
+msgstr "Fyrirsögn"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:57
+#: admin/views/admin_necessary_cookie.php:30
+#: admin/views/admin_non_necessary_cookie.php:53
+#: public/modules/shortcode/shortcode.php:217
+msgid "Description"
+msgstr "Lýsing"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:65
+msgid ""
+"Enabling this option will help us spread the word by placing a credit to "
+"WebToffee at the very end of the Cookie Policy page."
+msgstr ""
+"Ef þessi valkostur er virkur munum við hjálpa okkur að breiða út orðið með "
+"því að leggja fram kredit fyrir WebToffee í heild sinni á síðunni Cookie "
+"Policy."
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:82
+msgid "Update existing Cookie Policy page"
+msgstr "Uppfæra núverandi Cookie Policy síðu"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:88
+msgid "Create Cookie Policy page"
+msgstr "Búðu til Cookie Policy síðu"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:92
+msgid "Live preview"
+msgstr "Live sýnishorn"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:43
+msgid "The plugin is more complex to set up"
+msgstr "Viðbótin er flóknari í uppsetningu"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:45
+msgid "Please describe which area you are facing difficulties"
+msgstr "Vinsamlegast lýsið hvaða svæði þú ert að glíma við"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:49
+msgid "A conflict with another plugin or theme"
+msgstr "Átök við annað viðbót eða þema"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:51
+msgid "Which plugin or theme?"
+msgstr "Hvaða viðbót eða þema?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:55
+msgid "Language translation issues"
+msgstr "Mál málþýðinga"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:57
+msgid ""
+"Which plugin are you using for language translation? Could you tell us a bit "
+"more?"
+msgstr ""
+"Hvaða viðbót ertu að nota til að þýða tungumál? Gætirðu sagt okkur aðeins "
+"meira?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:61
+msgid "Caching issues"
+msgstr "Skyndiminni"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:63
+msgid "Which caching plugin are you using? Could you tell us a bit more?"
+msgstr ""
+"Hvaða skyndiminni viðbót ertu að nota? Gætirðu sagt okkur aðeins meira?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:67
+msgid "I found a better plugin"
+msgstr "Ég fann betra viðbót"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:69
+msgid "Which plugin?"
+msgstr "Hvaða viðbót?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:73
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Viðbótin er frábær en ég þarf sérstakan eiginleika sem þú styður ekki"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:75
+msgid "Could you tell us more about that feature?"
+msgstr "Gætirðu sagt okkur meira um þann eiginleika?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:79
+msgid "The plugin didn't work as expected"
+msgstr "Viðbótin virkaði ekki eins og búist var við"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:81
+msgid "What did you expect?"
+msgstr "Við hverju bjóstu?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:85
+#: admin/views/admin-settings-general.php:10
+#: admin/views/admin-settings-general.php:132
+msgid "Other"
+msgstr "Annað"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:87
+msgid "Could you tell us a bit more?"
+msgstr "Gætirðu sagt okkur aðeins meira?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:106
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+"Ef þú hefur augnablik, vinsamlegast láttu okkur vita af hverju þú ert að "
+"gera óvirk:"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:116
+msgid "I rather wouldn't say"
+msgstr "Ég myndi frekar ekki segja það"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:119
+msgid "Go to support"
+msgstr "Farðu til stuðnings"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:120
+msgid "Submit & Deactivate"
+msgstr "Senda og gera óvirkt"
+
+#: admin/partials/cookie-law-info-admin_settings.php:25
+#: admin/views/admin_necessary_cookie.php:17
+#: admin/views/admin_non_necessary_cookie.php:23
+msgid "Settings updated."
+msgstr "Stillingar Uppfærðar."
+
+#: admin/partials/cookie-law-info-admin_settings.php:26
+#: admin/views/admin_necessary_cookie.php:18
+#: admin/views/admin_non_necessary_cookie.php:24
+msgid "Unable to update Settings."
+msgstr "Ekki er hægt að uppfæra stillingar."
+
+#: admin/partials/cookie-law-info-admin_settings.php:27
+msgid "Settings reset to defaults."
+msgstr "Stillingar endurstilla á vanskilum."
+
+#: admin/partials/cookie-law-info-admin_settings.php:28
+msgid "Unable to reset settings."
+msgstr "Ekki er hægt að endurstilla stillingar."
+
+#: admin/partials/cookie-law-info-admin_settings.php:39
+msgid "Your Cookie Law Info bar is switched on"
+msgstr "Smáatriði upplýsingalistans fyrir smákökur þínar er kveikt á"
+
+#: admin/partials/cookie-law-info-admin_settings.php:47
+msgid "Your Cookie Law Info bar is switched off"
+msgstr "Cookie Law Info Bar þín er slökkt"
+
+#: admin/partials/cookie-law-info-admin_settings.php:57
+#: admin/views/admin-settings-general.php:9
+msgid "General"
+msgstr "Almennt"
+
+#: admin/partials/cookie-law-info-admin_settings.php:58
+msgid "Customise Cookie Bar"
+msgstr "Sérsníða Cookie Bar"
+
+#: admin/partials/cookie-law-info-admin_settings.php:59
+msgid "Customise Buttons"
+msgstr "Hnappar"
+
+#: admin/partials/cookie-law-info-admin_settings.php:60
+#: admin/views/admin-settings-advanced.php:8
+msgid "Advanced"
+msgstr "Flókin"
+
+#: admin/partials/cookie-law-info-admin_settings.php:61
+msgid "Help Guide"
+msgstr "Hjálpargögn"
+
+#: admin/partials/cookie-law-info-privacy_overview.php:58
+msgid "Privacy Overview Title"
+msgstr "Persónuvernd Yfirlit Titill"
+
+#: admin/partials/cookie-law-info-privacy_overview.php:64
+#: admin/partials/cookie-law-info-privacy_overview.php:79
+msgid "This will be shown in the settings visible for user on consent screen."
+msgstr ""
+"Þetta mun birtast í stillingum sem eru sýnilegar fyrir notanda á "
+"samþykkisskjánum."
+
+#: admin/partials/cookie-law-info-privacy_overview.php:87
+msgid "Save Settings"
+msgstr "Vista stillingar"
+
+#: admin/views/admin-settings-advanced.php:9
+msgid ""
+"Sometimes themes apply settings that clash with plugins. If that happens, "
+"try adjusting these settings."
+msgstr ""
+"Stundum gilda þemu um stillingar sem stangast á við viðbætur. Ef það gerist "
+"skaltu reyna að breyta þessum stillingum."
+
+#: admin/views/admin-settings-advanced.php:13
+msgid "Reset all values"
+msgstr "Endurstilla allar gildin"
+
+#: admin/views/admin-settings-advanced.php:15
+msgid "Delete settings and reset"
+msgstr "Eyða stillingum og endurstilla"
+
+#: admin/views/admin-settings-advanced.php:15
+msgid "Are you sure you want to delete all your settings?"
+msgstr "Ertu viss um að þú viljir eyða öllum þínum stillingum?"
+
+#: admin/views/admin-settings-advanced.php:16
+msgid "Warning: this will actually delete your current settings."
+msgstr "Viðvörun: Þetta mun í raun eyða núverandi stillingum."
+
+#: admin/views/admin-settings-buttons.php:10
+msgid "Accept Button"
+msgstr "Hnappur"
+
+#: admin/views/admin-settings-buttons.php:11
+#: admin/views/admin-settings-buttons.php:93
+msgid "Reject Button"
+msgstr "Hafna hnappi"
+
+#: admin/views/admin-settings-buttons.php:12
+#: admin/views/admin-settings-buttons.php:163
+msgid "Settings Button"
+msgstr "Stillingar"
+
+#: admin/views/admin-settings-buttons.php:13
+#: admin/views/admin-settings-buttons.php:206
+msgid "Read More Link"
+msgstr "Sjá Meira"
+
+#: admin/views/admin-settings-buttons.php:14
+#: admin/views/admin-settings-buttons.php:326
+msgid "Do not sell link"
+msgstr "Ekki selja hlekk"
+
+#: admin/views/admin-settings-buttons.php:20
+msgid "Main Button"
+msgstr "Hnappur"
+
+#: admin/views/admin-settings-buttons.php:21
+msgid ""
+"This button/link can be customised to either simply close the cookie bar, or "
+"follow a link. You can also customise the colours and styles, and show it as "
+"a link or a button."
+msgstr ""
+"Þessi hnappur / hlekkur er hægt að aðlaga til að annaðhvort einfaldlega loka "
+"kexbarninu eða fylgja tengli. Þú getur einnig sérsniðið liti og stíl og sýnt "
+"það sem tengil eða hnapp."
+
+#: admin/views/admin-settings-buttons.php:24
+#: admin/views/admin-settings-buttons.php:96
+#: admin/views/admin-settings-buttons.php:166
+#: admin/views/admin-settings-buttons.php:220
+msgid "Text"
+msgstr "Tenglatexti"
+
+#: admin/views/admin-settings-buttons.php:30
+#: admin/views/admin-settings-buttons.php:102
+#: admin/views/admin-settings-buttons.php:172
+#: admin/views/admin-settings-buttons.php:226
+#: admin/views/admin-settings-buttons.php:346
+msgid "Text colour"
+msgstr "Litur"
+
+#: admin/views/admin-settings-buttons.php:38
+#: admin/views/admin-settings-buttons.php:110
+#: admin/views/admin-settings-buttons.php:180
+#: admin/views/admin-settings-buttons.php:234
+#: admin/views/admin-settings-buttons.php:335
+msgid "Show as"
+msgstr "Sýna sem"
+
+#: admin/views/admin-settings-buttons.php:40
+#: admin/views/admin-settings-buttons.php:112
+#: admin/views/admin-settings-buttons.php:182
+#: admin/views/admin-settings-buttons.php:236
+msgid "Button"
+msgstr "Hnappur"
+
+#: admin/views/admin-settings-buttons.php:42
+#: admin/views/admin-settings-buttons.php:114
+#: admin/views/admin-settings-buttons.php:184
+#: admin/views/admin-settings-buttons.php:238
+#: admin/views/admin-settings-buttons.php:337
+msgid "Link"
+msgstr "Tengill"
+
+#: admin/views/admin-settings-buttons.php:46
+#: admin/views/admin-settings-buttons.php:118
+#: admin/views/admin-settings-buttons.php:188
+#: admin/views/admin-settings-buttons.php:242
+msgid "Background colour"
+msgstr "Bakgrunslitur"
+
+#: admin/views/admin-settings-buttons.php:55
+#: admin/views/admin-settings-buttons.php:126
+msgid "Action"
+msgstr "Aðgerð"
+
+#: admin/views/admin-settings-buttons.php:63
+#: admin/views/admin-settings-buttons.php:138
+#: admin/views/admin-settings-buttons.php:253
+#: admin/views/admin-settings-buttons.php:260
+msgid "URL"
+msgstr "Vefslóð"
+
+#: admin/views/admin-settings-buttons.php:66
+#: admin/views/admin-settings-buttons.php:141
+msgid "Button will only link to URL if Action = Open URL"
+msgstr "Hnappur mun aðeins tengjast URL ef aðgerð = Opna vefslóð"
+
+#: admin/views/admin-settings-buttons.php:71
+#: admin/views/admin-settings-buttons.php:146
+msgid "Open URL in new window?"
+msgstr "Opnaðu slóðina í nýjum glugga?"
+
+#: admin/views/admin-settings-buttons.php:73
+#: admin/views/admin-settings-buttons.php:148
+#: admin/views/admin-settings-buttons.php:304
+#: admin/views/admin-settings-buttons.php:311
+#: admin/views/admin-settings-general.php:38
+#: admin/views/admin-settings-general.php:54
+#: admin/views/admin-settings-general.php:71
+#: admin/views/admin-settings-general.php:140
+#: admin/views/admin-settings-general.php:148
+#: admin/views/admin-settings-general.php:155
+#: admin/views/admin-settings-messagebar.php:86
+#: admin/views/admin-settings-messagebar.php:110
+#: admin/views/admin-settings-messagebar.php:150
+#: admin/views/admin_non_necessary_cookie.php:37
+msgid "Yes"
+msgstr "Já"
+
+#: admin/views/admin-settings-buttons.php:75
+#: admin/views/admin-settings-buttons.php:149
+#: admin/views/admin-settings-buttons.php:305
+#: admin/views/admin-settings-buttons.php:312
+#: admin/views/admin-settings-general.php:39
+#: admin/views/admin-settings-general.php:55
+#: admin/views/admin-settings-general.php:72
+#: admin/views/admin-settings-general.php:141
+#: admin/views/admin-settings-general.php:149
+#: admin/views/admin-settings-general.php:156
+#: admin/views/admin-settings-messagebar.php:87
+#: admin/views/admin-settings-messagebar.php:111
+#: admin/views/admin-settings-messagebar.php:151
+#: admin/views/admin_non_necessary_cookie.php:38
+msgid "No"
+msgstr "Nei"
+
+#: admin/views/admin-settings-buttons.php:82
+#: admin/views/admin-settings-buttons.php:153
+#: admin/views/admin-settings-buttons.php:196
+#: admin/views/admin-settings-buttons.php:316
+msgid "Size"
+msgstr "Stærð"
+
+#: admin/views/admin-settings-buttons.php:207
+msgid ""
+"This button/link can be used to provide a link out to your Privacy & Cookie "
+"Policy. You can customise it any way you like."
+msgstr ""
+"Þessi hnappur / hlekkur er hægt að nota til að bjóða upp á tengil á "
+"persónuvernd og smákökum. Þú getur sérsniðið það eins og þú vilt."
+
+#: admin/views/admin-settings-buttons.php:212
+msgid "Click"
+msgstr "Smellur"
+
+#: admin/views/admin-settings-buttons.php:212
+msgid "here"
+msgstr "hér"
+
+#: admin/views/admin-settings-buttons.php:212
+msgid " to generate content for Cookie Policy page."
+msgstr " til að búa til efni fyrir síðu Cookie Policy."
+
+#: admin/views/admin-settings-buttons.php:251
+msgid "URL or Page?"
+msgstr "URL eða síðu?"
+
+#: admin/views/admin-settings-buttons.php:255
+#: admin/views/admin-settings-buttons.php:266
+msgid "Page"
+msgstr "Síða"
+
+#: admin/views/admin-settings-buttons.php:269
+msgid "Select One"
+msgstr "Veldu einn"
+
+#: admin/views/admin-settings-buttons.php:294
+msgid "The currently selected page does not exist. Please select a new page."
+msgstr "Núverandi síða er ekki til. Vinsamlegast veldu nýja síðu."
+
+#: admin/views/admin-settings-buttons.php:302
+msgid "Minimize Cookie Bar in this page/URL?"
+msgstr "Minnka kökuborð á þessari síðu / vefslóð?"
+
+#: admin/views/admin-settings-buttons.php:309
+msgid "Open in new window?"
+msgstr "Opnaðu í nýjum glugga?"
+
+#: admin/views/admin-settings-buttons.php:329
+msgid "CCPA Text"
+msgstr "CCPA texti"
+
+#: admin/views/admin-settings-buttons.php:338
+msgid "Checkbox"
+msgstr "Hak"
+
+#: admin/views/admin-settings-buttons.php:340
+msgid "The shortcode will be represented as a link whereever used."
+msgstr "Stutkóðinn verður fulltrúi sem hlekkur hvar sem er notaður."
+
+#: admin/views/admin-settings-buttons.php:341
+msgid ""
+"The shortcode will be represented as a checkbox with select option to record "
+"consent."
+msgstr ""
+"Styttingarkóðinn verður fulltrúi sem gátreitur með valinn möguleika til að "
+"skrá samþykki."
+
+#: admin/views/admin-settings-general.php:17
+msgid "Enable cookie law"
+msgstr "Virkja lög um smákökur"
+
+#: admin/views/admin-settings-general.php:19
+msgid "On"
+msgstr "Virkt"
+
+#: admin/views/admin-settings-general.php:20
+msgid "Off"
+msgstr "Af"
+
+#: admin/views/admin-settings-general.php:36
+msgid "Auto-hide(Accept) cookie bar after delay?"
+msgstr "Sjálfkrafa (Accept) kexbar eftir tafar?"
+
+#: admin/views/admin-settings-general.php:43
+msgid "Milliseconds until hidden"
+msgstr "Millisekúndur þar til hann er falinn"
+
+#: admin/views/admin-settings-general.php:46
+msgid "Specify milliseconds (not seconds)"
+msgstr "Tilgreindu millisekúndur (ekki sekúndur)"
+
+#: admin/views/admin-settings-general.php:46
+msgid "seconds"
+msgstr "sekúndur"
+
+#: admin/views/admin-settings-general.php:52
+msgid "Auto-hide cookie bar if the user scrolls ( Accept on Scroll )?"
+msgstr "Sjálfkrafa köku bar ef notandi rollar (Accept on Scroll)?"
+
+#: admin/views/admin-settings-general.php:56
+msgid ""
+"As per latest GDPR policies it is required to take an explicit consent for "
+"the cookies. Use this option with discretion especially if you serve EU"
+msgstr ""
+"Samkvæmt nýjustu GDPR stefnu er nauðsynlegt að taka skýrt samþykki fyrir "
+"smákökum. Notaðu þennan möguleika með valdi, sérstaklega ef þú þjónar ESB"
+
+#: admin/views/admin-settings-general.php:57
+msgid "This option will not work along with `Popup overlay`."
+msgstr "Þessi valkostur mun ekki virka með `Popup overlay`."
+
+#: admin/views/admin-settings-general.php:66
+#: admin/views/admin-settings-messagebar.php:145
+msgid "Show Again Tab"
+msgstr "Sýna aftur flipa"
+
+#: admin/views/admin-settings-general.php:69
+#: admin/views/admin-settings-messagebar.php:148
+msgid "Use Show Again Tab?"
+msgstr "Notaðu Show Again Tab?"
+
+#: admin/views/admin-settings-general.php:77
+#: admin/views/admin-settings-general.php:94
+#: admin/views/admin-settings-messagebar.php:156
+#: admin/views/admin-settings-messagebar.php:173
+msgid "Tab Position"
+msgstr "Staða"
+
+#: admin/views/admin-settings-general.php:82
+#: admin/views/admin-settings-general.php:85
+#: admin/views/admin-settings-messagebar.php:161
+#: admin/views/admin-settings-messagebar.php:164
+msgid "Right"
+msgstr "Hægri"
+
+#: admin/views/admin-settings-general.php:83
+#: admin/views/admin-settings-general.php:86
+#: admin/views/admin-settings-messagebar.php:162
+#: admin/views/admin-settings-messagebar.php:165
+msgid "Left"
+msgstr "Vinstri"
+
+#: admin/views/admin-settings-general.php:101
+#: admin/views/admin-settings-messagebar.php:180
+msgid "Bottom Right"
+msgstr "Neðst til hægri"
+
+#: admin/views/admin-settings-general.php:104
+#: admin/views/admin-settings-messagebar.php:183
+msgid "Bottom Left"
+msgstr "Neðst til vinstri"
+
+#: admin/views/admin-settings-general.php:107
+#: admin/views/admin-settings-messagebar.php:186
+msgid "Top Right"
+msgstr "Efst til hægri"
+
+#: admin/views/admin-settings-general.php:110
+#: admin/views/admin-settings-messagebar.php:189
+msgid "Top Left"
+msgstr "Efst til vinstri"
+
+#: admin/views/admin-settings-general.php:117
+#: admin/views/admin-settings-messagebar.php:196
+msgid "From Left Margin"
+msgstr "Vinstri spássía"
+
+#: admin/views/admin-settings-general.php:120
+#: admin/views/admin-settings-messagebar.php:199
+msgid "Specify"
+msgstr "Lag"
+
+#: admin/views/admin-settings-general.php:124
+#: admin/views/admin-settings-messagebar.php:203
+msgid "Show More Text"
+msgstr "Sýna fleiri texta"
+
+#: admin/views/admin-settings-general.php:135
+msgid "Reload after \"scroll accept\" event?"
+msgstr "Endurhlaða eftir \"skruna samþykkja\" atburði?"
+
+#: admin/views/admin-settings-general.php:146
+msgid "Reload after Accept button click"
+msgstr "Endurhlaða eftir Samþykkja hnappinn smellur"
+
+#: admin/views/admin-settings-general.php:153
+msgid "Reload after Reject button click"
+msgstr "Endurhlaða eftir Hætta við hnappinn"
+
+#: admin/views/admin-settings-help.php:9
+msgid "Shortcodes"
+msgstr "Skammstafanir"
+
+#: admin/views/admin-settings-help.php:10
+#: admin/views/admin-settings-help.php:103
+msgid "Help Links"
+msgstr "Hjálp Tenglar"
+
+#: admin/views/admin-settings-help.php:16
+msgid "Cookie bar shortcodes"
+msgstr "Smákökum fyrir smákökur"
+
+#: admin/views/admin-settings-help.php:17
+msgid ""
+"You can enter the shortcodes in the \"message\" field of the Cookie Law Info "
+"bar. They add nicely formatted buttons and/or links into the cookie bar, "
+"without you having to add any HTML."
+msgstr ""
+"Þú getur slegið inn skammstafana í \"skilaboðasvæðinu\" í upplýsingalistanum "
+"fyrir smákökurétt. Þeir bæta við fallega sniðnum hnöppum og / eða tenglum "
+"inn í smákökuborðið, án þess að þurfa að bæta við neinum HTML."
+
+#: admin/views/admin-settings-help.php:22
+msgid "This is the \"main button\" you customise above."
+msgstr "Þetta er \"aðalhnappur\" sem þú sérsniðir hér að ofan."
+
+#: admin/views/admin-settings-help.php:26
+msgid "This is the cookie reject button shortcode."
+msgstr "Þetta er smákóðun smákökunarhnappsins."
+
+#: admin/views/admin-settings-help.php:30
+msgid "This is the cookie settings button rendering shortcode."
+msgstr ""
+"Þetta er stillingarhnappurinn fyrir smákökur sem gefur til kynna "
+"skammstafanir."
+
+#: admin/views/admin-settings-help.php:33
+msgid "This is the \"read more\" link you customise above."
+msgstr "Þetta er \"lesa meira\" tengilinn sem þú sérsníður hér að ofan."
+
+#: admin/views/admin-settings-help.php:36
+msgid "Setup margin for above buttons"
+msgstr "Uppsetningarmörk fyrir ofan hnappa"
+
+#: admin/views/admin-settings-help.php:65
+msgid "Other shortcodes"
+msgstr "Annað"
+
+#: admin/views/admin-settings-help.php:66
+msgid ""
+"These shortcodes can be used in pages and posts on your website. It is not "
+"recommended to use these inside the cookie bar itself."
+msgstr ""
+"Þessar skammstafanir má nota á síðum og færslum á vefsíðunni þinni. Ekki er "
+"mælt með því að nota þetta innan kökubarna sjálfs."
+
+#: admin/views/admin-settings-help.php:72
+msgid ""
+"This prints out a nice table of cookies, in line with the guidance given by "
+"the ICO."
+msgstr ""
+"Þetta prentar út gott borð af smákökum, í samræmi við leiðbeiningar ICO."
+
+#: admin/views/admin-settings-help.php:72
+msgid ""
+"You need to enter the cookies your website uses via the Cookie Law Info menu "
+"in your WordPress dashboard."
+msgstr ""
+"Þú þarft að slá inn smákökur sem vefsvæðið þitt notar í gegnum Cookie Law "
+"Info valmyndina í WordPress mælaborðinu þínu."
+
+#: admin/views/admin-settings-help.php:80
+msgid "Styles included"
+msgstr "Stíll innifalinn"
+
+#: admin/views/admin-settings-help.php:82
+msgid "Columns available"
+msgstr "Dálkar í boði"
+
+#: admin/views/admin-settings-help.php:82
+msgid "Will print all columns by default."
+msgstr "Mun prenta alla dálka sjálfgefið."
+
+#: admin/views/admin-settings-help.php:86
+msgid ""
+"This shortcode will display a normal HTML link which when clicked, will "
+"delete the cookie set by Cookie Law Info (this cookie is used to remember "
+"that the cookie bar is closed)."
+msgstr ""
+"Þessi stutta letur mun sýna eðlilega HTML tengil sem þegar smellt er á, mun "
+"það eyða smákökunum með Cookie Law Info (þetta kex er notað til að muna að "
+"kökuborðið er lokað)."
+
+#: admin/views/admin-settings-help.php:90
+msgid ""
+"Add any text you like- useful if you want e.g. another language to English."
+msgstr ""
+"Bættu við texta sem þú vilt - gagnlegt ef þú vilt t.d. annað tungumál á "
+"ensku."
+
+#: admin/views/admin-settings-help.php:94
+msgid "Add content after accepting the cookie notice."
+msgstr "Bættu við efni eftir að þú samþykkir smákökuna."
+
+#: admin/views/admin-settings-help.php:107
+#: admin/views/admin-settings-help.php:110 admin/views/goto-pro.php:103
+msgid "Documentation"
+msgstr "Handbækur"
+
+#: admin/views/admin-settings-help.php:108
+msgid "Refer to our documentation to set and get started"
+msgstr "Skoðaðu skjölin okkar til að setja og byrja"
+
+#: admin/views/admin-settings-help.php:115
+msgid "Help and Support"
+msgstr "Hjálp og stuðningur"
+
+#: admin/views/admin-settings-help.php:116
+msgid "We would love to help you on any queries or issues."
+msgstr "Við viljum hjálpa þér við allar fyrirspurnir eða mál."
+
+#: admin/views/admin-settings-help.php:118
+msgid "Contact Us"
+msgstr "Hafa samband"
+
+#: admin/views/admin-settings-messagebar.php:9
+#, fuzzy
+#| msgid "Cookie Bar"
+msgid "Cookie bar"
+msgstr "Kexbar"
+
+#: admin/views/admin-settings-messagebar.php:10
+msgid "Show again tab"
+msgstr "Sýna aftur flipann"
+
+#: admin/views/admin-settings-messagebar.php:15
+msgid "Cookie Bar"
+msgstr "Kexbar"
+
+#: admin/views/admin-settings-messagebar.php:18
+msgid "Message Heading"
+msgstr "Message heading"
+
+#: admin/views/admin-settings-messagebar.php:21
+msgid "Leave it blank, If you do not need a heading"
+msgstr "Leyfðu henni að eyða, ef þú þarft ekki fyrirsögn"
+
+#: admin/views/admin-settings-messagebar.php:26
+msgid "Message"
+msgstr "Skilaboð"
+
+#: admin/views/admin-settings-messagebar.php:32
+msgid "Shortcodes allowed: see the Help Guide tab"
+msgstr "Leyfilegir skammkóðar: Sjá flipann Hjálpa leiðbeiningar"
+
+#: admin/views/admin-settings-messagebar.php:32
+msgid ""
+"Examples: \"We use cookies on this website [cookie_accept] to find out how "
+"to delete cookies [cookie_link].\""
+msgstr ""
+"Dæmi: \"Við notum kökur á þessari vefsíðu [cookie_accept] til að finna út "
+"hvernig á að eyða smákökum [cookie_link].\""
+
+#: admin/views/admin-settings-messagebar.php:36
+msgid "Cookie Bar Colour"
+msgstr "Litur"
+
+#: admin/views/admin-settings-messagebar.php:46
+msgid "Text Colour"
+msgstr "Litur"
+
+#: admin/views/admin-settings-messagebar.php:55
+msgid "Font"
+msgstr "Leturgerð"
+
+#: admin/views/admin-settings-messagebar.php:63
+#, fuzzy
+#| msgid "Cookie bar as"
+msgid "Show cookie bar as"
+msgstr "Kexbar eins og"
+
+#: admin/views/admin-settings-messagebar.php:68
+msgid "Banner"
+msgstr "Borði"
+
+#: admin/views/admin-settings-messagebar.php:69
+msgid "Popup"
+msgstr "Skjóta upp kollinum"
+
+#: admin/views/admin-settings-messagebar.php:70
+msgid "Widget"
+msgstr "Græjur"
+
+#: admin/views/admin-settings-messagebar.php:74
+msgid "Position"
+msgstr "Staða"
+
+#: admin/views/admin-settings-messagebar.php:84
+msgid "Add overlay?"
+msgstr "Bæta við yfirliti?"
+
+#: admin/views/admin-settings-messagebar.php:88
+msgid ""
+"When the popup is active, an overlay will block the user from browsing the "
+"site."
+msgstr ""
+"Þegar sprettiglugga er virkur mun yfirborð loka notandanum frá því að vafra "
+"um síðuna."
+
+#: admin/views/admin-settings-messagebar.php:89
+msgid "`Accept on scroll` will not work along with this option."
+msgstr "\"Samþykkja á skrúfu\" mun ekki virka með þessari valkost."
+
+#: admin/views/admin-settings-messagebar.php:93
+#, fuzzy
+#| msgid "Position"
+msgid "Position:"
+msgstr "Staða"
+
+#: admin/views/admin-settings-messagebar.php:98
+msgid "Header"
+msgstr "Haus"
+
+#: admin/views/admin-settings-messagebar.php:99
+msgid "Footer"
+msgstr "Fótur"
+
+#: admin/views/admin-settings-messagebar.php:108
+msgid "Fix Cookie Bar to Header?"
+msgstr "Festa Cookie Bar til haus?"
+
+#: admin/views/admin-settings-messagebar.php:112
+msgid ""
+"If you select \"Header\" then you can optionally stick the cookie bar to the "
+"header. Will not have any effect if you select \"Footer\"."
+msgstr ""
+"Ef þú velur \"Header\" þá geturðu valið kakaastikuna mögulega í hausinn. Mun "
+"ekki hafa nein áhrif ef þú velur \"Footer\"."
+
+#: admin/views/admin-settings-messagebar.php:120
+msgid "On load"
+msgstr "Á álagi"
+
+#: admin/views/admin-settings-messagebar.php:125
+#: admin/views/admin-settings-messagebar.php:135
+msgid "Animate"
+msgstr "Sýna hreyfingar"
+
+#: admin/views/admin-settings-messagebar.php:126
+#: admin/views/admin-settings-messagebar.php:136
+msgid "Sticky"
+msgstr "Loðir við"
+
+#: admin/views/admin-settings-messagebar.php:130
+msgid "On hide"
+msgstr "Sæktu sjálfkrafa kökuhnapp eftir töf"
+
+#: admin/views/admin-settings-save-button.php:12
+#: admin/views/admin_necessary_cookie.php:43
+#: admin/views/admin_non_necessary_cookie.php:86
+msgid "Update Settings"
+msgstr "Uppfærsla af stillingum mistókst"
+
+#: admin/views/admin_necessary_cookie.php:23
+msgid "Necessary Cookie Settings"
+msgstr "Nauðsynlegar smákökastillingar"
+
+#: admin/views/admin_non_necessary_cookie.php:29
+msgid "Non-necessary Cookie Settings"
+msgstr "Óþarfa Cookie Settings"
+
+#: admin/views/admin_non_necessary_cookie.php:36
+msgid "Enable Non-necessary Cookie"
+msgstr "Virkja óþarfa smákökur"
+
+#: admin/views/admin_non_necessary_cookie.php:43
+#, fuzzy
+#| msgid "Default theme font"
+msgid "Default state"
+msgstr "Sjálfgefið þema letur"
+
+#: admin/views/admin_non_necessary_cookie.php:44
+#: public/views/cookie-law-info_popup_content.php:5
+msgid "Enabled"
+msgstr "Virkjuð"
+
+#: admin/views/admin_non_necessary_cookie.php:45
+#: public/views/cookie-law-info_popup_content.php:6
+msgid "Disabled"
+msgstr "Óvirkt"
+
+#: admin/views/admin_non_necessary_cookie.php:47
+msgid ""
+"If you enable this option, the category toggle button will be in the active "
+"state for cookie consent."
+msgstr ""
+"Ef þú kveikir á þessum valkosti, mun víkjahnappurinn í flokknum vera í virku "
+"ástandi fyrir samþykki fótspora."
+
+#: admin/views/admin_non_necessary_cookie.php:61
+msgid ""
+"This script will be added to the page HEAD section if the above settings is "
+"enabled and user has give consent."
+msgstr ""
+"Þetta handrit verður bætt við síðu HEAD kafla ef ofangreindar stillingar eru "
+"virk og notandi hefur gefið samþykki."
+
+#: admin/views/admin_non_necessary_cookie.php:66
+msgid ""
+"Print scripts in the head tag on the front end if above cookie settings is "
+"enabled and user has given consent."
+msgstr ""
+"Prenta forskriftir í höfuðmerkinu á framhliðinni ef stillingar fyrir ofan "
+"stillingar eru virk og notandi hefur gefið samþykki."
+
+#: admin/views/admin_non_necessary_cookie.php:73
+msgid ""
+"This script will be added right after the BODY section if the above settings "
+"is enabled and user has given consent."
+msgstr ""
+"Þessi handrit verður bætt strax eftir líkama kafla ef ofangreindar "
+"stillingar eru virkir og notandi hefur gefið samþykki."
+
+#: admin/views/admin_non_necessary_cookie.php:76
+msgid ""
+"Print scripts before the closing body tag on the front end if above cookie "
+"settings is enabled and user has given consent."
+msgstr ""
+"Prentaðu forskriftir áður en lokunarljósið er á framhliðinni ef stillingar "
+"fyrir ofan kex eru virk og notandi hefur gefið samþykki."
+
+#: admin/views/goto-pro.php:56
+msgid "Where did my settings go?"
+msgstr "Hvar fór stillingarnar mínar?"
+
+#: admin/views/goto-pro.php:57
+msgid "Cookie Law Info version 0.9 has been updated and has new settings."
+msgstr ""
+"Cookie Law Info útgáfa 0.9 hefur verið uppfærð og hefur nýjar stillingar."
+
+#: admin/views/goto-pro.php:57
+msgid "Your previous settings are safe."
+msgstr "Fyrri stillingar þínar eru öruggar."
+
+#: admin/views/goto-pro.php:58
+msgid ""
+"You can either copy over your old settings to this version, or use the new "
+"default values."
+msgstr ""
+"Þú getur annaðhvort afritað yfir gömlu stillingarnar þínar í þessa útgáfu "
+"eða notað nýju sjálfgefin gildi."
+
+#: admin/views/goto-pro.php:60
+msgid "Would you like to:"
+msgstr "Viltu að:"
+
+#: admin/views/goto-pro.php:62
+msgid "Use previous settings"
+msgstr "Notaðu fyrri stillingar"
+
+#: admin/views/goto-pro.php:63
+msgid "Start afresh with the new version"
+msgstr "Byrjaðu aftur með nýju útgáfunni"
+
+#: admin/views/goto-pro.php:67
+msgid ""
+"If you want to go back to the previous version you can always download it "
+"again from"
+msgstr "Ef þú vilt fara aftur í fyrri útgáfu geturðu alltaf sótt það aftur frá"
+
+#: admin/views/goto-pro.php:73
+msgid "30 Day Money Back Guarantee"
+msgstr "30 daga peningarábyrgð"
+
+#: admin/views/goto-pro.php:74
+msgid "Fast and Superior Support"
+msgstr "Fljótur og frábær stuðningur"
+
+#: admin/views/goto-pro.php:75
+msgid "10X Powerful with GDPR Cookie Consent Features That Every Site Needs"
+msgstr "10X Öflugur með GDPR Cookie Samþykktaraðgerðir sem hvert vefsvæði þarf"
+
+#: admin/views/goto-pro.php:78
+msgid "Upgrade to Premium"
+msgstr "Uppfæra í Premium"
+
+#: admin/views/goto-pro.php:84
+msgid "Automatic Cookie Scanner"
+msgstr "Sjálfvirk smákökuskanni"
+
+#: admin/views/goto-pro.php:85
+msgid ""
+"Auto block scripts - Google Analytics, Facebook Pixel, Google Tag Manager, "
+"Hotjar Analytics, Google Publisher Tag, Youtube embed, Vimeo embed, Google "
+"maps, Addthis widget, Sharethis widget, Twitter widget, Soundcloud embed, "
+"Slideshare embed, Linkedin widget, Instagram embed, Pinterest widget"
+msgstr ""
+"Sjálfvirkar blokkarskriftir - Google Analytics, Facebook Pixel, Google Tag "
+"Manager, Hotjar Analytics, Google Útgefandi Tag, Youtube embed, Vimeo embed "
+"in, Google kort, Addthis búnaður, Sharethis búnaður, Twitter búnaður, "
+"Soundcloud embed, Slideshare embed in, Linkedin widget, Instagram embed , "
+"Pinterest búnaður"
+
+#: admin/views/goto-pro.php:86
+msgid "Location based exclusion of cookie notice for EU countries"
+msgstr "Staðbundin útilokun á tilkynningu fyrir smákökur fyrir ESB lönd"
+
+#: admin/views/goto-pro.php:87
+msgid "Granular control over the cookies/scipts used by the website"
+msgstr "Granular stjórn á smákökum / skurðum sem notaðar eru af vefsíðunni"
+
+#: admin/views/goto-pro.php:88
+msgid "User consent audit logs"
+msgstr "Notendur samþykkja endurskoðunarskrár"
+
+#: admin/views/goto-pro.php:89
+msgid "Customized privacy overview"
+msgstr "Sérsniðið næði yfirlit"
+
+#: admin/views/goto-pro.php:90
+msgid "Cookie bar preview in admin settings page"
+msgstr "Forskoðun á smákökum bar á stjórnunarstillingar síðu"
+
+#: admin/views/goto-pro.php:91
+msgid "Advanced support for cache plugins"
+msgstr "Ítarlegri stuðningur við skyndiminni"
+
+#: admin/views/goto-pro.php:92
+msgid "Cookie bar theme customizer for banner/ widgets/ popup"
+msgstr "Kaka bar þema customizer fyrir borði / widgets / almenningur"
+
+#: admin/views/goto-pro.php:93
+msgid "GDPR compliance with Google Tag Manager"
+msgstr "GDPR-samræmi við Google Tag Manager"
+
+#: admin/views/goto-pro.php:94
+msgid "Javascript helper functions"
+msgstr "Javascript hjálparaðgerðir"
+
+#: admin/views/goto-pro.php:108
+msgid "Like this plugin?"
+msgstr "Eins og þetta tappi?"
+
+#: admin/views/goto-pro.php:109
+msgid "If you find this plugin useful please show your support and rate it"
+msgstr ""
+"Ef þú finnur þessa tappa gagnlegt skaltu sýna stuðningnum þínum og meta það"
+
+#: admin/views/goto-pro.php:109
+msgid " on"
+msgstr " á"
+
+#: admin/views/goto-pro.php:109
+msgid "  much appreciated!"
+msgstr " vel þegið!"
+
+#: public/class-cookie-law-info-public.php:73
+msgid "Necessary"
+msgstr "Nauðsynlegt"
+
+#: public/class-cookie-law-info-public.php:74
+msgid "Non-necessary"
+msgstr "Ekki nauðsynlegt"
+
+#: public/class-cookie-law-info-public.php:284
+msgid "GDPR Cookie Consent"
+msgstr "Samþykki GDPR Cookie"
+
+#: public/class-cookie-law-info-public.php:285
+msgid "Cookie List"
+msgstr "Smákaka"
+
+#: public/class-cookie-law-info-public.php:286
+#: public/modules/shortcode/shortcode.php:205
+msgid "Cookie"
+msgstr "Smákaka"
+
+#: public/class-cookie-law-info-public.php:287
+msgid "Add New"
+msgstr "Bæta við"
+
+#: public/class-cookie-law-info-public.php:288
+msgid "Add New Cookie Type"
+msgstr "Bæta við nýjum kexgerð"
+
+#: public/class-cookie-law-info-public.php:289
+msgid "Edit Cookie Type"
+msgstr "Breyta smákökutegund"
+
+#: public/class-cookie-law-info-public.php:290
+msgid "New Cookie Type"
+msgstr "Nýtt kex gerð"
+
+#: public/class-cookie-law-info-public.php:291
+msgid "View Cookie Type"
+msgstr "Skoða smákökutegund"
+
+#: public/class-cookie-law-info-public.php:292
+msgid "Search Cookies"
+msgstr "Leita"
+
+#: public/class-cookie-law-info-public.php:293
+msgid "Nothing found"
+msgstr "Ekkert fannst"
+
+#: public/class-cookie-law-info-public.php:294
+msgid "Nothing found in Trash"
+msgstr "Ekkert fannst í ruslafötu"
+
+#: public/modules/shortcode/shortcode.php:96
+msgid "Your current state:"
+msgstr "Núverandi ástand þitt:"
+
+#: public/modules/shortcode/shortcode.php:101
+#, fuzzy
+#| msgid "Consent Accepted."
+msgid "Consent accepted."
+msgstr "Samþykki Samþykkt."
+
+#: public/modules/shortcode/shortcode.php:104
+msgid "Consent rejected."
+msgstr "Samþykki hafnað."
+
+#: public/modules/shortcode/shortcode.php:108
+msgid "No consent given."
+msgstr "Ekkert samþykki gefið."
+
+#: public/modules/shortcode/shortcode.php:110
+msgid "Manage your consent."
+msgstr "Stjórna samþykki þitt."
+
+#: public/modules/shortcode/shortcode.php:147
+msgid "Delete Cookies"
+msgstr "Eyða kökum"
+
+#: public/modules/shortcode/shortcode.php:183
+msgid "No records found"
+msgstr "Engar færslur fundust"
+
+#: public/modules/shortcode/shortcode.php:209
+msgid "Type"
+msgstr "Tegund"
+
+#: public/modules/shortcode/shortcode.php:213
+msgid "Duration"
+msgstr "Tímalengd"
+
+#: public/modules/shortcode/shortcode.php:530
+#, fuzzy
+#| msgid "Customise Cookie Bar"
+msgid "Close the cookie bar"
+msgstr "Sérsníða Cookie Bar"
+
+#: public/modules/shortcode/shortcode.php:530
+#, fuzzy
+#| msgid "Consent Accepted."
+msgid "Close and Accept"
+msgstr "Samþykki Samþykkt."
+
+#: public/views/cookie-law-info_bar.php:23
+msgid "Close"
+msgstr "Loka"
+
+#: public/views/cookie-law-info_popup_content.php:4
+msgid "Always Enabled"
+msgstr "Alltaf virk"
+
+#: public/views/cookie-law-info_popup_content.php:7
+msgid "Show more"
+msgstr "Sýna meira"
+
+#: public/views/cookie-law-info_popup_content.php:7
+msgid "Show less"
+msgstr "Sýna minna"
+
+#~ msgid "Cookie Bar is currently:"
+#~ msgstr "Cookie Bar er núna:"
+
+#~ msgid "Cookie Bar will be shown in:"
+#~ msgstr "Cookie Bar verður sýndur í:"
+
+#~ msgid "Disappear"
+#~ msgstr "Bendill"
+
+#~ msgid "Show Border?"
+#~ msgstr "Sýna Border?"
+
+#~ msgid "Border Colour"
+#~ msgstr "Feitletrað"
+
+#~ msgid "Priority"
+#~ msgstr "Forgangsröðun"
+
+#~ msgid "Scan & Download"
+#~ msgstr "& Hala niður"
+
+#~ msgid "Export Cookie"
+#~ msgstr "Stillingar köku lög"
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "Þú hefur ekki nægar heimildir til að fá aðgang að þessari síðu."
+
+#~ msgid "Export as CSV file"
+#~ msgstr "Flytja út CSV lista..."
+
+#~ msgid "Export"
+#~ msgstr "Flytja út"
+
+#~ msgid "Scan & Import"
+#~ msgstr "& Flytja inn"
+
+#~ msgid "Import Cookie"
+#~ msgstr "Flytja inn smákökur"
+
+#~ msgid "BEGIN %s"
+#~ msgstr "BEGIN %s"
+
+#~ msgid "[Line %1$s] %2$s"
+#~ msgstr "%1$s, %2$s"
+
+#~ msgid "Import from a CSV file"
+#~ msgstr "Flytja inn úr CSV skrá"
+
+#~ msgid ""
+#~ "Notice: please make the directory %s writable so that you can see the "
+#~ "error log."
+#~ msgstr "Tilkynning: vinsamlegast notaðu möppuna%s til að sjá villuskráinn."
+
+#~ msgid "Error during file upload."
+#~ msgstr "Villa við skráarupphleðslu."
+
+#~ msgid "No posts was successfully imported%s."
+#~ msgstr "Engar færslur voru fluttar inn%s."
+
+#~ msgid "Some posts were successfully imported but some were not%s."
+#~ msgstr "Sumar færslur voru fluttar inn en sumir voru ekki%s."
+
+#~ msgid "Post import was successful."
+#~ msgstr "Innflutningur innflutnings tókst."
+
+#~ msgid "CSV file"
+#~ msgstr "Skrá"
+
+#~ msgid "Import"
+#~ msgstr "Flytja Inn"
+
+#~ msgid "Error processing migration request (ERROR: 4)"
+#~ msgstr "Villa við að vinna úr flutningsbeiðni (ERROR: 4)"
+
+#~ msgid "Cookie Law Message Bar"
+#~ msgstr "Stillingar köku lög"
+
+#~ msgid "Link Text"
+#~ msgstr "Tenglatexti"
+
+#~ msgid "Open link in new window?"
+#~ msgstr "_Opna í nýjum glugga"
+
+#~ msgid "Link colour"
+#~ msgstr "Litur"
+
+#~ msgid "Show as button?"
+#~ msgstr "Feitletrað"
+
+#~ msgid "Button colour"
+#~ msgstr "Hnappur litur"
+
+#~ msgid "Button Size"
+#~ msgstr "Stærð hnappa"
+
+#~ msgid "Using the Shortcodes"
+#~ msgstr "Að nota skammstafana"
+
+#~ msgid "The shortcodes are:"
+#~ msgstr "Skammstafarnir eru:"
+
+#~ msgid ""
+#~ "If you just want a standard green \"Accept\" button that closes the "
+#~ "header and nothing more, use this shortcode. It is already styled, you "
+#~ "don't need to customise it."
+#~ msgstr ""
+#~ "Ef þú vilt bara staðlaða græna \"Samþykkja\" hnappinn sem lokar hausnum "
+#~ "og ekkert meira, notaðu þetta strikamerki. Það er nú þegar stíll, þú "
+#~ "þarft ekki að aðlaga það."
+
+#~ msgid ""
+#~ "Alternatively you can add a colour value. Choose from: red, blue, orange, "
+#~ "yellow, green or pink."
+#~ msgstr ""
+#~ "Einnig er hægt að bæta við litavali. Veldu úr: rauður, blár, "
+#~ "appelsínugulur, gulur, grænn eða bleikur."
+
+#~ msgid "Help"
+#~ msgstr "Hjálp"
+
+#~ msgid "Report a Bug"
+#~ msgstr "Tilkynna vandamál..."
+
+#~ msgid "About the law"
+#~ msgstr "Stillingar köku lög"
+
+#~ msgid "Licence"
+#~ msgstr "Leyfi"
+
+#~ msgid "API Licence Key:"
+#~ msgstr "Leyfisleitaskírteini API"
+
+#~ msgid "Licence Key"
+#~ msgstr "Leyfi"
+
+#~ msgid "Licence Email"
+#~ msgstr "License Email"
+
+#~ msgid "Activate"
+#~ msgstr "Virkja"
+
+#~ msgid "Deactive"
+#~ msgstr "Óvirkt"
+
+#~ msgid ""
+#~ "This website uses cookies to improve your experience. We'll assume you're "
+#~ "ok with this, but you can opt-out if you wish.[cookie_button] "
+#~ "[cookie_settings] [cookie_link]"
+#~ msgstr ""
+#~ "Þessi vefsíða notar smákökur til að bæta reynslu þína. Við gerum ráð "
+#~ "fyrir að þú hafir allt í lagi með þetta, en þú getur skráð þig út ef þú "
+#~ "vilt. [Cookie_button] [cookie_settings] [cookie_link]"
+
+#~ msgid "Action is unknown."
+#~ msgstr "Aðgerð"
+
+#~ msgid "Name"
+#~ msgstr "Nafn"
+
+#~ msgid "Category"
+#~ msgstr "Flokkur"
+
+#~ msgid "Key"
+#~ msgstr "Lykill"
+
+#~ msgid "IP Address"
+#~ msgstr "IP Vistfang"
+
+#~ msgid "Visited Date"
+#~ msgstr "heimsótt"
+
+#~ msgid "User ID"
+#~ msgstr "Notandi Nr"
+
+#~ msgid "GDPR Consent History"
+#~ msgstr "Samþykktarsaga GDPR"
+
+#~ msgid "Export Report"
+#~ msgstr "Útflutningsskýrsla"
+
+#~ msgid "Event Logged Successfully"
+#~ msgstr "Atburður Logged tókst"
+
+#~ msgid "Logging is not enabled"
+#~ msgstr "Logging er ekki virk"
+
+#~ msgid "Auto-hide cookie bar after delay?"
+#~ msgstr "Sæktu sjálfkrafa kökuhnapp eftir töf"
+
+#~ msgid "Accept"
+#~ msgstr "Samþykkja"
+
+#~ msgid "Reject"
+#~ msgstr "Hafna"

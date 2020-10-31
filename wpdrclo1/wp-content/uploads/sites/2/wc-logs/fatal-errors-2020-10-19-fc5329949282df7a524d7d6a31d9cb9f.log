@@ -1,0 +1,429 @@
+2020-10-19T07:21:19+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:22:42+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:23:42+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:24:45+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:25:54+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:26:55+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:28:43+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:29:57+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:31:09+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:32:16+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:33:44+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:35:43+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:37:31+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:38:32+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:39:40+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:44:39+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:45:42+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:46:40+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:47:44+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:48:46+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:49:47+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:50:52+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:52:07+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:53:07+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:54:16+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:55:18+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T07:56:35+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:15:16+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:16:17+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:18:03+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:20:10+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:40:56+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:41:56+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:43:02+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:44:02+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:45:23+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:46:29+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:49:37+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+
+2020-10-19T16:51:34+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify(Array)
+#1 /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /home/stranke/drclo.si/wpdrclo1/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/stranke/drclo.si/wpdrclo1/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#5 /home/stranke/drclo.si/wpdrclo1/wp-cron.php(138): do_action_ref_array('monsterinsights...', Array)
+#6 {main}
+  thrown v /home/stranke/drclo.si/wpdrclo1/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php v vrstici 162
+

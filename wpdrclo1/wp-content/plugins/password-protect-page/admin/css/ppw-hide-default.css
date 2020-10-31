@@ -1,0 +1,6 @@
+/**
+Hide feature set password default in WP
+ */
+.editor-post-visibility__dialog-fieldset .editor-post-visibility__choice:nth-child(4), #the-list .inline-edit-col-left .inline-edit-group.wp-clearfix .alignleft:not(.inline-edit-private), #visibility-radio-password, label[for=visibility-radio-password], #post-visibility-select br:nth-child(8), #post-visibility-select br:nth-child(10) {
+    display: none;
+}

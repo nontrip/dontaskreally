@@ -1,0 +1,70 @@
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+	# Pass through Authorization header.
+	<IfModule mod_rewrite.c>
+		RewriteEngine On
+		RewriteCond %{HTTP:Authorization} ^(.*)
+		RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+	</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN HttpHeaders
+# The directives (lines) between `BEGIN HttpHeaders` and `END HttpHeaders` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# END HttpHeaders
+# BEGIN HttpHeadersCompression
+# The directives (lines) between `BEGIN HttpHeadersCompression` and `END HttpHeadersCompression` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# END HttpHeadersCompression
+# BEGIN HttpHeadersContentType
+# The directives (lines) between `BEGIN HttpHeadersContentType` and `END HttpHeadersContentType` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# END HttpHeadersContentType
+# BEGIN HttpHeadersExpires
+# The directives (lines) between `BEGIN HttpHeadersExpires` and `END HttpHeadersExpires` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# END HttpHeadersExpires
+# BEGIN HttpHeadersTiming
+# The directives (lines) between `BEGIN HttpHeadersTiming` and `END HttpHeadersTiming` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# END HttpHeadersTiming
+# BEGIN HttpHeadersAuth
+# The directives (lines) between `BEGIN HttpHeadersAuth` and `END HttpHeadersAuth` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# END HttpHeadersAuth
+# BEGIN HttpHeadersCookieSecurity
+# The directives (lines) between `BEGIN HttpHeadersCookieSecurity` and `END HttpHeadersCookieSecurity` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+# END HttpHeadersCookieSecurity
+# BEGIN WP CERBER GROOVE
+# Protection of admin scripts is enabled (CVE-2018-6389)
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} ^(.*)wp-admin/+load-scripts\.php$ [OR,NC]
+RewriteCond %{REQUEST_URI} ^(.*)wp-admin/+load-styles\.php$ [NC]
+RewriteCond %{HTTP_COOKIE} !cerber_groove_x_GLKrJUoBnku5shXcaACzq2RdSZixg=kL4FvTUCdPMs3JiczreY1KaOu0QDy2
+RewriteRule (.*) - [R=403,L]
+</IfModule>
+# END WP CERBER GROOVE

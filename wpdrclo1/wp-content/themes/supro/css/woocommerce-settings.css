@@ -1,0 +1,11 @@
+._supro_custom_badges_bg_field .wp-picker-input-wrap label,
+._supro_custom_badges_color_field .wp-picker-input-wrap label {
+	float: none;
+	margin: 0;
+	width: 100px;
+}
+
+._supro_custom_badges_bg_field .wp-picker-input-wrap label input,
+._supro_custom_badges_color_field .wp-picker-input-wrap label input {
+	width: 100% !important;
+}

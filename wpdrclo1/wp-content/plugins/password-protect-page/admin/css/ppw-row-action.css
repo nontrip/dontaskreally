@@ -1,0 +1,22 @@
+.ppw-badge-protection {
+    padding: 0.1rem 0.4rem;
+    color: white;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.ppw-badge-protection i.dashicons {
+    font-size: 14px;
+    margin-left: -2px;
+    line-height: 18px;
+    width: auto;
+    height: auto;
+}
+
+.ppw_unprotected_color {
+    background-color: #D6D6D6;
+}
+
+.ppw_protected_color {
+    background-color: #ff8935;
+}

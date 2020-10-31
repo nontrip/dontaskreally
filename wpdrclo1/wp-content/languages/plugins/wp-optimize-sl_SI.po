@@ -1,0 +1,188 @@
+# Translation of Plugins - WP-Optimize &#8211; Clean, Compress, Cache. - Stable (latest release) in Slovenian
+# This file is distributed under the same license as the Plugins - WP-Optimize &#8211; Clean, Compress, Cache. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-16 09:41:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: sl_SI\n"
+"Project-Id-Version: Plugins - WP-Optimize &#8211; Clean, Compress, Cache. - Stable (latest release)\n"
+
+#: wp-optimize.php:1549
+msgid "Automatic Operation Completed"
+msgstr "Samodejna Operacija Zaključena"
+
+#: wp-optimize.php:1551
+msgid "Scheduled optimization was executed at"
+msgstr "Nastavljena optimizacija je bila izvršena ob"
+
+#: wp-optimize.php:1552
+msgid "You can safely delete this email."
+msgstr "Ta email lahko varno izbrišete."
+
+#: wp-optimize.php:1554
+msgid "Regards,"
+msgstr "Pozdrav,"
+
+#: wp-optimize.php:1555
+msgid "WP-Optimize Plugin"
+msgstr "WP-Optimize Vtičnik"
+
+#: wp-optimize.php:1080
+#: templates/settings/settings-trackback-and-comments.php:13
+#: templates/settings/settings-trackback-and-comments.php:29
+#: templates/cache/gzip-compression.php:42 templates/cache/browser-cache.php:32
+msgid "Enable"
+msgstr "Omogoči"
+
+#: wp-optimize.php:1081
+#: templates/settings/settings-trackback-and-comments.php:15
+#: templates/settings/settings-trackback-and-comments.php:31
+#: templates/cache/gzip-compression.php:42
+msgid "Disable"
+msgstr "Onemogoči"
+
+#: wp-optimize.php:1585
+msgid "KB"
+msgstr "KB"
+
+#: wp-optimize.php:1583
+msgid "MB"
+msgstr "MB"
+
+#: wp-optimize.php:1581
+msgid "GB"
+msgstr "GB"
+
+#: optimizations/revisions.php:154 optimizations/revisions.php:159
+msgid "Clean all post revisions"
+msgstr "Izbriši vse revizije objav"
+
+#: optimizations/unapproved.php:160 optimizations/unapproved.php:165
+msgid "Remove unapproved comments"
+msgstr "Odstranite nepotrjene komentarje"
+
+#: optimizations/pingbacks.php:131
+msgid "Remove pingbacks"
+msgstr "Odstranite pingbacks"
+
+#: optimizations/trackbacks.php:125
+msgid "Remove trackbacks"
+msgstr "Odstranite trackbacks"
+
+#: templates/database/tables.php:36 templates/database/tables-body.php:83
+#: templates/database/tables-body.php:112
+#: templates/settings/settings-logging.php:25
+msgid "Actions"
+msgstr "Akcije"
+
+#: optimizations/optimizetables.php:140 optimizations/optimizetables.php:144
+msgid "Optimize database tables"
+msgstr "Optimizirajte tabele podatkovne baze"
+
+#: templates/database/optimize-table.php:55
+msgid "Warning:"
+msgstr "Opozorilo:"
+
+#: templates/database/status-box-contents.php:71
+msgid "Refresh"
+msgstr "Osveži"
+
+#: templates/database/status-box-contents.php:75
+msgid "Scheduled cleaning disabled"
+msgstr "Čiščenje po urniku je onemogočeno"
+
+#: templates/database/status-box-contents.php:85
+msgid "Not keeping recent data"
+msgstr "Ne ohrani trenutnih podatkov"
+
+#: templates/database/settings-auto-cleanup.php:22
+msgid "Select schedule type (default is Weekly)"
+msgstr "Izberite tip urnika (privzeto je tedensko)"
+
+#: optimizations/postmeta.php:131
+msgid "Remove orphaned post meta"
+msgstr "Odstrani osirotele post meta"
+
+#: optimizations/inactive-tags.php:21
+msgid "Remove unused tags"
+msgstr "Odstranite neuporabljene oznake"
+
+#: templates/database/tables.php:13
+msgid "Optimized all the tables found in the database."
+msgstr "Optimizirane so vse tabele v podatkovni bazi."
+
+#: templates/database/tables.php:29 templates/database/tables-body.php:26
+msgid "No."
+msgstr "Št."
+
+#: templates/database/tables.php:31 templates/database/tables-body.php:57
+msgid "Records"
+msgstr "Zapisi"
+
+#: templates/database/tables.php:32 templates/database/tables-body.php:58
+msgid "Data Size"
+msgstr "Velikost Podatkov"
+
+#: templates/database/tables.php:33 templates/database/tables-body.php:59
+msgid "Index Size"
+msgstr "Velikost indeksa"
+
+#: templates/database/tables.php:34 templates/database/tables-body.php:62
+#: templates/database/tables-body.php:75
+msgid "Type"
+msgstr "Tip"
+
+#: templates/database/tables.php:35 templates/database/tables-body.php:64
+#: templates/database/tables-body.php:76
+msgid "Overhead"
+msgstr "Predhodno"
+
+#: templates/database/tables-body.php:98
+msgid "Total:"
+msgstr "Skupaj:"
+
+#: wp-optimize.php:681 wp-optimize.php:700 wp-optimize.php:705
+#: wp-optimize.php:1172 wp-optimize.php:1407 wp-optimize.php:1408
+#: templates/minify/status-tab.php:96 templates/minify/status-tab.php:118
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: wp-optimize.php:1587 minify/class-wp-optimize-minify-functions.php:953
+msgid "bytes"
+msgstr "bajtov"
+
+#: optimizations/transient.php:161 optimizations/transient.php:388
+msgid "No transient options found"
+msgstr "Prehodne opcije niso bile najdene"
+
+#: optimizations/revisions.php:70 optimizations/revisions.php:121
+msgid "No post revisions found"
+msgstr "Ni bilo najdenih revizij objav"
+
+#: optimizations/autodraft.php:74 optimizations/autodraft.php:126
+msgid "No auto draft posts found"
+msgstr "Ni bilo najdenih samodejnih osnutkov v vaši podatkovni bazi"
+
+#: optimizations/spam.php:178 optimizations/spam.php:191
+msgid "Review"
+msgstr "Osnutek"
+
+#: optimizations/spam.php:182
+msgid "No spam comments found"
+msgstr "Ni najdenih nezaželenih komentarjev"
+
+#: optimizations/unapproved.php:73 optimizations/unapproved.php:126
+msgid "No unapproved comments found"
+msgstr "Ni najdenih nepotrjenih komentarjev"
+
+#: optimizations/pingbacks.php:59 optimizations/pingbacks.php:105
+msgid "No pingbacks found"
+msgstr "Ni najdenih pingback"
+
+#: optimizations/trackbacks.php:60 optimizations/trackbacks.php:107
+msgid "No trackbacks found"
+msgstr "Ni najdenih Trackback"
